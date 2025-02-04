@@ -1,0 +1,112 @@
+﻿# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: xunpin
+  name: 勳拼
+  version: "1.0"
+  author:
+    - Tinbreaker
+  description: |
+    本輸入法基於小萱羅馬字改造，採用龔勳擬音輸入西夏文，羅馬字後無符號表是平聲，後加x表示上聲。
+  dependencies:
+    - stroke
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 蕃文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  # - name: simplification
+  #   states: [ 漢字, 汉字 ]
+  # - name: extended_charset
+  #   states: [ 常用, 增廣 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+    # - simplifier
+    - uniquifier
+    - single_char_filter
+
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcba-;/<,>\1234567890'
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " ;'"
+ 
+
+translator:
+  dictionary: xunpin
+  enable_charset_filter: true
+  enable_sentence: true
+  enable_encoder: false
+  encode_commit_history: true
+  max_phrase_length: 8
+  # preedit_format:
+  #   - xform/^([a-z]*)$/$1｜\U$1\E/
+  #   - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  # comment_format:
+  #   - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
+  # disable_user_dict_for_patterns:
+  #   - "^z.*$"
+  #   - "^yyy.*$"
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup  # 與拼音（反查碼）混打
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+
+simplifier:
+  tips: all  # 簡化字模式下提示對應的傳統漢字
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/[0-9]*[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"
+
+style:
+  font_face: "tangut N4694"
+  font_point: 30 #字號
+menu:
+ 
+
+  page_size: 5 #選單每䈎顯示個數
