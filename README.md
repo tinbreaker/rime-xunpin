@@ -16,6 +16,34 @@ Xunpin is a phonetic input method designed for typing Tangut characters. It uses
   - x后缀 = 上声 / Suffix x = rising tone
 - 支持全角/半角切换 / Supports full/half-width character switching
 - 支持中英文标点切换 / Supports Chinese/English punctuation switching
+- 支持笔画输入
+- 支持四角号码输入
+
+## 拼音说明 / Pinyin Description
+
+- `tj` = `tś`
+- `tjh` = `tśh`
+- `dj` = `dź`
+- `sj` = `ś`
+- `zj` = `ź`
+- `tr` = `tṣ`
+- `trh` = `tṣh`
+- `dr` = `dẓ`
+- `sr` = `ṣ`
+- `zr` = `ẓ`
+- `nr` = `ṇ`
+- `gh` = `γ`
+- `gg` = `ġ`
+- `ng` = `ŋ`
+- `m` = `ṃ`
+- `y` = `ə`
+- `aa` = `a̱`
+- `ii` = `i̱`
+- `uu` = `u̱`
+- `ee` = `e̱`
+- `oo` = `o̱`
+- `yy` = `ə̠`
+- 卷舌音 / Rolled R: `-r`：不出现在声母 / Not found in initial
 
 ## 使用方法 / Usage
 
