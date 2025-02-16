@@ -3295,7 +3295,7 @@ min_phrase_weight: 100
 𗣣	tshi
 𗣶	gy
 𗥿	pahx
-𗥚	zihx
+𗥚	zwihx
 𗥷	nlaa
 𗧕	lux
 𗥰	lax
@@ -9711,7 +9711,12 @@ min_phrase_weight: 100
 𗓚𗞔	maaxsja
 𗓚𗥺	maaxngngwyy
 𗓚𗧿	maaxmiix
+𗓚𗶴	maaxhaa
 𗓚𘁽	maaxnsjwix
+𗓚𘄽	maaxngaahx
+𗓚𘄽𗖚𗸢	maaxngaahxsaaxtwaa
+𗓚𘄽𗠰𗣧	maaxngaahxthiphoo
+𗓚𘄽𘏞𗓽	maaxngaahxpooloo
 𗓚𘊴	maaxthuu
 𗓛𗑻	nrwyyxghaah
 𗓛𗝠	nrwyyxsi
@@ -9779,6 +9784,7 @@ min_phrase_weight: 100
 𗓽𗰹	lootsoomx
 𗓽𗱔	loohaam
 𗓽𗱔𘈒𘐆	loohaamdzexlaa
+𗓽𗽇	lootrhaaa
 𗓽𗿖	loongngaaax
 𗓽𘁂	looyax
 𗓽𘊴	loothuu
@@ -10207,6 +10213,7 @@ min_phrase_weight: 100
 𗕸𘋺𗘼	tjhomsruonggu
 𗕸𘕘	tjhomtsyy
 𗕹𘈧	tahndee
+𗕹𘝮	tahllwuuh
 𗕺𗢸	ngngwuuxllawx
 𗕺𘒣	ngngwuuxdaahx
 𗕼𗃍	luxngaa
@@ -10294,6 +10301,7 @@ min_phrase_weight: 100
 𗖖𘖉	nyhkhex
 𗖘𘝇	nwoxnsjwix
 𗖚𗖚	saaxsaax
+𗖚𗸢	saaxtwaa
 𗖚𗹳	saaxdjex
 𗖚𘎆	saaxdjwy
 𗖚𘎪	saaxntshe
@@ -11489,6 +11497,7 @@ min_phrase_weight: 100
 𗟥𘏄	tehtih
 𗟦𗍵	maamtrwaaa
 𗟦𘃕𘁂	maamndayax
+𗟦𘜲	maamsju
 𗟦𘞐	maamnsju
 𗟦𘞐𗃵	maamnsjupuhx
 𗟦𘞐𗦻𘞌𗒘	maamnsjummexzjyrghaee
@@ -11774,6 +11783,7 @@ min_phrase_weight: 100
 𗡛𗒞	lixnnaax
 𗡝𗑌	kaqaee
 𗡝𗑙	kaghaam
+𗡝𗜪𗓽	kaliiwloo
 𗡝𗤛	katjom
 𗡝𗷲	kagim
 𗡝𘈫	kaghuux
@@ -12307,6 +12317,7 @@ min_phrase_weight: 100
 𗣼𗯮	tjhaxnthwuu
 𗣼𗳆	tjhaxlhyyx
 𗣼𗳦	tjhaxqaa
+𗣼𗳦𗫨	tjhaxqaadwiiwrx
 𗣼𗴀	tjhaxsoox
 𗣼𗴢	tjhaxmbu
 𗣼𗵘	tjhaxtja
@@ -12943,12 +12954,12 @@ min_phrase_weight: 100
 𗥖𘐠	twyngwoox
 𗥗𗁆	phyybeh
 𗥙𘆼	tshaamqwaeex
-𗥚𗳩	zihxghoo
-𗥚𗳩𗣆𘄄	zihxghootshaxzi
-𗥚𗳩𗪃𗪺𘟪	zihxghoothuughaiisjom
-𗥚𗳩𘀄𘓄𗘂	zihxghoongguxrurkhwy
-𗥚𗳩𘀄𘓄𗩴	zihxghoongguxrurnniiwx
-𗥚𘐝	zihxsraeem
+𗥚𗳩	zwihxghoo
+𗥚𗳩𗣆𘄄	zwihxghootshaxzi
+𗥚𗳩𗪃𗪺𘟪	zwihxghoothuughaiisjom
+𗥚𗳩𘀄𘓄𗘂	zwihxghoongguxrurkhwy
+𗥚𗳩𘀄𘓄𗩴	zwihxghoongguxrurnniiwx
+𗥚𘐝	zwihxsraeem
 𗥛𗁮	ryrtjhi
 𗥛𗄵	ryrghwaeem
 𗥛𗏨	ryrghuur
@@ -13146,6 +13157,7 @@ min_phrase_weight: 100
 𗥻𘔺	phaiikhix
 𗥼𗁀	aqoo
 𗥼𗐕	apex
+𗥼𗓰𗁬	anaathoom
 𗥼𗬐𗁀	asyyqoo
 𗥼𗲬	angqaaax
 𗥼𗳳	asrayy
@@ -13504,6 +13516,7 @@ min_phrase_weight: 100
 𗧟𗈙	nzjyntju
 𗧠𗐯	qaeehxqaeehx
 𗧠𘟠	qaeehxdzuu
+𗧢𗪌	dyxkwyr
 𗧣𘌫	naaraarx
 𗧤𗅭	phangiiwr
 𗧤𗍣	phabax
@@ -13946,6 +13959,7 @@ min_phrase_weight: 100
 𗩾𗹭	zixbex
 𗩾𗿒	zixqhweex
 𗩾𘂤	zixqhaa
+𗩾𘃪	zixdjwa
 𗩾𘓋	zixlomx
 𗩿𗁍	sixbu
 𗩿𗁍𗫔𗫉	sixbuyimbaee
@@ -15121,6 +15135,7 @@ min_phrase_weight: 100
 𗰗𗤒	ghaahxkiw
 𗰗𗥃	ghaahxllyr
 𗰗𗥃𗡪	ghaahxllyrtsiiwx
+𗰗𗫸𗲄𗧤𘆄𗥃𗴮	ghaahxyihxtrhaoomphanyxllyrdeh
 𗰗𗭞	ghaahxbix
 𗰗𗰚	ghaahxnlly
 𗰗𗰧	ghaahxlhomx
@@ -15367,6 +15382,7 @@ min_phrase_weight: 100
 𗱡𗇊𗹏𗘦𗫉	zjwuxthexdoomdjembaee
 𗱡𗋽	zjwuxzyrx
 𗱡𗻌𗻓	zjwuxtshyyyoomx
+𗱢𘚔	nammex
 𗱣𗕓	nvidihx
 𗱣𘓐	nvidzwox
 𗱦𗱞	qyylaam
@@ -15689,6 +15705,7 @@ min_phrase_weight: 100
 𗳺𗬙	thaxtjhux
 𗳺𗯩	thaxtwuuh
 𗳺𘋕	thaxhoo
+𗳻𗌡	tjathaam
 𗳻𗌡𗝠	tjathaamsi
 𗳻𗍠	tjakhim
 𗳻𘍨	tjahi
@@ -16570,7 +16587,7 @@ min_phrase_weight: 100
 𗸰𗾎	toomkwi
 𗸰𘅧	toomkwi
 𗸱𗖸	nooxngngwuu
-𗸱𗥚	nooxzihx
+𗸱𗥚	nooxzwihx
 𗸱𗸩	nooxleh
 𗸱𘙫	nooxsjohx
 𗸳𗿦	laamma
@@ -18125,6 +18142,7 @@ min_phrase_weight: 100
 𘀍𗣊	naxmix
 𘀍𘉑	naxmy
 𘀍𘓁	naxllyh
+𘀎𗤼	muurnaa
 𘀎𘙦	muursex
 𘀏𗂓	puutiiw
 𘀏𗃑	puutiiw
@@ -18760,6 +18778,7 @@ min_phrase_weight: 100
 𘄏𗔫	djuxduh
 𘄑𗏖	baahxrerx
 𘄑𘎆	baahxdjwy
+𘄒𗎀𗓽	paaxtjaloo
 𘄒𗖍	paaxnla
 𘄒𘎑	paaxzjax
 𘄔𗃇	paeemxla
@@ -20140,8 +20159,10 @@ min_phrase_weight: 100
 𘋅𗥑𗴋𗚿𘝞	saamhuukwamliwxywyrx
 𘋅𗥻𗁡	saamphaiiphi
 𘋅𗨩	saampaa
+𘋅𗴥	saammiwx
 𘋅𗵸	saamhe
 𘋅𘍑𗥤𗙢	saamlemtsexvwaamx
+𘋅𘏞𘛛	saampootem
 𘋅𘒘𘐆	saampaaamlaa
 𘋅𘓖	saamqoom
 𘋅𘚥	saamlux
@@ -20717,7 +20738,7 @@ min_phrase_weight: 100
 𘎳𗏡	nvwiiquuh
 𘎳𗢋	nvwiidjex
 𘎳𗤈	nvwiinggi
-𘎳𗥚	nvwiizihx
+𘎳𗥚	nvwiizwihx
 𘎳𗸲	nvwiizurx
 𘎳𗾞	nvwiinnyx
 𘎳𘔴	nvwiidux
@@ -20831,6 +20852,7 @@ min_phrase_weight: 100
 𘏞𗬐	poosyy
 𘏞𘛛	pootem
 𘏞𘛛𘈬𗦺	pootemndexphaam
+𘏞𘛣𘏞𗠰	poosjapoothi
 𘏠𗆛	tsohxsaax
 𘏡𗀋	ngqhaeephaoox
 𘏡𗍍	ngqhaeetsiir
@@ -22164,7 +22186,7 @@ min_phrase_weight: 100
 𘔴𗆧	duxsiw
 𘔴𗢋	duxdjex
 𘔴𗣓	duxggaii
-𘔴𗥚	duxzihx
+𘔴𗥚	duxzwihx
 𘔴𗼑	duxlhihx
 𘔴𘜍	duxyawrx
 𘔴𘞵	duxdza
@@ -23334,6 +23356,7 @@ min_phrase_weight: 100
 𘛡𘃡𗼈𗵰	djihvinahtih
 𘛢𗩈	mermbux
 𘛢𘓐	merdzwox
+𘛣𗓡	sjarirx
 𘛣𗝉	sjavwaahx
 𘛣𘝿	sjalix
 𘛥𗌻	ruryaarx
@@ -23842,6 +23865,8 @@ min_phrase_weight: 100
 𘝯𗸸	mbaoonthu
 𘝰𗉔	gimtjiw
 𘝳𗣌	myxmix
+𘝳𗥔	myxnlhiiwx
+𘝳𗥔𘀄	myxnlhiiwxnggux
 𘝳𘑰	myxdwiiwrx
 𘝵𗁅	yellaah
 𘝵𗁦	yebeh
@@ -24206,6 +24231,8 @@ min_phrase_weight: 100
 𘟙𘜶	nexllehx
 𘟛𗂅	zjyrmerx
 𘟛𗃻	zjyrnyhx
+𘟛𗗚	zjyrngaoomx
+𘟛𗠁	zjyrmbuux
 𘟞𗂍𗮮𗰸	byrnlhinnixkhwy
 𘟞𗏴	byrdju
 𘟞𗜈	byrzoomx
@@ -24327,19 +24354,15 @@ min_phrase_weight: 100
 𘟫𗜈	ghaahzoomx
 𘟫𗜓	ghaahsjax
 𘟫𗥦	ghaahghuu
-𘟫𗳒𗜍	ghaahngwuuxsa
-𘟫𗳒𘗐𗜍	ghaahngwuuxdexsa
 𘟫𗾤	ghaahghu
 𘟫𗾾	ghaahrirx
 𘟫𗿒	ghaahqhweex
 𘟫𘉀	ghaahtser
 𘟫𘉡	ghaahpuh
 𘟫𘓓	ghaahnvwyy
-𘟫𘖗	ghaahdjy
 𘟫𘗁	ghaahdjax
 𘟫𘝋	ghaahdzwyx
 𘟫𘝦	ghaahdjy
-𘟬𗜈	vihzoomx
 𘟬𗥦	vihghuu
 𘟬𘇛	vihpemh
 𘟮𘟯	----
