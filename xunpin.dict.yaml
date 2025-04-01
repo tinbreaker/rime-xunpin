@@ -449,8 +449,8 @@ min_phrase_weight: 100
 𗖴	kiwrx
 𗖰	lwyyrx
 𗗄	lux
-𗉁	ġhaiih
-𗉂	ġhaiih
+𗉁	gghaiih
+𗉂	gghaiih
 𗖶	swy
 𘗼	qhaeem
 𘙲	djo
@@ -655,7 +655,7 @@ min_phrase_weight: 100
 𘚗	loomx
 𘄈	woox
 𗸣	tyy
-𘑨	ġhwuuhx
+𘑨	gghwuuhx
 𘒤	liix
 𘒼	naarx
 𘆨	tix
@@ -799,7 +799,7 @@ min_phrase_weight: 100
 𘈛	thwoo
 𘈗	qaam
 𗰏	mex
-𗍀	ġhuux
+𗍀	gghuux
 𘅃	ngaahx
 𘅒	llah
 𘅬	thy
@@ -876,16 +876,16 @@ min_phrase_weight: 100
 𗳝	woo
 𘗰	diiwx
 𘄙	tje
-𘅰	ġhuu
+𘅰	gghuu
 𘅥	tsuur
 𘅮	tsoomr
 𘈮	draeem
 𗘜	nggax
-𘄧	ġhaaax
+𘄧	gghaaax
 𘘂	djo
 𘅷	nerx
 𘅚	deem
-𘈆	ġhoor
+𘈆	gghoor
 𗟯	tjhox
 𘅹	nerx
 𘙍	lhuh
@@ -908,7 +908,7 @@ min_phrase_weight: 100
 𘔌	djehx
 𗉥	gwe
 𗖩	llih
-𗖯	ġhaaax
+𗖯	gghaaax
 𗶝	lu
 𘞱	vix
 𗇻	nraeemx
@@ -928,7 +928,7 @@ min_phrase_weight: 100
 𘔣	nthaa
 𗈢	tshuu
 𗷜	dihx
-𗷟	ġhaamx
+𗷟	gghaamx
 𗈍	tsa
 𗕧	dwuux
 𗕰	nlhi
@@ -974,7 +974,7 @@ min_phrase_weight: 100
 𗱼	qhwaa
 𗙚	phim
 𗰡	qaax
-𗰩	ġhwoomh
+𗰩	gghwoomh
 𗇹	qaaam
 𗕑	khyx
 𗕠	qhoo
@@ -991,7 +991,7 @@ min_phrase_weight: 100
 𗇯	daax
 𗱶	duu
 𗲍	lloor
-𘔮	ġhwaarx
+𘔮	gghwaarx
 𘔩	dwyyrx
 𘆳	mbaii
 𘆲	tshwuu
@@ -1005,7 +1005,7 @@ min_phrase_weight: 100
 𗇽	dzuhx
 𘓉	lhiiw
 𘆐	--
-𗱘	ġhayyr
+𗱘	gghayyr
 𗱛	myyx
 𗰔	yiwx
 𘘚	ndzex
@@ -1020,7 +1020,7 @@ min_phrase_weight: 100
 𗙐	siix
 𗙇	ziiwx
 𗙟	ngggeex
-𗙑	ġhaiihx
+𗙑	gghaiihx
 𗰠	nsraii
 𗰣	zeh
 𘄀	tju
@@ -1066,7 +1066,7 @@ min_phrase_weight: 100
 𘆭	llihx
 𘒦	thu
 𘗩	tju
-𘇃	ġhwuuhx
+𘇃	gghwuuhx
 𘈡	qhaoom
 𗘦	dje
 𗱏	puu
@@ -1094,7 +1094,7 @@ min_phrase_weight: 100
 𗙆	haaa
 𗎁	rirx
 𗙮	tjhwy
-𗰗	ġhaahx
+𗰗	gghaahx
 𘄄	zi
 𘒃	luu
 𘘝	ndzex
@@ -1139,7 +1139,7 @@ min_phrase_weight: 100
 𗰧	lhomx
 𗕩	llwuh
 𗘾	qwyyx
-𗙉	ġhaar
+𗙉	gghaar
 𘒢	me
 𗶗	tjohx
 𘑧	siiw
@@ -1266,7 +1266,7 @@ min_phrase_weight: 100
 𗱑	tjiwx
 𗲳	djwyr
 𘒄	trhaoo
-𗶆	ġhwaa
+𗶆	gghwaa
 𗸪	yar
 𗸰	toom
 𗉋	traoom
@@ -1363,7 +1363,7 @@ min_phrase_weight: 100
 𗉕	tjyrx
 𗎟	nthaar
 𗚀	tjo
-𘄘	ġhaoom
+𘄘	gghaoom
 𗡩	hwii
 𗶅	trauuh
 𘄿	te
@@ -1389,7 +1389,7 @@ min_phrase_weight: 100
 𗘅	gu
 𗎣	paoom
 𗈣	kiwrx
-𗕱	ġhaii
+𗕱	gghaii
 𗱺	mmeex
 𗲧	mmeex
 𗍙	vwiix
@@ -1515,13 +1515,13 @@ min_phrase_weight: 100
 𗇞	qhoom
 𗱔	haam
 𘒕	ntoox
-𗕶	ġhaahx
+𗕶	gghaahx
 𗴩	syh
 𗈽	pii
 𗖠	ngweex
 𘒚	bee
 𗖉	thoomh
-𘒈	ġhuu
+𘒈	gghuu
 𗖨	riir
 𘒛	mbaa
 𗴍	toom
@@ -1530,8 +1530,8 @@ min_phrase_weight: 100
 𗖅	swix
 𗈄	nnyx
 𗱗	tjeh
-𘆒	ġhuu
-𗖱	ġhwuux
+𘆒	gghuu
+𗖱	gghwuux
 𗉊	djwe
 𗗇	gu
 𗖪	lhoomrx
@@ -1551,7 +1551,7 @@ min_phrase_weight: 100
 𗗌	ggoo
 𗖲	lhu
 𗲅	trhwaeem
-𗗃	ġhwuhx
+𗗃	gghwuhx
 𘙸	laoo
 𗌭	quu
 𗌮	mor
@@ -1597,7 +1597,7 @@ min_phrase_weight: 100
 𘞜	thwaamx
 𗃓	tiiw
 𗷣	djwu
-𗙏	ġhaiihx
+𗙏	gghaiihx
 𗹅	khiwx
 𗎂	tja
 𗘣	yyr
@@ -1620,9 +1620,9 @@ min_phrase_weight: 100
 𘆶	sux
 𘒽	khwar
 𘙰	liiwx
-𘇍	ġhwuuhx
+𘇍	gghwuuhx
 𘙨	soomx
-𘜛	ġhwee
+𘜛	gghwee
 𗗗	nye
 𗙦	djim
 𗠂	riirx
@@ -1691,7 +1691,7 @@ min_phrase_weight: 100
 𘘖	llihx
 𘔖	nex
 𘘵	soom
-𘙄	ġhwaeemx
+𘙄	gghwaeemx
 𘚙	pyyh
 𗉬	gwe
 𗚂	sox
@@ -1715,7 +1715,7 @@ min_phrase_weight: 100
 𗟰	lhwi
 𗘚	tshwu
 𗘓	hu
-𗸝	ġhoom
+𗸝	gghoom
 𗸜	qhwyy
 𗍇	sjuo
 𗗲	qhaiihx
@@ -1816,7 +1816,7 @@ min_phrase_weight: 100
 𘜊	phar
 𗷿	ma
 𗸄	ni
-𘆋	ġhwoomh
+𘆋	gghwoomh
 𘑰	dwiiwrx
 𗸉	draeem
 𘘎	tswyyr
@@ -1873,7 +1873,7 @@ min_phrase_weight: 100
 𘙃	yy
 𘝉	--
 𗉖	tshem
-𗉞	ġhuu
+𗉞	gghuu
 𘈪	ta
 𗶇	diih
 𘅅	duh
@@ -1934,7 +1934,7 @@ min_phrase_weight: 100
 𗁝	giw
 𗁸	siix
 𗁷	qhaaa
-𗂄	ġhwaa
+𗂄	gghwaa
 𗂵	mphaaax
 𗁍	bu
 𗂥	nex
@@ -2073,7 +2073,7 @@ min_phrase_weight: 100
 𘉳	lhihx
 𘉶	tsyr
 𗐄	paeemhx
-𗬋	ġhwee
+𗬋	gghwee
 𗢬	dziw
 𗢵	vwoor
 𗣊	mix
@@ -2103,18 +2103,18 @@ min_phrase_weight: 100
 𗣽	lix
 𗦇	lliiwx
 𗩾	zjix
-𗨹	ġhyyh
+𗨹	gghyyh
 𗧲	liiwx
 𗫖	ywim
 𗥲	piimx
-𗨋	ġhwyyx
+𗨋	gghwyyx
 𗨒	riirx
 𗧓	ngaax
 𗩘	noox
 𗨓	saa
 𗪽	buur
 𗩤	bix
-𗪟	ġhuu
+𗪟	gghuu
 𗪘	sji
 𗩭	tjom
 𘊓	laa
@@ -2133,7 +2133,7 @@ min_phrase_weight: 100
 𗦨	nr-
 𗦰	sraaar
 𗽥	gurx
-𗽪	ġhweex
+𗽪	gghweex
 𗨔	niiw
 𗪁	gix
 𗧈	swy
@@ -2156,10 +2156,10 @@ min_phrase_weight: 100
 𗺘	yiwx
 𗏼	nwy
 𗣓	ggaii
-𗼷	ġhaa
+𗼷	gghaa
 𗾻	tshwuux
 𗺪	rur
-𗻸	ġhaa
+𗻸	gghaa
 𗏴	dju
 𗥮	kurx
 𗪭	ndyy
@@ -2179,7 +2179,7 @@ min_phrase_weight: 100
 𗿋	boox
 𗻂	ndex
 𗻢	tshiiwx
-𗻭	ġhaa
+𗻭	gghaa
 𗻞	gux
 𗻕	nsraaax
 𗏤	thax
@@ -2228,7 +2228,7 @@ min_phrase_weight: 100
 𗤆	lyx
 𗣾	gyx
 𗤖	teh
-𗨸	ġhayy
+𗨸	gghayy
 𗼴	lleh
 𘊐	ke
 𗏳	kawrx
@@ -2294,9 +2294,9 @@ min_phrase_weight: 100
 𗺫	byyx
 𗻘	tshax
 𗧻	djy
-𗏉	ġhuur
+𗏉	gghuur
 𗣑	duux
-𗽂	ġhiiw
+𗽂	gghiiw
 𗩂	merx
 𗏬	qoor
 𗿺	nnu
@@ -2308,7 +2308,7 @@ min_phrase_weight: 100
 𗣙	thiiw
 𗤈	nggi
 𗥍	guhx
-𗟝	ġhaee
+𗟝	gghaee
 𘜦	ywyr
 𘜦	ywyr
 𘉩	liwx
@@ -2331,9 +2331,9 @@ min_phrase_weight: 100
 𗬯	qwyyx
 𗬱	zju
 𗃩	gex
-𗴐	ġhaar
+𗴐	gghaar
 𘓒	tjyrx
-𘓠	ġhaa
+𘓠	gghaa
 𘓓	nvwyy
 𘓏	rur
 𘓔	myhx
@@ -2348,7 +2348,7 @@ min_phrase_weight: 100
 𗃝	bu
 𗼆	sjom
 𗼔	tjhox
-𗼜	ġhaiix
+𗼜	gghaiix
 𗼣	ghyr
 𗼨	ngwiix
 𗼤	vwoom
@@ -2498,7 +2498,7 @@ min_phrase_weight: 100
 𘔼	nuo
 𘊘	paeemhx
 𗦕	trhaaam
-𗪝	ġhwaeeh
+𗪝	gghwaeeh
 𗏥	nllux
 𗏲	pheex
 𗣢	dziw
@@ -2527,8 +2527,8 @@ min_phrase_weight: 100
 𗏹	yux
 𗪞	yu
 𗪔	loomx
-𗦁	ġhaiihx
-𗺯	ġhuux
+𗦁	gghaiihx
+𗺯	gghuux
 𗤶	nne
 𗾪	nawx
 𗟜	dzyr
@@ -2692,7 +2692,7 @@ min_phrase_weight: 100
 𗻈	puu
 𗫡	nyx
 𗩌	nlhu
-𗏨	ġhuur
+𗏨	gghuur
 𗥶	lux
 𗧝	mox
 𗩣	sjuh
@@ -2761,8 +2761,8 @@ min_phrase_weight: 100
 𗥉	ndeex
 𗣼	tjhax
 𗤝	tji
-𗥦	ġhuu
-𗦯	ġhuu
+𗥦	gghuu
+𗦯	gghuu
 𗥳	llihx
 𗥔	nlhiiwx
 𗧏	tjho
@@ -2774,11 +2774,11 @@ min_phrase_weight: 100
 𗾳	tjo
 𗿎	liiwx
 𗿪	sax
-𗪠	ġhuu
+𗪠	gghuu
 𗪙	muur
 𗽫	nwe
 𗿇	kiwr
-𗿵	ġhaa
+𗿵	gghaa
 𘊗	kiwr
 𗏶	pho
 𗥹	loox
@@ -2825,7 +2825,7 @@ min_phrase_weight: 100
 𘚩	qhaee
 𘚷	ly
 𘓡	rur
-𗼙	ġhuux
+𗼙	gghuux
 𗼑	lhihx
 𗼒	qhuu
 𗼝	lo
@@ -2908,7 +2908,7 @@ min_phrase_weight: 100
 𗿒	qhweex
 𘊡	luux
 𘚲	ly
-𘓑	ġhwaaam
+𘓑	gghwaaam
 𗬲	ndaaax
 𗃯	dy
 𗴣	vwyyr
@@ -3037,13 +3037,13 @@ min_phrase_weight: 100
 𘉥	djaw
 𘉦	djaw
 𗘰	mbaaax
-𗉼	ġhaa
+𗉼	gghaa
 𗊺	haax
 𗌀	haax
 𗉸	hoomx
 𗊬	quuhx
 𗌏	yurx
-𗢎	ġhaar
+𗢎	gghaar
 𘉪	nwox
 𗊋	tsix
 𘚁	vwiih
@@ -3091,13 +3091,13 @@ min_phrase_weight: 100
 𗋫	tiiw
 𗋃	si
 𗢒	dzuux
-𗋇	ghu
+𗋇	γu
 𗋅	lwuu
 𘉱	nsjiw
 𗋛	nwyh
 𘉾	veh
 𗌪	lwy
-𗐔	ġhaarx
+𗐔	gghaarx
 𗊒	pah
 𗊣	quuhx
 𗘱	ngngwuu
@@ -3136,7 +3136,7 @@ min_phrase_weight: 100
 𗫔	yi
 𗣹	tsix
 𗤹	ghu
-𗽌	ġhaeemhx
+𗽌	gghaeemhx
 𗫛	llihx
 𗧸	zehx
 𘔽	nuo
@@ -3183,7 +3183,7 @@ min_phrase_weight: 100
 𗻩	ziimx
 𗢹	yy
 𗩫	mmy
-𗽟	ġhweex
+𗽟	gghweex
 𗿜	tjhi
 𗿭	mmy
 𗫣	mpaa
@@ -3211,7 +3211,7 @@ min_phrase_weight: 100
 𗣷	lhyy
 𗣃	gwix
 𗧙	llyx
-𗨫	ġhuux
+𗨫	gghuux
 𗧔	lluuh
 𗩶	tjhwem
 𗤁	tjhiw
@@ -3239,7 +3239,7 @@ min_phrase_weight: 100
 𗥘	llaiih
 𗽋	dzoom
 𗾴	buux
-𗏊	ġhaar
+𗏊	gghaar
 𗬚	nny
 𗬞	beh
 𗤓	ntho
@@ -3260,7 +3260,7 @@ min_phrase_weight: 100
 𗾎	kwi
 𗺛	--
 𗻟	hiimx
-𗺟	ġhoorx
+𗺟	gghoorx
 𗻪	nniiwx
 𗤱	remx
 𗨝	sjim
@@ -3287,7 +3287,7 @@ min_phrase_weight: 100
 𗧚	dem
 𗐂	tihx
 𗴬	tju
-𗏘	ġhaarx
+𗏘	gghaarx
 𗢰	naa
 𗣄	thwoox
 𗣰	kwi
@@ -3318,7 +3318,7 @@ min_phrase_weight: 100
 𘔴	dux
 𘟦	byyx
 𗩀	kwyr
-𗏠	ġhaarx
+𗏠	gghaarx
 𗩵	byyx
 𗤒	kiw
 𗤔	mux
@@ -3335,7 +3335,7 @@ min_phrase_weight: 100
 𗧀	liiw
 𗩟	tjeh
 𗩠	baahx
-𗫦	ġhaiiw
+𗫦	gghaiiw
 𗽸	nlhy
 𗿊	loomx
 𗿖	ngngaaax
@@ -3369,7 +3369,7 @@ min_phrase_weight: 100
 𗪲	ghiw
 𗏷	gyx
 𗦛	dzyyrx
-𗪺	ġhaii
+𗪺	gghaii
 𗫙	lyyx
 𗧡	ntse
 𗧠	qaeehx
@@ -3450,13 +3450,13 @@ min_phrase_weight: 100
 𗐌	vwaa
 𗼗	dem
 𗼅	nwy
-𘴂	ġhuu
+𘴂	gghuu
 𗼍	nsaa
 𗼚	woomx
 𗼠	khwy
 𗼡	peh
 𗼥	qaa
-𗼩	ġhaahx
+𗼩	gghaahx
 𗼋	dzwyh
 𗼏	poo
 𘉈	dziiwx
@@ -3470,7 +3470,7 @@ min_phrase_weight: 100
 𗂽	yex
 𗢁	hyy
 𗆎	tshex
-𗆻	ġhaa
+𗆻	gghaa
 𗄼	la
 𗆧	siw
 𗆊	qaaa
@@ -3492,7 +3492,7 @@ min_phrase_weight: 100
 𗄶	trhaiiw
 𗅤	maarx
 𗆴	laa
-𗄵	ġhwaeem
+𗄵	gghwaeem
 𗆢	qhayy
 𗆯	tshyx
 𗆶	rarx
@@ -3513,7 +3513,7 @@ min_phrase_weight: 100
 𗡽	trwaeemx
 𗂑	qwaar
 𗄿	lluuhx
-𗅌	ġhoorx
+𗅌	gghoorx
 𗡻	ly
 𗆹	nye
 𗆼	yiwx
@@ -3551,7 +3551,7 @@ min_phrase_weight: 100
 𗋱	ndix
 𗊠	ge
 𗏈	ngwuux
-𗊘	ġhaee
+𗊘	gghaee
 𗌔	thwaamx
 𗇇	hwaa
 𗊐	zyyrx
@@ -3574,12 +3574,12 @@ min_phrase_weight: 100
 𗌠	nnaaax
 𗌩	pemhx
 𗐊	paeemhx
-𗫹	ġhwyy
+𗫹	gghwyy
 𗫺	tshwim
 𗬂	vwaar
 𗬅	mma
 𗬉	sii
-𗬊	ġhwyy
+𗬊	gghwyy
 𗤤	thuu
 𗥡	luux
 𘊞	luux
@@ -3611,7 +3611,7 @@ min_phrase_weight: 100
 𗩡	vex
 𗫊	byy
 𗨗	ndzuux
-𗫁	ġhwaii
+𗫁	gghwaii
 𗬕	merx
 𗨾	heex
 𗪮	mmiix
@@ -3650,7 +3650,7 @@ min_phrase_weight: 100
 𗽝	qwaaa
 𗿃	dyyh
 𗧫	phaoox
-𗿕	ġhwuuhx
+𗿕	gghwuuhx
 𗥢	djih
 𗩓	yiw
 𗪸	raarx
@@ -3735,14 +3735,14 @@ min_phrase_weight: 100
 𗧃	gix
 𗏸	ma
 𗻋	lhiiwx
-𗏢	ġhuur
+𗏢	gghuur
 𗽔	byyx
 𗟟	pooh
 𘜨	trhwaee
 𘚵	ngqoox
-𘝐	ġhaee
+𘝐	gghaee
 𘜧	qwuuhx
-𘚬	ġhiim
+𘚬	gghiim
 𗺈	thex
 𗃚	nneex
 𗃟	qyy
@@ -3780,7 +3780,7 @@ min_phrase_weight: 100
 𗄳	mma
 𗄽	sraaam
 𗂦	yirx
-𗹺	ġhaaamx
+𗹺	gghaaamx
 𗀹	zi
 𗅟	riiwr
 𗆏	tjuhx
@@ -3875,7 +3875,7 @@ min_phrase_weight: 100
 𗭏	gex
 𘕃	dje
 𘋇	fi
-𗭓	ġhaee
+𗭓	gghaee
 𗭇	gex
 𗭚	syx
 𗭙	--
@@ -3891,7 +3891,7 @@ min_phrase_weight: 100
 𘀪	raarx
 𘀝	ywy
 𘀴	zwamx
-𘀬	ġhaa
+𘀬	gghaa
 𘀧	me
 𘚿	mex
 𘛇	gux
@@ -4068,7 +4068,7 @@ min_phrase_weight: 100
 𗍨	zuurx
 𗎓	kiwr
 𗎒	daahx
-𗎈	ġhwoomh
+𗎈	gghwoomh
 𗎸	tjax
 𗍴	deerx
 𘉤	vwiir
@@ -4096,9 +4096,9 @@ min_phrase_weight: 100
 𗎄	vwyyrx
 𗎇	vwyyrx
 𗎋	vwyyrx
-𗎅	ġhoorx
+𗎅	gghoorx
 𗎊	reer
-𘇑	ġhuu
+𘇑	gghuu
 𗢉	tsaa
 𗎷	tja
 𗍯	--
@@ -4155,7 +4155,7 @@ min_phrase_weight: 100
 𗞱	lix
 𗛗	mbaaax
 𗝹	vwuuh
-𗞪	ġhaeerx
+𗞪	gghaeerx
 𗞠	haeemx
 𗚭	draaar
 𗚃	qayyx
@@ -4179,7 +4179,7 @@ min_phrase_weight: 100
 𗛧	lluh
 𗚤	tshee
 𗚒	khux
-𗚬	ġhoor
+𗚬	gghoor
 𗚫	vweem
 𗜑	paaa
 𗛙	remx
@@ -4250,8 +4250,8 @@ min_phrase_weight: 100
 𗞉	si
 𗟔	qoo
 𗛟	vwii
-𗛠	ġhuux
-𗝐	ġhaax
+𗛠	gghuux
+𗝐	gghaax
 𗝏	duuhx
 𗝞	ndeex
 𗟑	yi
@@ -4291,7 +4291,7 @@ min_phrase_weight: 100
 𗟇	tsyyh
 𘚐	soom
 𗚘	tsir
-𗚈	ġhaax
+𗚈	gghaax
 𗚗	daah
 𗚊	nguur
 𗛮	nvwyy
@@ -4382,7 +4382,7 @@ min_phrase_weight: 100
 𗞵	rur
 𗜙	tjex
 𗝛	niirx
-𗝵	ġhaee
+𗝵	gghaee
 𗜻	dwuux
 𗝭	vweex
 𗜮	nllu
@@ -4419,7 +4419,7 @@ min_phrase_weight: 100
 𗜈	zoomx
 𗝸	gex
 𗝇	zoomx
-𗛫	ġhoorx
+𗛫	gghoorx
 𗛼	twyyr
 𗛖	qyy
 𗝆	thoomh
@@ -4638,7 +4638,7 @@ min_phrase_weight: 100
 𗡝	ka
 𗠋	trhaaa
 𗡍	paiih
-𗠴	ġhaaax
+𗠴	gghaaax
 𗸤	tiim
 𘚔	mmex
 𘉔	dwaax
@@ -4658,7 +4658,7 @@ min_phrase_weight: 100
 𘉎	dwaax
 𘉚	dwaax
 𗠊	djam
-𗠖	ġhaar
+𗠖	gghaar
 𗠠	ndoox
 𘉕	remx
 𘉖	pwyr
@@ -4700,7 +4700,7 @@ min_phrase_weight: 100
 𗯧	ngkhyx
 𗑷	toox
 𗑉	mee
-𗑹	ġhaam
+𗑹	gghaam
 𗓷	khwam
 𗓻	qhaaar
 𘖷	mah
@@ -4740,7 +4740,7 @@ min_phrase_weight: 100
 𗒬	lyy
 𗑓	di
 𗒠	qaeex
-𗑻	ġhaah
+𗑻	gghaah
 𗔔	lhuhx
 𗒣	bihx
 𗑅	gyhx
@@ -4775,14 +4775,14 @@ min_phrase_weight: 100
 𗭄	temh
 𗑵	tsy
 𗑊	ngaax
-𗐹	ġhaam
+𗐹	gghaam
 𗐭	sjwa
 𗓓	tjhe
 𗒋	sraoom
 𘖟	biih
 𗬸	nnaaax
 𘁖	byyx
-𗑸	ġhwee
+𗑸	gghwee
 𗑒	sjwa
 𗑰	tshee
 𗬷	nomrx
@@ -4851,7 +4851,7 @@ min_phrase_weight: 100
 𗔚	phyyx
 𗔰	nuhx
 𗔹	yer
-𗒧	ġhaah
+𗒧	gghaah
 𗒓	trhaaa
 𗓴	phyyx
 𗔆	so
@@ -4863,7 +4863,7 @@ min_phrase_weight: 100
 𗒿	luu
 𘖮	ngkhu
 𗓼	ngwiix
-𗑙	ġhaam
+𗑙	gghaam
 𗒩	nu
 𗓎	llwuuh
 𗔄	baaax
@@ -4878,7 +4878,7 @@ min_phrase_weight: 100
 𘑘	sji
 𘝨	zohx
 𗒄	lawx
-𗑤	ġhwaa
+𗑤	gghwaa
 𗓤	djex
 𗐳	tje
 𗑌	qaee
@@ -4915,7 +4915,7 @@ min_phrase_weight: 100
 𘖨	lom
 𘗌	zirx
 𗔤	qwaii
-𗔩	ġheehx
+𗔩	ggheehx
 𗑮	dyx
 𗑾	ngngwuu
 𗒳	qhuu
@@ -4931,7 +4931,7 @@ min_phrase_weight: 100
 𗓿	rirx
 𗓹	llweh
 𗔡	llyh
-𗔼	ġhwee
+𗔼	gghwee
 𘗆	tshuu
 𗔞	myr
 𘗄	dzoom
@@ -4950,15 +4950,15 @@ min_phrase_weight: 100
 𗒰	rirx
 𗐬	qyyx
 𗓟	ngwyyr
-𘖧	ġhaa
+𘖧	gghaa
 𗔈	traaam
 𗓥	sjomx
-𗓧	ġhaa
+𗓧	gghaa
 𗐿	ngwiix
 𗒑	yyx
 𗑧	toh
 𗑎	nsyx
-𗑣	ġhwaa
+𗑣	gghwaa
 𗓣	djex
 𗔒	vwyy
 𘖆	lemx
@@ -4991,7 +4991,7 @@ min_phrase_weight: 100
 𗒁	dzu
 𗑳	nnaax
 𗒦	nnaax
-𗓑	ġhweerx
+𗓑	gghweerx
 𗓒	dzu
 𗓱	te
 𗔋	boom
@@ -5045,7 +5045,7 @@ min_phrase_weight: 100
 𗓯	--
 𗓨	biihx
 𗔊	qwoomx
-𗒐	ġhwaee
+𗒐	gghwaee
 𗑫	byy
 𗓌	djo
 𘖿	nggwi
@@ -5072,11 +5072,11 @@ min_phrase_weight: 100
 𗑄	tju
 𗑃	tjim
 𗒗	khe
-𗒘	ġhaee
-𗒙	ġhaee
+𗒘	gghaee
+𗒙	gghaee
 𗑴	lwaam
-𗓋	ġhaee
-𗔎	ġhaee
+𗓋	gghaee
+𗔎	gghaee
 𗶭	ghux
 𘍏	tsii
 𘁗	zaax
@@ -5084,17 +5084,17 @@ min_phrase_weight: 100
 𗮄	phoomx
 𘃤	vo
 𗕁	tji
-𘁠	ġhaa
+𘁠	gghaa
 𘁮	zyh
 𘃝	vi
 𘃨	ghyr
-𘍶	ġhwyyr
+𘍶	gghwyyr
 𘍷	teh
 𗮌	yi
 𗮎	djyr
 𗮒	my
 𗮕	mmy
-𘁭	ġhwyyx
+𘁭	gghwyyx
 𘁰	llwihx
 𘍼	vwii
 𘍽	vwii
@@ -5221,7 +5221,7 @@ min_phrase_weight: 100
 𘛚	neehx
 𘟬	vih
 𘎜	taahx
-𘟫	ġhaah
+𘟫	gghaah
 𘐲	lhohx
 𘂹	nex
 𘐅	ngggaii
@@ -5267,9 +5267,9 @@ min_phrase_weight: 100
 𘍫	qhwaii
 𘖙	noox
 𘕧	ndaax
-𘗢	ġhaa
+𘗢	gghaa
 𘗝	lluuh
-𘕪	ġhiiw
+𘕪	gghiiw
 𘁸	thyyh
 𘗥	drayy
 𗭶	gox
@@ -5323,7 +5323,7 @@ min_phrase_weight: 100
 𘏀	deh
 𘛟	vex
 𘋨	dzwy
-𘏐	ġhwaii
+𘏐	gghwaii
 𘎶	qwyyx
 𘟝	woo
 𘁍	llwyh
@@ -5432,7 +5432,7 @@ min_phrase_weight: 100
 𗭮	zjom
 𗮅	reerx
 𗮀	bu
-𘁞	ġhwyyx
+𘁞	gghwyyx
 𘃛	rarx
 𘃥	ndu
 𘁟	doox
@@ -5444,7 +5444,7 @@ min_phrase_weight: 100
 𘞨	zjehx
 𘌾	baaar
 𘕽	gux
-𘌁	ġhoomr
+𘌁	gghoomr
 𘗗	poo
 𘗛	bux
 𗮜	--
@@ -5455,7 +5455,7 @@ min_phrase_weight: 100
 𘞯	djih
 𘟜	dzoom
 𗰋	tsaar
-𘋐	ġhaa
+𘋐	gghaa
 𘋭	tjha
 𘍯	swix
 𘏸	srayy
@@ -5484,7 +5484,7 @@ min_phrase_weight: 100
 𘁲	zaa
 𘛱	ggaam
 𘃟	ywam
-𘁴	ġhwyyx
+𘁴	gghwyyx
 𘕼	gux
 𘍖	ywar
 𗭯	yom
@@ -5523,13 +5523,13 @@ min_phrase_weight: 100
 𘍂	mox
 𘛣	sja
 𘍍	phii
-𘋽	ġhaa
-𘌀	ġhaeerx
+𘋽	gghaa
+𘌀	gghaeerx
 𗮚	bih
 𗮡	by
 𗮛	traoom
 𗮷	zwy
-𗮵	ġhuux
+𗮵	gghuux
 𗮽	rerx
 𗮶	pwyrx
 𗯈	vih
@@ -5636,7 +5636,7 @@ min_phrase_weight: 100
 𘋦	nzraaax
 𘖍	nggi
 𘖌	myx
-𘏟	ġhaa
+𘏟	gghaa
 𘎲	lhuu
 𘝰	gim
 𗰇	lhom
@@ -5669,7 +5669,7 @@ min_phrase_weight: 100
 𘋯	yemx
 𘋷	tsa
 𘂮	nwox
-𘏍	ġhaa
+𘏍	gghaa
 𘏪	deehx
 𘏨	llyh
 𘛭	se
@@ -5705,7 +5705,7 @@ min_phrase_weight: 100
 𘎽	qhaiiw
 𘛬	vwiir
 𘕣	vwaax
-𘗠	ġhaa
+𘗠	gghaa
 𘁺	lhem
 𘁷	dzaar
 𗮔	swiiw
@@ -5714,7 +5714,7 @@ min_phrase_weight: 100
 𘍁	trayyr
 𘕝	bee
 𘕠	traoor
-𘞬	ġhwiim
+𘞬	gghwiim
 𘍙	guhx
 𗮮	nnix
 𗮯	sjwaw
@@ -5804,7 +5804,7 @@ min_phrase_weight: 100
 𘕟	ziiwrx
 𘍎	woox
 𘟨	nomrx
-𘏴	ġhoorx
+𘏴	gghoorx
 𘛗	zjyr
 𘏳	sja
 𘐉	vahx
@@ -5853,7 +5853,7 @@ min_phrase_weight: 100
 𗯗	leex
 𗈭	qhwaa
 𗗤	lwyyx
-𗈯	ġhaiir
+𗈯	gghaiir
 𗈵	djyhx
 𗗨	zjihx
 𗗪	ngki
@@ -5862,7 +5862,7 @@ min_phrase_weight: 100
 𘕱	sjux
 𘛠	--
 𗗣	lwyyx
-𗈮	ġhaiir
+𗈮	gghaiir
 𗗩	pha
 𗯑	tsho
 𘂋	ziix
@@ -5872,9 +5872,9 @@ min_phrase_weight: 100
 𘂡	tswo
 𗯓	dzo
 𘂚	lloomhx
-𘕿	ġhaax
+𘕿	gghaax
 𘂊	--
-𘂍	ġhayy
+𘂍	gghayy
 𗳑	biih
 𘂌	ngwyyx
 𗳖	ngwuux
@@ -5883,7 +5883,7 @@ min_phrase_weight: 100
 𘌅	ze
 𘕕	soomh
 𘌉	qwoo
-𘌘	ġhoom
+𘌘	gghoom
 𘌐	qhaiix
 𘒮	nziiwx
 𘆖	ntshy
@@ -5938,7 +5938,7 @@ min_phrase_weight: 100
 𘂛	tshiix
 𘕙	tsyy
 𘋞	zaarx
-𘌄	ġhoom
+𘌄	gghoom
 𘕔	lyy
 𘌆	qaax
 𘕘	tsyy
@@ -5978,7 +5978,7 @@ min_phrase_weight: 100
 𘂗	pyyr
 𘂢	tshax
 𘂨	mbee
-𗯐	ġhoorx
+𗯐	gghoorx
 𘂙	paah
 𗯒	tshaax
 𘂘	sjom
@@ -18333,7 +18333,7 @@ min_phrase_weight: 100
 𗀐𗎓	djekiwr
 𗀐𗤻	djevah
 𗀐𗮈	djenrah
-𗀐𗴐	djeġhaar
+𗀐𗴐	djegghaar
 𗀐𘜶	djellehx
 𗀓𗒟	sjexnwox
 𗀓𗕪	sjexmeh
@@ -18369,7 +18369,7 @@ min_phrase_weight: 100
 𗀣𗹀	haartraeem
 𗀥𗈈	tiiwdraaamx
 𗀥𗿋	tiiwboox
-𗀧𗠖	ndexġhaar
+𗀧𗠖	ndexgghaar
 𗀫𗐜	mphooghax
 𗀫𗕼	mphoolux
 𗀫𘀘	mphoomphee
@@ -18389,8 +18389,8 @@ min_phrase_weight: 100
 𗀲𗦎	tjhiwxraarx
 𗀷𗮤	khuxthuux
 𗀷𗺉	khuxtjhix
-𗀹𗼷	ziġhaa
-𗀹𗼷𗿦	ziġhaama
+𗀹𗼷	zigghaa
+𗀹𗼷𗿦	zigghaama
 𗀹𘂆	zitsy
 𗀺𗂋	nyyrxnar
 𗀺𗄳	nyyrxmma
@@ -18435,7 +18435,7 @@ min_phrase_weight: 100
 𗁅𗚖	llaahlhor
 𗁅𗚚	llaahziiwx
 𗁅𗡿	llaahswaa
-𗁅𗥦	llaahġhuu
+𗁅𗥦	llaahgghuu
 𗁅𗬼	llaahyyrx
 𗁅𗮯	llaahsjwaw
 𗁅𗴙	llaahziiwx
@@ -18471,7 +18471,7 @@ min_phrase_weight: 100
 𗁜𘛬	vorvwiir
 𗁝𗹉	giwgomx
 𗁝𗹭	giwbex
-𗁝𘌀	giwġhaeerx
+𗁝𘌀	giwgghaeerx
 𗁞𗀻	tjhawxtshwim
 𗁞𗑝	tjhawxtsiiwr
 𗁞𗝠	tjhawxsi
@@ -18574,10 +18574,10 @@ min_phrase_weight: 100
 𗁲𘘒	meexvwiir
 𗁳𘃎𗋒	yawxpahkeh
 𗁴𗃆	llyhyar
-𗁴𘈆	llyhġhoor
+𗁴𘈆	llyhgghoor
 𗁵𘕗	yexquux
 𗁷𗖦	qhaaasjwomx
-𗁷𗫦	qhaaaġhaiiw
+𗁷𗫦	qhaaagghaiiw
 𗁷𗹠	qhaaarer
 𗁷𗺂	qhaaavweex
 𗁷𗼈	qhaaanah
@@ -18586,7 +18586,7 @@ min_phrase_weight: 100
 𗁸𗪾	siixquuh
 𗁸𘍊	siixntiiwx
 𗁸𘕒	siixquu
-𗁹𗙉	thaaxġhaar
+𗁹𗙉	thaaxgghaar
 𗁹𗦛	thaaxdzyyrx
 𗁺𗱙	kirquur
 𗁻𘗛	lhehxbux
@@ -18682,7 +18682,7 @@ min_phrase_weight: 100
 𗂧𗆬	lhehxvwiir
 𗂧𗆮	lhehxlhow
 𗂧𗊪	lhehxlloomx
-𗂧𗓑	lhehxġhweerx
+𗂧𗓑	lhehxgghweerx
 𗂧𗜈	lhehxzoomx
 𗂧𗡼	lhehxberx
 𗂧𗣈	lhehxlhow
@@ -18694,7 +18694,7 @@ min_phrase_weight: 100
 𗂧𗧹	lhehxgir
 𗂧𗪚	lhehxduu
 𗂧𗪚𘂀𗴴	lhehxduusexreerx
-𗂧𗪺	lhehxġhaii
+𗂧𗪺	lhehxgghaii
 𗂧𗯿	lhehxvweer
 𗂧𗲠	lhehxngaa
 𗂧𗳆	lhehxlho
@@ -18702,7 +18702,7 @@ min_phrase_weight: 100
 𗂧𗴽	lhehxlom
 𗂧𗵐	lhehxneex
 𗂧𗵽	lhehxnllux
-𗂧𗶅𗓑𘀄𘓄𗖍	lhehxtrauuhġhweerxngguxrurnlla
+𗂧𗶅𗓑𘀄𘓄𗖍	lhehxtrauuhgghweerxngguxrurnlla
 𗂧𗹒	lhehx--
 𗂧𗹙	lhehxtser
 𗂧𗹪	lhehxnllex
@@ -18719,14 +18719,14 @@ min_phrase_weight: 100
 𗂧𘍞	lhehxwooh
 𗂧𘎆	lhehxdjwy
 𗂧𘎆𗸒𘚜𗣼𗴀𗨮	lhehxdjwysuulhwehtjhaxsooxkahx
-𗂧𘑨	lhehxġhwuuhx
-𗂧𘑨𗎭	lhehxġhwuuhxmmi
-𗂧𘑨𗤛	lhehxġhwuuhxtjom
-𗂧𘑨𗫔𗎭	lhehxġhwuuhxyimmi
-𗂧𘑨𗫔𗎭𗨮	lhehxġhwuuhxyimmikahx
-𗂧𘑨𘏨𘗣	lhehxġhwuuhxllyhduux
+𗂧𘑨	lhehxgghwuuhx
+𗂧𘑨𗎭	lhehxgghwuuhxmmi
+𗂧𘑨𗤛	lhehxgghwuuhxtjom
+𗂧𘑨𗫔𗎭	lhehxgghwuuhxyimmi
+𗂧𘑨𗫔𗎭𗨮	lhehxgghwuuhxyimmikahx
+𗂧𘑨𘏨𘗣	lhehxgghwuuhxllyhduux
 𗂧𘓐	lhehxdzwox
-𗂧𘗠	lhehxġhaa
+𗂧𘗠	lhehxgghaa
 𗂧𘘚	lhehxndzex
 𗂧𘚶	lhehxly
 𗂧𘛒	lhehxngiiwr
@@ -18775,7 +18775,7 @@ min_phrase_weight: 100
 𗂶𗏽	ryyrrerx
 𗂶𘃲	ryyrveh
 𗂶𘋌	ryyrntjy
-𗂶𘏴	ryyrġhoorx
+𗂶𘏴	ryyrgghoorx
 𗂶𘒳	ryyrtooh
 𗂷𗓆	twiihle
 𗂷𗨙	twiihlhehx
@@ -18847,7 +18847,7 @@ min_phrase_weight: 100
 𗃎𗭍	yerdjeh
 𗃎𗷖	yertshwiiw
 𗃎𗸀	yerwuux
-𗃎𘒈	yerġhuu
+𗃎𘒈	yergghuu
 𗃎𘝚	yerkwyr
 𗃎𘟪	yersjom
 𗃒𗀄	lyyngwuux
@@ -18855,7 +18855,7 @@ min_phrase_weight: 100
 𗃒𗢸	lyyllawx
 𗃒𗪀	lyyngkhux
 𗃒𗶩	lyythix
-𗃒𗽌	lyyġhaeemhx
+𗃒𗽌	lyygghaeemhx
 𗃒𗽠	lyynlluu
 𗃒𗽥	lyygurx
 𗃒𗽼	lyyllwihx
@@ -18942,7 +18942,7 @@ min_phrase_weight: 100
 𗃵𗝂	puhxryrx
 𗃵𗷆	puhxmphi
 𗃵𘓹	puhxvwaahx
-𗃵𘗠	puhxġhaa
+𗃵𘗠	puhxgghaa
 𗃵𘜶	puhxllehx
 𗃶𗢑	mmiixrirx
 𗃶𗢔	mmiixrirx
@@ -18978,7 +18978,7 @@ min_phrase_weight: 100
 𗄖𗟜	djidzyr
 𗄖𗶷	djisjy
 𗄖𘆦	djindzee
-𗄖𘆦𘒏𗈪𘍞𗥦𘏿	djindzeegaawoohġhuuqaah
+𗄖𘆦𘒏𗈪𘍞𗥦𘏿	djindzeegaawoohgghuuqaah
 𗄖𘋮	djiyar
 𗄖𘒏	djiga
 𗄖𘕂	djidje
@@ -19015,7 +19015,7 @@ min_phrase_weight: 100
 𗄱𗉔	petjiw
 𗄴𗄴	ntwiixntwiix
 𗄴𗫻	ntwiixndje
-𗄵𗦎	ġhwaeemraarx
+𗄵𗦎	gghwaeemraarx
 𗄶𗇬	trhaiiwlwaamx
 𗄶𗶡	trhaiiwhuu
 𗄶𗹪	trhaiiwnllex
@@ -19081,7 +19081,7 @@ min_phrase_weight: 100
 𗅁𘚶	wuuxly
 𗅂𗆔	rarqaahx
 𗅂𗎭	rarmmi
-𗅂𗒐	rarġhwaee
+𗅂𗒐	rargghwaee
 𗅂𗪀	rarngkhux
 𗅂𗫞	rardzihx
 𗅂𗶠	rarndzuux
@@ -19103,7 +19103,7 @@ min_phrase_weight: 100
 𗅃𗳼	llwuhgiwx
 𗅄𗤌	llaahtuu
 𗅄𘞆	llaahbi
-𗅅𗦁	yiwxġhaiihx
+𗅅𗦁	yiwxgghaiihx
 𗅆𗈶	demxsy
 𗅆𗉭	demxtjem
 𗅆𗠁	demxmbuux
@@ -19158,7 +19158,7 @@ min_phrase_weight: 100
 𗅠𘙣	gguurnsji
 𗅡𗁳	qhayyyawx
 𗅡𗑝	qhayytsiiwr
-𗅡𗟝	qhayyġhaee
+𗅡𗟝	qhayygghaee
 𗅡𗩝	qhayypemh
 𗅡𗮃	qhayytswi
 𗅡𗹭	qhayybex
@@ -19232,7 +19232,7 @@ min_phrase_weight: 100
 𗅲𘐆	temhxlaa
 𗅲𘐩	temhxphy
 𗅲𘒣	temhxdaahx
-𗅲𘔮	temhxġhwaarx
+𗅲𘔮	temhxgghwaarx
 𗅲𘗜	temhxgomx
 𗅲𘝦	temhxdjy
 𗅴𗕣	lleehxtshah
@@ -19318,7 +19318,7 @@ min_phrase_weight: 100
 𗆛𗌕	saax-arx
 𗆛𗰦	saaxlwoo
 𗆛𗰦𗒈	saaxlwoodraeemx
-𗆛𘏴	saaxġhoorx
+𗆛𘏴	saaxgghoorx
 𗆟𗺿	mipaahx
 𗆠𗛮	buunvwyy
 𗆡𗨁	yuxphux
@@ -19335,7 +19335,7 @@ min_phrase_weight: 100
 𗆧𗹢	siwdohx
 𗆧𘄽	siwngaahx
 𗆧𘐘𗡺𘂬𘝞𗬐𗨮	siwngquuberxwooywyrxsyykahx
-𗆨𗪺	mehxġhaii
+𗆨𗪺	mehxgghaii
 𗆩𗌁	phyyxdih
 𗆪𗟥	nyeteh
 𗆫𗆫	lyrxlyrx
@@ -19344,7 +19344,7 @@ min_phrase_weight: 100
 𗆬𗤋	vwiirme
 𗆬𗰸	vwiirkhwy
 𗆭𗉜	djiwndzee
-𗆭𗔼	djiwġhwee
+𗆭𗔼	djiwgghwee
 𗆭𗖖	djiwnyh
 𗆭𗪙𗎥	djiwmuurmmi
 𗆭𗯹	djiwlux
@@ -19368,8 +19368,8 @@ min_phrase_weight: 100
 𗆷𗱪	llaahxyi
 𗆸𗎜	buuxquux
 𗆺𗅰	lwoomlweem
-𗆻𗸳	ġhaalaam
-𗆻𘚇	ġhaavoh
+𗆻𗸳	gghaalaam
+𗆻𘚇	gghaavoh
 𗆼𗂆	yiwxzeh
 𗆼𗄈	yiwxsjow
 𗆼𗈦	yiwxlhahx
@@ -19377,7 +19377,7 @@ min_phrase_weight: 100
 𗆼𗤄	yiwxyyr
 𗆼𗤋	yiwxme
 𗆼𗤶	yiwxnne
-𗆼𗦁	yiwxġhaiihx
+𗆼𗦁	yiwxgghaiihx
 𗆼𗧤	yiwxpha
 𗆼𗮅	yiwxreerx
 𗆼𗴒	yiwxkah
@@ -19396,7 +19396,7 @@ min_phrase_weight: 100
 𗇂𗼻	saarxllyhx
 𗇂𘕒	saarxquu
 𗇃𗤛	hwaaxtjom
-𗇃𗥦	hwaaxġhuu
+𗇃𗥦	hwaaxgghuu
 𗇃𗽹	hwaaxsjix
 𗇃𗽹𗿿	hwaaxsjixde
 𗇄𘀯	miihxmaahx
@@ -19504,7 +19504,7 @@ min_phrase_weight: 100
 𗈃𗰆	nsulha
 𗈄𗄈	nnyxsjow
 𗈄𗎍	nnyxqhaii
-𗈄𗠖	nnyxġhaar
+𗈄𗠖	nnyxgghaar
 𗈄𗤋	nnyxme
 𗈄𘂭	nnyxllweh
 𗈇𗄠	llahngwuux
@@ -19524,12 +19524,12 @@ min_phrase_weight: 100
 𗈇𘍞	llahwooh
 𗈇𘍞𘟙	llahwoohnex
 𗈇𘑗	llahngyyr
-𗈇𘗠	llahġhaa
+𗈇𘗠	llahgghaa
 𗈇𘟙	llahnex
 𗈋𗀐	tsuurdje
 𗈋𗇸	tsuurzyh
 𗈋𗉝	tsuursjihx
-𗈋𗎈	tsuurġhwoomh
+𗈋𗎈	tsuurgghwoomh
 𗈋𗒿	tsuurluu
 𗈋𗓀	tsuurluu
 𗈋𗪵	tsuurtraee
@@ -19565,7 +19565,7 @@ min_phrase_weight: 100
 𗈠𗖒	dzidaahx
 𗈠𗭽	dzidiihx
 𗈣𘄯	kiwrxlhwe
-𗈤𘙄	sjuġhwaeemx
+𗈤𘙄	sjugghwaeemx
 𗈦𗂆	lhahxzeh
 𗈦𗟥	lhahxteh
 𗈦𗥞	lhahxnggux
@@ -19587,7 +19587,7 @@ min_phrase_weight: 100
 𗈪𗇊	athex
 𗈪𗇒	asja
 𗈪𗊕	asrayy
-𗈪𗋇	aghu
+𗈪𗋇	aγu
 𗈪𗍫	anny
 𗈪𗍬	alux
 𗈪𗍴	adeerx
@@ -19604,7 +19604,7 @@ min_phrase_weight: 100
 𗈪𗕪	ameh
 𗈪𗖌	agyx
 𗈪𗗄	alux
-𗈪𗙑	aġhaiihx
+𗈪𗙑	agghaiihx
 𗈪𗚻	asjemx
 𗈪𗛆	avwaarx
 𗈪𗛜	aremx
@@ -19670,7 +19670,7 @@ min_phrase_weight: 100
 𗈪𘊹	akaw
 𗈪𘋠	amyyx
 𗈪𘍞	awooh
-𗈪𘍞𗔩𘇚𗅂	awoohġheehxmmixrar
+𗈪𘍞𗔩𘇚𗅂	awoohggheehxmmixrar
 𗈪𘍞𗺎𗍋𗅂	awoohntjhyngkhyrar
 𗈪𘍟	atsy
 𗈪𘎐	atraeehx
@@ -19685,7 +19685,7 @@ min_phrase_weight: 100
 𗈪𘔭	adzem
 𗈪𘕰	aphuux
 𗈪𘖙	anoox
-𗈪𘗠	aġhaa
+𗈪𘗠	agghaa
 𗈪𘗽	azohx
 𗈪𘘔	adjaw
 𗈪𘘘	asaa
@@ -19705,9 +19705,9 @@ min_phrase_weight: 100
 𗈫𗴁	llwehxqaax
 𗈬𘄰	atjwa
 𗈭𗭍	qhwaadjeh
-𗈮𗈶	ġhaiirsy
-𗈮𗔁	ġhaiirsix
-𗈮𗕪	ġhaiirmeh
+𗈮𗈶	gghaiirsy
+𗈮𗔁	gghaiirsix
+𗈮𗕪	gghaiirmeh
 𗈰𗡶	narxsje
 𗈰𗳆	narxlho
 𗈰𘊰	narxphaa
@@ -19730,12 +19730,12 @@ min_phrase_weight: 100
 𗈲𘟀	qhwaalex
 𗈶𗄻	synwyy
 𗈶𗅉	synuo
-𗈶𗈮	syġhaiir
+𗈶𗈮	sygghaiir
 𗈶𗈹	synsi
 𗈶𗉜	syndzee
 𗈶𗎍	syqhaii
 𗈶𗐗	sylhuhx
-𗈶𗔼	syġhwee
+𗈶𗔼	sygghwee
 𗈶𗟥	syteh
 𗈶𗡪	sytsiiwx
 𗈶𗤶	synne
@@ -19777,11 +19777,11 @@ min_phrase_weight: 100
 𗉀𗋍	tshwatswuuh
 𗉀𗬞	tshwabeh
 𗉀𘑸	tshwaroomr
-𗉁𗉄	ġhaiihdraaa
-𗉁𘓻	ġhaiihngghi
-𗉂𗝿	ġhaiihtjhe
-𗉂𗱚	ġhaiihndzux
-𗉂𘐉	ġhaiihvahx
+𗉁𗉄	gghaiihdraaa
+𗉁𘓻	gghaiihngghi
+𗉂𗝿	gghaiihtjhe
+𗉂𗱚	gghaiihndzux
+𗉂𘐉	gghaiihvahx
 𗉃𗉝	temsjihx
 𗉃𗞙	temtwe
 𗉃𗤇	temdiiwx
@@ -19870,7 +19870,7 @@ min_phrase_weight: 100
 𗉔𘓖𘕆	tjiwqoomtaam
 𗉔𘝞	tjiwywyrx
 𗉔𘝾𘝞	tjiwlixywyrx
-𗉔𘝾𘝞𗙏𗧘	tjiwlixywyrxġhaiihxvwoox
+𗉔𘝾𘝞𗙏𗧘	tjiwlixywyrxgghaiihxvwoox
 𗉔𘟑	tjiwhaamx
 𗉔𘟙	tjiwnex
 𗉕𗘟	tjyrxluux
@@ -19878,7 +19878,7 @@ min_phrase_weight: 100
 𗉖𗏑	tshemnnoo
 𗉖𗝠	tshemsi
 𗉖𗳓	tshemsjwar
-𗉖𘆋	tshemġhwoomh
+𗉖𘆋	tshemgghwoomh
 𗉘𗅉	tjhynuo
 𗉘𗋸𗅉	tjhymanuo
 𗉘𗿳	tjhydzem
@@ -19886,7 +19886,7 @@ min_phrase_weight: 100
 𗉛𗉪	zjihtrhaeemx
 𗉛𗰍	zjihdraiiw
 𗉛𗷫	zjihnnyx
-𗉜𗔼	ndzeeġhwee
+𗉜𗔼	ndzeegghwee
 𗉜𗡤	ndzeemma
 𗉜𗼻	ndzeellyhx
 𗉜𘜴	ndzeemmax
@@ -19901,8 +19901,8 @@ min_phrase_weight: 100
 𗉝𗛤	sjihxpaarx
 𗉝𗡅	sjihxdzi
 𗉝𗤫	sjihxkyrx
-𗉝𗥦	sjihxġhuu
-𗉝𗥦𘉌	sjihxġhuuzyyrx
+𗉝𗥦	sjihxgghuu
+𗉝𗥦𘉌	sjihxgghuuzyyrx
 𗉝𗦻	sjihxmmex
 𗉝𗪀	sjihxngkhux
 𗉝𗫴	sjihxmma
@@ -19925,11 +19925,11 @@ min_phrase_weight: 100
 𗉝𘎬	sjihxkwihx
 𗉝𘐄	sjihxlhwa
 𗉝𘕰	sjihxphuux
-𗉞𗗜	ġhuuthomrx
+𗉞𗗜	gghuuthomrx
 𗉟𘁑	yambaoo
 𗉡𗆊	qaiiwxqaaa
 𗉡𗎷	qaiiwxtja
-𗉡𗔼	qaiiwxġhwee
+𗉡𗔼	qaiiwxgghwee
 𗉡𘍰	qaiiwxtrhaaa
 𗉡𘐏	qaiiwxtih
 𗉢𗉔	sjwatjiw
@@ -19947,7 +19947,7 @@ min_phrase_weight: 100
 𗉣𗤱	phiremx
 𗉣𗦢	phidzaax
 𗉣𗪳	phivwiix
-𗉣𗪺	phiġhaii
+𗉣𗪺	phigghaii
 𗉣𗯮	phinthwuu
 𗉣𗳘	phingwii
 𗉣𗵋	phidraoomx
@@ -19963,7 +19963,7 @@ min_phrase_weight: 100
 𗉨𗁑	tjyrxnlly
 𗉨𗔕	tjyrxnirx
 𗉨𗔕𗑗𗎭	tjyrxnirxseemmi
-𗉨𗔕𗙏𘝯𗫡𗾈𗃵𗤛	tjyrxnirxġhaiihxmbaoonyxmmiixpuhxtjom
+𗉨𗔕𗙏𘝯𗫡𗾈𗃵𗤛	tjyrxnirxgghaiihxmbaoonyxmmiixpuhxtjom
 𗉨𗔕𗟦𘞐𗃵	tjyrxnirxmaamnsjupuhx
 𗉨𗔕𘑗	tjyrxnirxngyyr
 𗉨𗘝	tjyrxluux
@@ -19991,13 +19991,13 @@ min_phrase_weight: 100
 𗉺𗐺𗌡𗢁	sraaamiimthaamhyy
 𗉺𗐺𗒅	sraaamiimsjyr
 𗉺𗤩𘆖𘄊	sraaaghwamntshyli
-𗉺𗼷	sraaaġhaa
+𗉺𗼷	sraaagghaa
 𗉺𗽰	sraaambuux
 𗉻𗣲	tshebaoo
 𗉽𘓮	syyxruurx
 𗊀𗋊	ghureerx
-𗊀𗽌	ghuġhaeemhx
-𗊀𗽪	ghuġhweex
+𗊀𗽌	ghugghaeemhx
+𗊀𗽪	ghugghweex
 𗊁𗋋	nnaaaxtraoor
 𗊁𗌒	nnaaaxtraoorx
 𗊂𗄕	dzwyhsje
@@ -20088,7 +20088,7 @@ min_phrase_weight: 100
 𗊖𘝣	wooxnraeem
 𗊖𘟠	wooxdzuu
 𗊗𗝠	lhexsi
-𗊘𗣼	ġhaeetjhax
+𗊘𗣼	gghaeetjhax
 𗊙𘀄𗴂	hwiimxngguxphaoom
 𗊚𘘤	nihxdjy
 𗊛𗀇	tshiiwgom
@@ -20102,7 +20102,7 @@ min_phrase_weight: 100
 𗊛𗓷	tshiiwkhwam
 𗊛𗕔𗗧	tshiiwtheeqaaa
 𗊛𗘚	tshiiwtshwu
-𗊛𗙏𘝯𗤛	tshiiwġhaiihxmbaootjom
+𗊛𗙏𘝯𗤛	tshiiwgghaiihxmbaootjom
 𗊛𗤊𗉔	tshiiwsuuxtjiw
 𗊛𗫍	tshiiwsji
 𗊛𗫍𘜲	tshiiwsjisju
@@ -20120,10 +20120,10 @@ min_phrase_weight: 100
 𗊝𗰛	djawdzeh
 𗊞𗅉	ginuo
 𗊟𗋎	nsootrhayyr
-𗊟𗙏	nsooġhaiihx
+𗊟𗙏	nsoogghaiihx
 𗊟𗚆	nsoolluh
 𗊟𗤪	nsoongiiwr
-𗊟𘚬	nsooġhiim
+𗊟𘚬	nsoogghiim
 𗊡𗈽	haapii
 𗊡𗌃	haatuum
 𗊡𗽮	haanaa
@@ -20132,7 +20132,7 @@ min_phrase_weight: 100
 𗊢𗥓	nllyngoox
 𗊢𗥫	nllyye
 𗊢𗨙	nllylhehx
-𗊢𗴐	nllyġhaar
+𗊢𗴐	nllygghaar
 𗊢𘞌	nllyzjyr
 𗊥𗋞	myyxneer
 𗊦𗋱	ndyxndix
@@ -20143,15 +20143,15 @@ min_phrase_weight: 100
 𗊧𗕔𘔘	tjhwamtheehuum
 𗊧𗜀	tjhwamtsiiw
 𗊧𗪦𘎫	tjhwampaaaki
-𗊧𘅰𗁪	tjhwamġhuuthiiwx
+𗊧𘅰𗁪	tjhwamgghuuthiiwx
 𗊧𘍑𘂆	tjhwamlemtsy
 𗊧𘍑𘕘	tjhwamlemtsyy
 𗊨𘓨	tyyhroorx
 𗊩𗖔	hoomxhaax
 𗊪𗸮	lloomxvwyy
-𗊪𗼜	lloomxġhaiix
+𗊪𗼜	lloomxgghaiix
 𗊪𘕽	lloomxgux
-𗊫𗎈	nnaaaxġhwoomh
+𗊫𗎈	nnaaaxgghwoomh
 𗊬𗖸	quuhxngngwuu
 𗊬𗤋	quuhxme
 𗊬𗬫	quuhxdyrx
@@ -20201,7 +20201,7 @@ min_phrase_weight: 100
 𗊻𗊌	sjoxnu
 𗊻𗋹	sjoxnoohx
 𗊻𗋽	sjoxzyrx
-𗊻𗓑	sjoxġhweerx
+𗊻𗓑	sjoxgghweerx
 𗊻𗮅	sjoxreerx
 𗊽𗀅	byhzaarx
 𗊽𗛧	byhlluh
@@ -20225,7 +20225,7 @@ min_phrase_weight: 100
 𗋄𘟠	suuxdzuu
 𗋅𗕩	lwuullwuh
 𗋅𗾫	lwuunsex
-𗋇𗹑	ghutjem
+𗋇𗹑	γutjem
 𗋈𗍂	ngwuuxnwe
 𗋈𗢸	ngwuuxllawx
 𗋈𘉰	ngwuuxgahx
@@ -20269,7 +20269,7 @@ min_phrase_weight: 100
 𗋑𘑪	demhxqhwyy
 𗋑𘔟	demhxdjyhx
 𗋑𘚶	demhxly
-𗋒𘙄	kehġhwaeemx
+𗋒𘙄	kehgghwaeemx
 𗋒𘝞	kehywyrx
 𗋓𘄈	zyrxwoox
 𗋔𗋮	thwisrwaii
@@ -20299,7 +20299,7 @@ min_phrase_weight: 100
 𗋕𘎪	thantshe
 𗋕𘒣	thadaahx
 𗋕𘓐	thadzwox
-𗋕𘔮	thaġhwaarx
+𗋕𘔮	thagghwaarx
 𗋕𘕋	thadjihx
 𗋕𘜔	thangiiwrx
 𗋕𘞌	thazjyr
@@ -20360,7 +20360,7 @@ min_phrase_weight: 100
 𗋳𘊴	qwaamthuu
 𗋳𘕘	qwaamtsyy
 𗋳𘜲	qwaamsju
-𗋵𗪺	suuxġhaii
+𗋵𗪺	suuxgghaii
 𗋵𘄴	suuxtshi
 𗋸𗅉	manuo
 𗋻𗞁	dzoomdzihx
@@ -20434,7 +20434,7 @@ min_phrase_weight: 100
 𗋽𗵘	zyrxtja
 𗋽𗵫	zyrxgeh
 𗋽𗶷	zyrxsjy
-𗋽𗹺	zyrxġhaaamx
+𗋽𗹺	zyrxgghaaamx
 𗋽𗼈	zyrxnah
 𗋽𗼮	zyrxdzuhx
 𗋽𗽭	zyrxqhiiwx
@@ -20500,7 +20500,7 @@ min_phrase_weight: 100
 𗌃𗊡	tuumhaa
 𗌃𗐐	tuumhom
 𗌃𗐐𗡫	tuumhomsraoox
-𗌃𗐹𗘼	tuumġhaamnggu
+𗌃𗐹𗘼	tuumgghaamnggu
 𗌃𗓷	tuumkhwam
 𗌃𗕸𗐨	tuumtjhomsraii
 𗌃𗗧𘟙	tuumqaaanex
@@ -20522,7 +20522,7 @@ min_phrase_weight: 100
 𗌃𘊐	tuumke
 𗌃𘝻	tuumqwoo
 𗌄𗥛	lloomxryr
-𗌅𗑙	samxġhaam
+𗌅𗑙	samxgghaam
 𗌅𗶡	samxhuu
 𗌅𘍑𗐪	samxlemkhomx
 𗌅𘞽	samxzyh
@@ -20575,7 +20575,7 @@ min_phrase_weight: 100
 𗌭𘘦	quutjhow
 𗌮𗈦	morlhahx
 𗌮𗈰	mornarx
-𗌮𗒘	morġhaee
+𗌮𗒘	morgghaee
 𗌮𗗥	morzjihx
 𗌮𗜈	morzoomx
 𗌮𗤋	morme
@@ -20587,7 +20587,7 @@ min_phrase_weight: 100
 𗌮𘂬	morwoo
 𗌮𘉥	mordjaw
 𗌮𘐏	mortih
-𗌮𘔮	morġhwaarx
+𗌮𘔮	morgghwaarx
 𗌮𘗽	morzohx
 𗌮𘟣	mordu
 𗌯𘌬	vihxvyhx
@@ -20644,14 +20644,14 @@ min_phrase_weight: 100
 𗍁𗇫	vwiixdihx
 𗍁𗎙	vwiixpha
 𗍁𗎭	vwiixmmi
-𗍁𗓑	vwiixġhweerx
+𗍁𗓑	vwiixgghweerx
 𗍁𗛲	vwiixlomx
 𗍁𗜈	vwiixzoomx
 𗍁𗢪	vwiixpi
 𗍁𗣫	vwiixtseem
 𗍁𗤬	vwiixnnix
 𗍁𗥖	vwiixtwy
-𗍁𗥦	vwiixġhuu
+𗍁𗥦	vwiixgghuu
 𗍁𗦢	vwiixdzaax
 𗍁𗦳	vwiixdzux
 𗍁𗦻	vwiixmmex
@@ -20668,14 +20668,14 @@ min_phrase_weight: 100
 𗍁𘄩	vwiixtsuh
 𗍁𘏉	vwiixtjhow
 𗍁𘐉	vwiixvahx
-𗍁𘗠	vwiixġhaa
+𗍁𘗠	vwiixgghaa
 𗍁𘙲	vwiixdjo
 𗍁𘙶	vwiixriirx
 𗍁𘜘	vwiixrir
 𗍁𘜶	vwiixllehx
 𗍁𘝧	vwiixmbaoo
 𗍁𘝯	vwiixmbaoo
-𗍂𗙏	nweġhaiihx
+𗍂𗙏	nwegghaiihx
 𗍂𗿒	nweqhweex
 𗍃𗉔	yiwxtjiw
 𗍃𗉔𗍁𗅂	yiwxtjiwvwiixrar
@@ -20694,7 +20694,7 @@ min_phrase_weight: 100
 𗍉𗠓	hyyxbahx
 𗍊𗉔	suxtjiw
 𗍋𗀞	ngkhytoomh
-𗍋𗝐	ngkhyġhaax
+𗍋𗝐	ngkhygghaax
 𗍌𗠏	djwengqoox
 𗍌𗡅	djwedzi
 𗍍𗤒	tsiirkiw
@@ -20747,14 +20747,14 @@ min_phrase_weight: 100
 𗍝𗈙	yuontju
 𗍝𗊢	yuonlly
 𗍝𗏓𗅂	yuollihxrar
-𗍝𗦁	yuoġhaiihx
+𗍝𗦁	yuogghaiihx
 𗍝𗯖	yuoqhwuuhx
 𗍝𘊆	yuobox
 𗍝𘗜	yuogomx
 𗍞𗡀	ngngwyyloo
 𗍟𗙿	dyxyux
 𗍠𗂋	khimnar
-𗍠𗙏	khimġhaiihx
+𗍠𗙏	khimgghaiihx
 𗍠𗜈	khimzoomx
 𗍠𗟨	khimlhwi
 𗍠𘙋	khimriir
@@ -20806,16 +20806,16 @@ min_phrase_weight: 100
 𗍫𗤛	nnytjom
 𗍫𗤶	nnynne
 𗍫𗥃𘘞𗳝	nnyllyrqaawoo
-𗍫𗥦	nnyġhuu
+𗍫𗥦	nnygghuu
 𗍫𗬥	nnyde
 𗍫𗭒	nnykhy
 𗍫𗭸𘅗	nnypaeexzih
-𗍫𗰗	nnyġhaahx
-𗍫𗰗𗥃	nnyġhaahxllyr
-𗍫𗰗𘈩	nnyġhaahxliiw
-𗍫𗰗𘉋	nnyġhaahxyar
-𗍫𗰗𘉋𗵫	nnyġhaahxyargeh
-𗍫𗰗𘉋𘀦	nnyġhaahxyarmex
+𗍫𗰗	nnygghaahx
+𗍫𗰗𗥃	nnygghaahxllyr
+𗍫𗰗𘈩	nnygghaahxliiw
+𗍫𗰗𘉋	nnygghaahxyar
+𗍫𗰗𘉋𗵫	nnygghaahxyargeh
+𗍫𗰗𘉋𘀦	nnygghaahxyarmex
 𗍫𗰚	nnynlly
 𗍫𗰧	nnylhomx
 𗍫𗳘	nnyngwii
@@ -20852,7 +20852,7 @@ min_phrase_weight: 100
 𗍫𘕕	nnysoomh
 𗍫𘖙	nnynoox
 𗍫𘗝	nnylluuh
-𗍫𘗠	nnyġhaa
+𗍫𘗠	nnygghaa
 𗍫𘘔	nnydjaw
 𗍫𘘘	nnysaa
 𗍫𘙶	nnyriirx
@@ -20900,7 +20900,7 @@ min_phrase_weight: 100
 𗎆𗄼	vihla
 𗎆𗋋	vihtraoor
 𗎆𗋩	vihvwiirx
-𗎆𗎈	vihġhwoomh
+𗎆𗎈	vihgghwoomh
 𗎆𗴂	vihphaoom
 𗎆𘐏	vihtih
 𗎆𘐏𘑗	vihtihngyyr
@@ -20912,12 +20912,12 @@ min_phrase_weight: 100
 𗎇𗈇	vwyyrxllah
 𗎇𗙯	vwyyrxzirx
 𗎇𗣒	vwyyrxloomx
-𗎈𗌛	ġhwoomhhwaar
-𗎈𗝐	ġhwoomhġhaax
-𗎈𗭭	ġhwoomhdyh
-𗎈𗴂	ġhwoomhphaoom
-𗎈𘋁	ġhwoomhdjwi
-𗎈𘞆𗄖𗍊	ġhwoomhbidjisux
+𗎈𗌛	gghwoomhhwaar
+𗎈𗝐	gghwoomhgghaax
+𗎈𗭭	gghwoomhdyh
+𗎈𗴂	gghwoomhphaoom
+𗎈𘋁	gghwoomhdjwi
+𗎈𘞆𗄖𗍊	gghwoomhbidjisux
 𗎊𗼑	reerlhihx
 𗎊𗾞	reernnyx
 𗎋𗈽	vwyyrxpii
@@ -20925,7 +20925,7 @@ min_phrase_weight: 100
 𗎍𗄈	qhaiisjow
 𗎍𗇳	qhaiiqhaoo
 𗎍𗤋	qhaiime
-𗎐𗦁	kyhxġhaiihx
+𗎐𗦁	kyhxgghaiihx
 𗎑𗎆	muurxvih
 𗎑𗎛	muurxquux
 𗎑𘞫	muurxgiwrx
@@ -20990,7 +20990,7 @@ min_phrase_weight: 100
 𗎫𘃜	tserxrar
 𗎫𘊄	tserxnromx
 𗎫𘓓	tserxnvwyy
-𗎫𘓠	tserxġhaa
+𗎫𘓠	tserxgghaa
 𗎫𘙰	tserxliiwx
 𗎫𘞤	tserxloomx
 𗎬𗬂	djyrxvwaar
@@ -21008,7 +21008,7 @@ min_phrase_weight: 100
 𗎭𘃡	mmivi
 𗎭𘐖	mmilux
 𗎭𘒣	mmidaahx
-𗎭𘗠	mmiġhaa
+𗎭𘗠	mmigghaa
 𗎭𘙰	mmiliiwx
 𗎮𗆖	vuhxrar
 𗎮𗱀	vuhxwoo
@@ -21048,8 +21048,8 @@ min_phrase_weight: 100
 𗏁𗏹	ngwyyyux
 𗏁𗔇	ngwyywuuhx
 𗏁𗕑	ngwyykhyx
-𗏁𗙏	ngwyyġhaiihx
-𗏁𗙏𘈖𗖵	ngwyyġhaiihxvwiixbu
+𗏁𗙏	ngwyygghaiihx
+𗏁𗙏𘈖𗖵	ngwyygghaiihxvwiixbu
 𗏁𗚊	ngwyynguur
 𗏁𗚻	ngwyysjemx
 𗏁𗛆	ngwyyvwaarx
@@ -21076,7 +21076,7 @@ min_phrase_weight: 100
 𗏁𗩨𘎃	ngwyytsyyhvwii
 𗏁𗬥	ngwyyde
 𗏁𗬩	ngwyyqaii
-𗏁𗰗	ngwyyġhaahx
+𗏁𗰗	ngwyygghaahx
 𗏁𗰚	ngwyynlly
 𗏁𗰭	ngwyysja
 𗏁𗴇	ngwyyllwehx
@@ -21107,7 +21107,7 @@ min_phrase_weight: 100
 𗏁𘔭	ngwyydzem
 𗏁𘕂	ngwyydje
 𗏁𘗝	ngwyylluuh
-𗏁𘗠	ngwyyġhaa
+𗏁𘗠	ngwyygghaa
 𗏁𘘔	ngwyydjaw
 𗏁𘘘	ngwyysaa
 𗏁𘜍	ngwyyyawrx
@@ -21124,7 +21124,7 @@ min_phrase_weight: 100
 𗏆𗔗	hwaaamsjawx
 𗏆𗘬𘕘	hwaaamswatsyy
 𗏆𗙍	hwaaamqhwayy
-𗏆𗙏	hwaaamġhaiihx
+𗏆𗙏	hwaaamgghaiihx
 𗏆𗜠	hwaaamkhwi
 𗏆𗝠	hwaaamsi
 𗏆𗟲	hwaaamngngwuu
@@ -21156,13 +21156,13 @@ min_phrase_weight: 100
 𗏇𘞗	dixswy
 𗏇𘞪	dixteh
 𗏈𗊱	ngwuuxdzox
-𗏈𗒐	ngwuuxġhwaee
+𗏈𗒐	ngwuuxgghwaee
 𗏈𗜁	ngwuuxdjohx
 𗏈𗟨	ngwuuxlhwi
 𗏈𗠉	ngwuuxmyyr
 𗏈𘇦	ngwuuxkwemh
-𗏉𗧳	ġhuurngkhax
-𗏉𗹰	ġhuurtjyh
+𗏉𗧳	gghuurngkhax
+𗏉𗹰	gghuurtjyh
 𗏎𗏒	baxduuhx
 𗏎𗴑	baxqhaeem
 𗏏𗰣	sjyhzeh
@@ -21173,18 +21173,18 @@ min_phrase_weight: 100
 𗏗𘀭	dj-qwaeex
 𗏗𘍦	dj-ye
 𗏗𘘌	dj-srauuh
-𗏘𗀆	ġhaarxgwyrx
-𗏘𗮩	ġhaarxllihx
-𗏘𘇂	ġhaarxgguux
-𗏘𘐴	ġhaarxgyrx
-𗏘𘙟	ġhaarxlhoohx
+𗏘𗀆	gghaarxgwyrx
+𗏘𗮩	gghaarxllihx
+𗏘𘇂	gghaarxgguux
+𗏘𘐴	gghaarxgyrx
+𗏘𘙟	gghaarxlhoohx
 𗏙𗋃	dzwyrsi
 𗏙𗺑	dzwyrmba
 𗏛𗯦	vwiimlemx
 𗏜𗏎	peehbax
 𗏜𗵴	peehdza
 𗏟𗫚	lookhwix
-𗏠𘛪	ġhaarxbix
+𗏠𘛪	gghaarxbix
 𗏡𗁬	quuhthoom
 𗏡𗂷	quuhtwiih
 𗏡𗄻	quuhnwyy
@@ -21222,10 +21222,10 @@ min_phrase_weight: 100
 𗏤𘔨	thaxnex
 𗏥𗩅	nlluxlhor
 𗏦𘜯	baxyihx
-𗏨𗐤	ġhuurvehx
-𗏨𗜈	ġhuurzoomx
-𗏨𘐏	ġhuurtih
-𗏨𘔲	ġhuurmme
+𗏨𗐤	gghuurvehx
+𗏨𗜈	gghuurzoomx
+𗏨𘐏	gghuurtih
+𗏨𘔲	gghuurmme
 𗏩𘄚	byyxduux
 𗏫𘃄	lluuhxdzwyh
 𗏬𗯊	qoorkhamx
@@ -21312,7 +21312,7 @@ min_phrase_weight: 100
 𗐐𗼵	homhomx
 𗐑𗬼	sjiyyrx
 𗐓𘊯	swytwi
-𗐔𗊬	ġhaarxquuhx
+𗐔𗊬	gghaarxquuhx
 𗐕𗐕	pexpex
 𗐖𗐘	tjiqhoo
 𗐗𗨙	lhuhxlhehx
@@ -21326,7 +21326,7 @@ min_phrase_weight: 100
 𗐛𘇂	vwaarxgguux
 𗐜𗐍	ghaxqee
 𗐞𗐝	tjyghiwx
-𗐟𗰩	tjixġhwoomh
+𗐟𗰩	tjixgghwoomh
 𗐟𘆊	tjixghom
 𗐠𗐣	tjyluux
 𗐠𗝠	tjysi
@@ -21386,10 +21386,10 @@ min_phrase_weight: 100
 𗐵𘟀	lixlex
 𗐷𗢅	syhnix
 𗐸𗚓	seetu
-𗐹𗤩𗌷	ġhaamghwampoo
-𗐹𗥑	ġhaamhuu
-𗐹𗥻	ġhaamphaii
-𗐹𗥻𗋳	ġhaamphaiiqwaam
+𗐹𗤩𗌷	gghaamghwampoo
+𗐹𗥑	gghaamhuu
+𗐹𗥻	gghaamphaii
+𗐹𗥻𗋳	gghaamphaiiqwaam
 𗐺𗌃	miimtuum
 𗐺𗜪	miimliiw
 𗐺𗜪𗱀	miimliiwwoo
@@ -21400,7 +21400,7 @@ min_phrase_weight: 100
 𗐽𗂋	tshoomnar
 𗐽𗅲	tshoomtemhx
 𗐽𗕂	tshoomgux
-𗐽𗙏	tshoomġhaiihx
+𗐽𗙏	tshoomgghaiihx
 𗐽𗦳	tshoomdzux
 𗐽𗨮	tshoomkahx
 𗐽𗸦	tshoomdjwu
@@ -21445,7 +21445,7 @@ min_phrase_weight: 100
 𗐾𘜲𗸟	swiimsjungggaa
 𗐾𘝞𘈧𗾖	swiimywyrxndeegor
 𗐾𘟙	swiimnex
-𗑀𘌀	djihxġhaeerx
+𗑀𘌀	djihxgghaeerx
 𗑀𘐏	djihxtih
 𗑁𗐺	yomxmiim
 𗑁𗒝	yomxmim
@@ -21528,22 +21528,22 @@ min_phrase_weight: 100
 𗑗𗼻	seellyhx
 𗑗𘉍	seebi
 𗑗𘓐	seedzwox
-𗑗𘓐𗀧𗠖	seedzwoxndexġhaar
+𗑗𘓐𗀧𗠖	seedzwoxndexgghaar
 𗑗𘔫	seelluuhx
 𗑗𘕠	seetraoor
 𗑗𘛃	seeluux
 𗑗𘛧	seelemx
-𗑙𗇊	ġhaamthex
-𗑙𗕌	ġhaamzjim
-𗑙𗚿	ġhaamliwx
-𗑙𗣩	ġhaamthaax
-𗑙𗥑𘏸	ġhaamhuusrayy
-𗑙𗦮	ġhaamphe
-𗑙𗫍	ġhaamsji
-𗑙𘄱	ġhaamthem
-𗑙𘋨	ġhaamdzwy
-𗑙𘘣	ġhaamyyx
-𗑙𘝻𗾩	ġhaamqwoohwam
+𗑙𗇊	gghaamthex
+𗑙𗕌	gghaamzjim
+𗑙𗚿	gghaamliwx
+𗑙𗣩	gghaamthaax
+𗑙𗥑𘏸	gghaamhuusrayy
+𗑙𗦮	gghaamphe
+𗑙𗫍	gghaamsji
+𗑙𘄱	gghaamthem
+𗑙𘋨	gghaamdzwy
+𗑙𘘣	gghaamyyx
+𗑙𘝻𗾩	gghaamqwoohwam
 𗑛𗂧	zyrlhehx
 𗑛𗂰	zyrlix
 𗑛𗂰𘍞	zyrlixwooh
@@ -21557,18 +21557,18 @@ min_phrase_weight: 100
 𗑛𗬚	zyrnny
 𗑛𘅞	zyrnerx
 𗑛𘍞	zyrwooh
-𗑛𘍞𗔩𘇚𗅂	zyrwoohġheehxmmixrar
+𗑛𘍞𗔩𘇚𗅂	zyrwoohggheehxmmixrar
 𗑛𘍞𗦖𘛂𗱽𘏬	zyrwoohmerxmbexdzyngqaar
 𗑛𘍞𘒏𗦳𗅂	zyrwoohgadzuxrar
 𗑛𘍞𘟙	zyrwoohnex
 𗑛𘑗	zyrngyyr
 𗑛𘓣	zyrmbaaax
-𗑛𘗠	zyrġhaa
+𗑛𘗠	zyrgghaa
 𗑛𘚶	zyrly
 𗑛𘟙	zyrnex
 𗑝𗈲	tsiiwrqhwaa
 𗑝𗋐	tsiiwrtjhu
-𗑝𗑻	tsiiwrġhaah
+𗑝𗑻	tsiiwrgghaah
 𗑝𗛆	tsiiwrvwaarx
 𗑝𗝫	tsiiwrqhaiiwx
 𗑝𗤢	tsiiwrbix
@@ -21587,10 +21587,10 @@ min_phrase_weight: 100
 𗑠𘜄	rirxngwiir
 𗑠𘝇	rirxnsjwix
 𗑡𗈰	lawxnarx
-𗑣𗀓	ġhwaasjex
-𗑣𗖠	ġhwaangweex
-𗑣𘅣	ġhwaadaahx
-𗑣𘒣	ġhwaadaahx
+𗑣𗀓	gghwaasjex
+𗑣𗖠	gghwaangweex
+𗑣𘅣	gghwaadaahx
+𗑣𘒣	gghwaadaahx
 𗑥𗕗	tjererx
 𗑩𗋐	nggixtjhu
 𗑩𗟨	nggixlhwi
@@ -21602,8 +21602,8 @@ min_phrase_weight: 100
 𗑩𘋟	nggixriiwrx
 𗑩𘎟	nggixnsraaax
 𗑩𘓯	nggixkhom
-𗑩𘔮	nggixġhwaarx
-𗑩𘔮𗔇	nggixġhwaarxwuuhx
+𗑩𘔮	nggixgghwaarx
+𗑩𘔮𗔇	nggixgghwaarxwuuhx
 𗑩𘕋	nggixdjihx
 𗑩𘕤	nggixyux
 𗑩𘖉	nggixkhex
@@ -21638,10 +21638,10 @@ min_phrase_weight: 100
 𗑶𗷃	ziiwxdjehx
 𗑷𗄊	tooxzix
 𗑷𘘑	tooxvwiir
-𗑸𗉜	ġhweendzee
-𗑹𗖯	ġhaamġhaaax
-𗑹𗞊𗍁	ġhaammpuuvwiix
-𗑻𗅭	ġhaahngiiwr
+𗑸𗉜	gghweendzee
+𗑹𗖯	gghaamgghaaax
+𗑹𗞊𗍁	gghaammpuuvwiix
+𗑻𗅭	gghaahngiiwr
 𗑼𗥐	nenor
 𗑼𘒮	nenziiwx
 𗑾𗑝	ngngwuutsiiwr
@@ -21666,26 +21666,26 @@ min_phrase_weight: 100
 𗒎𗞥	yomxleex
 𗒎𗨮	yomxkahx
 𗒎𘃡	yomxvi
-𗒐𗄭𗅲	ġhwaeedzyhxtemhx
-𗒐𗋿𘓓	ġhwaeeyurnvwyy
-𗒐𗙧𗿰	ġhwaeemerqaeehx
-𗒐𗥞𗩱	ġhwaeengguxnwix
-𗒐𗥮𘃸	ġhwaeekurxlleh
-𗒐𗧘𗗔	ġhwaeevwooxnye
-𗒐𗧘𗧯	ġhwaeevwooxnye
-𗒐𗧘𘝯	ġhwaeevwooxmbaoo
-𗒐𗧯	ġhwaeenye
-𗒐𗨙	ġhwaeelhehx
-𗒐𗲸𗨤	ġhwaeetyhxdzox
-𗒐𗳣𘁶	ġhwaeembixdzy
-𗒐𗴛	ġhwaeetjwomx
-𗒐𗴛𗅂	ġhwaeetjwomxrar
-𗒐𗹐𗼟	ġhwaeetwuuhsjwux
-𗒐𗹑𗑗	ġhwaeetjemsee
-𗒐𗼜𘄊	ġhwaeeġhaiixli
-𗒐𘆥	ġhwaee--
-𗒐𘓳𗣷	ġhwaeengoomrxlhyy
-𗒐𘞶𘓮	ġhwaeemphuuxruurx
+𗒐𗄭𗅲	gghwaeedzyhxtemhx
+𗒐𗋿𘓓	gghwaeeyurnvwyy
+𗒐𗙧𗿰	gghwaeemerqaeehx
+𗒐𗥞𗩱	gghwaeengguxnwix
+𗒐𗥮𘃸	gghwaeekurxlleh
+𗒐𗧘𗗔	gghwaeevwooxnye
+𗒐𗧘𗧯	gghwaeevwooxnye
+𗒐𗧘𘝯	gghwaeevwooxmbaoo
+𗒐𗧯	gghwaeenye
+𗒐𗨙	gghwaeelhehx
+𗒐𗲸𗨤	gghwaeetyhxdzox
+𗒐𗳣𘁶	gghwaeembixdzy
+𗒐𗴛	gghwaeetjwomx
+𗒐𗴛𗅂	gghwaeetjwomxrar
+𗒐𗹐𗼟	gghwaeetwuuhsjwux
+𗒐𗹑𗑗	gghwaeetjemsee
+𗒐𗼜𘄊	gghwaeegghaiixli
+𗒐𘆥	gghwaee--
+𗒐𘓳𗣷	gghwaeengoomrxlhyy
+𗒐𘞶𘓮	gghwaeemphuuxruurx
 𗒑𗂩	yyxruur
 𗒑𗆀	yyxwuux
 𗒑𗉔	yyxtjiw
@@ -21706,13 +21706,13 @@ min_phrase_weight: 100
 𗒕𗇒	llwehsja
 𗒕𗇒𘃡	llwehsjavi
 𗒕𗇒𘃡𗳒𘗐𗜍	llwehsjavingwuuxdexsa
-𗒕𗏘	llwehġhaarx
+𗒕𗏘	llwehgghaarx
 𗒕𗦵	llwehpyy
 𗒖𗑀	djydjihx
-𗒘𗎫	ġhaeetserx
-𗒘𘛣	ġhaeesja
+𗒘𗎫	gghaeetserx
+𗒘𘛣	gghaeesja
 𗒚𗳁	byymeex
-𗒛𗔩	wuuhxġheehx
+𗒛𗔩	wuuhxggheehx
 𗒛𗹙	wuuhxtser
 𗒜𗥯	djwagwih
 𗒝𗚂	mimsox
@@ -21752,7 +21752,7 @@ min_phrase_weight: 100
 𗒯𗑱	khikax
 𗒯𗥴	khiqhoom
 𗒯𗽭	khiqhiiwx
-𗒯𘅰	khiġhuu
+𗒯𘅰	khigghuu
 𗒯𘇄	khilwu
 𗒯𘊇	khisjom
 𗒯𘌜	khipaii
@@ -21795,7 +21795,7 @@ min_phrase_weight: 100
 𗒹𗤒	sjahkiw
 𗒹𗬥	sjahde
 𗒹𗭞	sjahbix
-𗒹𗰗	sjahġhaahx
+𗒹𗰗	sjahgghaahx
 𗒹𗰚	sjahnlly
 𗒹𗵫	sjahgeh
 𗒹𗼑	sjahlhihx
@@ -21810,7 +21810,7 @@ min_phrase_weight: 100
 𗒹𘏨	sjahllyh
 𗒹𘓐	sjahdzwox
 𗒹𘔀	sjahvu
-𗒹𘗠	sjahġhaa
+𗒹𘗠	sjahgghaa
 𗒹𘘔	sjahdjaw
 𗒹𘘘	sjahsaa
 𗒹𘜍	sjahyawrx
@@ -21857,24 +21857,24 @@ min_phrase_weight: 100
 𗓈𘎼	lhwuuthy
 𗓈𘑚	lhwuu--
 𗓈𘒰	lhwuunziiwx
-𗓈𘔮	lhwuuġhwaarx
+𗓈𘔮	lhwuugghwaarx
 𗓉𗵑	kywoo
 𗓉𗵑𘊻𗓢	kywoonyvy
 𗓉𘊻	kyny
 𗓌𗦤	djonlle
 𗓌𗪾	djoquuh
 𗓌𘙳	djoveh
-𗓎𗊘	llwuuhġhaee
+𗓎𗊘	llwuuhgghaee
 𗓎𗋅	llwuuhlwuu
 𗓎𗡶	llwuuhsje
 𗓏𗦾	djenyu
 𗓏𘏇	djeriirx
 𗓏𘏇𘆡𘍞	djeriirxtshehxwooh
-𗓑𗍁	ġhweerxvwiix
-𗓑𗍁𘓺𘋨	ġhweerxvwiixngwyyrdzwy
-𗓑𗧯	ġhweerxnye
-𗓑𘒏	ġhweerxga
-𗓑𘒏𗀔	ġhweerxgatjhaw
+𗓑𗍁	gghweerxvwiix
+𗓑𗍁𘓺𘋨	gghweerxvwiixngwyyrdzwy
+𗓑𗧯	gghweerxnye
+𗓑𘒏	gghweerxga
+𗓑𘒏𗀔	gghweerxgatjhaw
 𗓖𗂓	nggaxtiiw
 𗓖𗊻	nggaxsjox
 𗓖𗒻	nggaxkurx
@@ -21894,7 +21894,7 @@ min_phrase_weight: 100
 𗓚𘄽𗠰𗣧	maaxngaahxthiphoo
 𗓚𘄽𘏞𗓽	maaxngaahxpooloo
 𗓚𘊴	maaxthuu
-𗓛𗑻	nrwyyxġhaah
+𗓛𗑻	nrwyyxgghaah
 𗓛𗝠	nrwyyxsi
 𗓛𗼡	nrwyyxpeh
 𗓟𗷸	ngwyyryiwx
@@ -21932,7 +21932,7 @@ min_phrase_weight: 100
 𗓰𗾟	naavwaahx
 𗓰𗿟	naammux
 𗓰𘓟	naadraeex
-𗓰𘗠	naaġhaa
+𗓰𘗠	naagghaa
 𗓰𘜶	naallehx
 𗓳𗤨	naadjux
 𗓳𘋟	naariiwrx
@@ -22008,7 +22008,7 @@ min_phrase_weight: 100
 𗔇𘏋	wuuhxsyy
 𗔇𘐏	wuuhxtih
 𗔇𘓐	wuuhxdzwox
-𗔇𘔮	wuuhxġhwaarx
+𗔇𘔮	wuuhxgghwaarx
 𗔉𗔉	tjhuotjhuo
 𗔉𘂆	tjhuotsy
 𗔉𘎪	tjhuontshe
@@ -22033,7 +22033,7 @@ min_phrase_weight: 100
 𗔕𗕔	nirxthee
 𗔕𗴀	nirxsoox
 𗔕𘊳	nirxboo
-𗔖𗒧	tsiiwrġhaah
+𗔖𗒧	tsiiwrgghaah
 𗔗𗑪	sjawxkwim
 𗔗𗦮	sjawxphe
 𗔗𘊃	sjawxsehx
@@ -22063,9 +22063,9 @@ min_phrase_weight: 100
 𗔨𗔨	trayyxtrayyx
 𗔨𘁂	trayyxyax
 𗔨𘋨	trayyxdzwy
-𗔩𘇚	ġheehxmmix
-𗔩𘇚𗅂	ġheehxmmixrar
-𗔩𘊹	ġheehxkaw
+𗔩𘇚	ggheehxmmix
+𗔩𘇚𗅂	ggheehxmmixrar
+𗔩𘊹	ggheehxkaw
 𗔬𗂧	vwiixlhehx
 𗔬𗆉𘟙	vwiixqaoonex
 𗔬𗉔	vwiixtjiw
@@ -22104,8 +22104,8 @@ min_phrase_weight: 100
 𗔯𗁿	dzitaah
 𗔯𗈐	dzimyyh
 𗔯𗉜	dzindzee
-𗔯𗑸	dziġhwee
-𗔯𗔼	dziġhwee
+𗔯𗑸	dzigghwee
+𗔯𗔼	dzigghwee
 𗔯𗸓	dzidwyyr
 𗔰𗴺	nuhxma
 𗔰𗵳	nuhxnohx
@@ -22120,41 +22120,41 @@ min_phrase_weight: 100
 𗔹𗱲	yerduh
 𗔺𘋧	nllixnllox
 𗔻𗞉	yarxsi
-𗔼𗁅	ġhweellaah
-𗔼𗄪	ġhweenuu
-𗔼𗄼	ġhweela
-𗔼𗉜	ġhweendzee
-𗔼𗋅	ġhweelwuu
-𗔼𗑨	ġhweegomx
-𗔼𗔥	ġhweedzii
-𗔼𗕂	ġhweegux
-𗔼𗝾	ġhweetemh
-𗔼𗠁	ġhweembuux
-𗔼𗡶	ġhweesje
-𗔼𗤶	ġhweenne
-𗔼𗥮	ġhweekurx
-𗔼𗩖𗾱	ġhweedzuxnex
-𗔼𗪺	ġhweeġhaii
-𗔼𗬝	ġhweeriirx
-𗔼𗭹	ġhweebaar
-𗔼𗴠	ġhweetemhx
-𗔼𗷃	ġhweedjehx
-𗔼𗷖	ġhweetshwiiw
-𗔼𗷴	ġhweedwyyrx
-𗔼𗸓	ġhweedwyyr
-𗔼𗹠	ġhweerer
-𗔼𗹶	ġhweeduu
-𗔼𗼄	ġhweetraiir
-𗔼𗾞	ġhweennyx
-𗔼𘅞	ġhweenerx
-𗔼𘅣	ġhweedaahx
-𗔼𘈔	ġhweebix
-𗔼𘎆	ġhweedjwy
-𗔼𘒎	ġhweelhor
-𗔼𘒚	ġhweebee
-𗔼𘓐	ġhweedzwox
-𗔼𘕤	ġhweeyux
-𗔼𘝦	ġhweedjy
+𗔼𗁅	gghweellaah
+𗔼𗄪	gghweenuu
+𗔼𗄼	gghweela
+𗔼𗉜	gghweendzee
+𗔼𗋅	gghweelwuu
+𗔼𗑨	gghweegomx
+𗔼𗔥	gghweedzii
+𗔼𗕂	gghweegux
+𗔼𗝾	gghweetemh
+𗔼𗠁	gghweembuux
+𗔼𗡶	gghweesje
+𗔼𗤶	gghweenne
+𗔼𗥮	gghweekurx
+𗔼𗩖𗾱	gghweedzuxnex
+𗔼𗪺	gghweegghaii
+𗔼𗬝	gghweeriirx
+𗔼𗭹	gghweebaar
+𗔼𗴠	gghweetemhx
+𗔼𗷃	gghweedjehx
+𗔼𗷖	gghweetshwiiw
+𗔼𗷴	gghweedwyyrx
+𗔼𗸓	gghweedwyyr
+𗔼𗹠	gghweerer
+𗔼𗹶	gghweeduu
+𗔼𗼄	gghweetraiir
+𗔼𗾞	gghweennyx
+𗔼𘅞	gghweenerx
+𗔼𘅣	gghweedaahx
+𗔼𘈔	gghweebix
+𗔼𘎆	gghweedjwy
+𗔼𘒎	gghweelhor
+𗔼𘒚	gghweebee
+𗔼𘓐	gghweedzwox
+𗔼𘕤	gghweeyux
+𗔼𘝦	gghweedjy
 𗔾𘍫	qhayyqhwaii
 𗔿𗄐	lwyyrxtjix
 𗔿𗺁𘝞	lwyyrxhaeemxywyrx
@@ -22199,7 +22199,7 @@ min_phrase_weight: 100
 𗕑𗤻𗝂	khyxvahryrx
 𗕑𗦲	khyxrirx
 𗕑𗩟	khyxtjeh
-𗕑𗩴𗼃𘑨𗤛	khyxnniiwxsjemxġhwuuhxtjom
+𗕑𗩴𗼃𘑨𗤛	khyxnniiwxsjemxgghwuuhxtjom
 𗕑𗰧	khyxlhomx
 𗕑𗴮	khyxdeh
 𗕑𗸰	khyxtoom
@@ -22208,15 +22208,15 @@ min_phrase_weight: 100
 𗕑𘅣	khyxdaahx
 𗕑𘅫	khyxtju
 𗕑𘆝	khyxrer
-𗕑𘇍	khyxġhwuuhx
+𗕑𘇍	khyxgghwuuhx
 𗕑𘈑	khyxmyr
 𗕑𘋠	khyxmyyx
 𗕑𘌞	khyxtsyyh
 𗕑𘐳	khyxlyx
 𗕑𘓐	khyxdzwox
 𗕑𘔭	khyxdzem
-𗕑𘔮	khyxġhwaarx
-𗕑𘗠	khyxġhaa
+𗕑𘔮	khyxgghwaarx
+𗕑𘗠	khyxgghaa
 𗕑𘝦	khyxdjy
 𗕒𗀟	ninni
 𗕓𗱣	dihxnvi
@@ -22234,7 +22234,7 @@ min_phrase_weight: 100
 𗕔𗜰𘄴𘏲𘝞	theetsuumtshitserywyrx
 𗕔𗡱	theese
 𗕔𗣔𗣔𗥑	theetuutuuhuu
-𗕔𗣔𗣔𗥑𗔩𘇚𗅂	theetuutuuhuuġheehxmmixrar
+𗕔𗣔𗣔𗥑𗔩𘇚𗅂	theetuutuuhuuggheehxmmixrar
 𗕔𗣔𗣔𗥑𗼻𘎵𗵞𘌎𗔇	theetuutuuhuullyhxzehxsjuosjixwuuhx
 𗕔𗣔𗣔𗥑𘌍𗭔𗔇	theetuutuuhuungaaleexwuuhx
 𗕔𗣔𗣔𗥑𘎵𘍞	theetuutuuhuuzehxwooh
@@ -22289,7 +22289,7 @@ min_phrase_weight: 100
 𗕙𗕏	phyytjyrx
 𗕚𘆧	matshehx
 𗕛𗊛	teetshiiw
-𗕛𗑙𗣩	teeġhaamthaax
+𗕛𗑙𗣩	teegghaamthaax
 𗕛𗜠	teekhwi
 𗕛𗦵𗨝	teepyysjim
 𗕛𗼵	teehomx
@@ -22343,8 +22343,8 @@ min_phrase_weight: 100
 𗕳𗫣	sjyhmpaa
 𗕴𗟥	tsemhteh
 𗕴𘙡	tsemhzrwii
-𗕶𗀘	ġhaahxthwy
-𗕶𗱔	ġhaahxhaam
+𗕶𗀘	gghaahxthwy
+𗕶𗱔	gghaahxhaam
 𗕸𗄋	tjhomzji
 𗕸𗄽𗥑	tjhomsraaamhuu
 𗕸𗉺	tjhomsraaa
@@ -22354,8 +22354,8 @@ min_phrase_weight: 100
 𗕸𗐺𗋰	tjhommiimgex
 𗕸𗐺𗎭	tjhommiimmmi
 𗕸𗑁	tjhomyomx
-𗕸𗑙	tjhomġhaam
-𗕸𗑙𗍁	tjhomġhaamvwiix
+𗕸𗑙	tjhomgghaam
+𗕸𗑙𗍁	tjhomgghaamvwiix
 𗕸𗓽𗍗𘃣	tjhomloovwiixvix
 𗕸𗕌	tjhomzjim
 𗕸𗘬	tjhomswa
@@ -22457,7 +22457,7 @@ min_phrase_weight: 100
 𗖑𗤊	luxsuux
 𗖓𗟢	nlhooxgix
 𗖓𗣈	nlhooxlhow
-𗖓𗥦	nlhooxġhuu
+𗖓𗥦	nlhooxgghuu
 𗖓𗧊	nlhooxtoox
 𗖓𗾶	nlhooxhu
 𗖓𘉐	nlhooxyuo
@@ -22491,7 +22491,7 @@ min_phrase_weight: 100
 𗖟𗝆	kahthoomh
 𗖠𗋅	ngweexlwuu
 𗖠𗎭	ngweexmmi
-𗖠𗑣	ngweexġhwaa
+𗖠𗑣	ngweexgghwaa
 𗖠𗕩	ngweexllwuh
 𗖠𗖀	ngweexdzemx
 𗖠𗖠	ngweexngweex
@@ -22506,7 +22506,7 @@ min_phrase_weight: 100
 𗖠𗮔	ngweexswiiw
 𗖠𗴴	ngweexreerx
 𗖠𘏿	ngweexqaah
-𗖠𘗠	ngweexġhaa
+𗖠𘗠	ngweexgghaa
 𗖡𘞟	tahdzwy
 𗖣𗈄	zraiirnnyx
 𗖣𗈙	zraiirntju
@@ -22520,7 +22520,7 @@ min_phrase_weight: 100
 𗖰𗗈	lwyyrxdoo
 𗖰𗚩	lwyyrxreerx
 𗖰𗹙	lwyyrxtser
-𗖱𗗃	ġhwuuxġhwuhx
+𗖱𗗃	gghwuuxgghwuhx
 𗖳𗆃	laapuuhx
 𗖳𗖴	laakiwrx
 𗖳𗨰	laalaax
@@ -22578,14 +22578,14 @@ min_phrase_weight: 100
 𗗎𘈷	pwyrgix
 𗗎𘌗	pwyrkiwrx
 𗗎𘎪	pwyrntshe
-𗗎𘑨	pwyrġhwuuhx
+𗗎𘑨	pwyrgghwuuhx
 𗗎𘒣	pwyrdaahx
 𗗎𘘚𘛃	pwyrndzexluux
 𗗐𗉖	yiwxtshem
 𗗐𗤷	yiwxqaah
 𗗒𘀈	kuhphuu
 𗗔𗁹	nyethaax
-𗗔𗙏	nyeġhaiihx
+𗗔𗙏	nyegghaiihx
 𗗔𗣯	nyedeh
 𗗔𗣼	nyetjhax
 𗗔𗨁	nyephux
@@ -22596,7 +22596,7 @@ min_phrase_weight: 100
 𗗔𘗲	nyenoox
 𗗔𘞎	nyeqaahx
 𗗕𗃨	llemhxwoox
-𗗘𗉼	llemhxġhaa
+𗗘𗉼	llemhxgghaa
 𗗘𗚭	llemhxdraaar
 𗗘𗡅	llemhxdzi
 𗗘𘕉	llemhxvih
@@ -22614,7 +22614,7 @@ min_phrase_weight: 100
 𗗚𗵃𗊏	gomxvwiinihx
 𗗚𘜶	gomxllehx
 𗗛𗗛	nlhaaaxnlhaaax
-𗗜𗉞	thomrxġhuu
+𗗜𗉞	thomrxgghuu
 𗗜𗗜	thomrxthomrx
 𗗜𗘴	thomrxmmux
 𗗜𗚛	thomrxmux
@@ -22657,7 +22657,7 @@ min_phrase_weight: 100
 𗗦𘋟	phyyriiwrx
 𗗦𘓯	phyykhom
 𗗦𘔭	phyydzem
-𗗦𘔮	phyyġhwaarx
+𗗦𘔮	phyygghwaarx
 𗗧𗉔	qaaatjiw
 𗗧𗉺	qaaasraaa
 𗗧𗕸	qaaatjhom
@@ -22713,7 +22713,7 @@ min_phrase_weight: 100
 𗘂𗡻	khwyly
 𗘂𗤩	khwyghwam
 𗘂𗥇𘈷	khwytyhgix
-𗘂𗥦	khwyġhuu
+𗘂𗥦	khwygghuu
 𗘂𗱔	khwyhaam
 𗘂𘊄	khwynromx
 𗘂𘚡	khwylyyx
@@ -22840,11 +22840,11 @@ min_phrase_weight: 100
 𗙀𘍞	mbuxwooh
 𗙀𘓯	mbuxkhom
 𗙀𘔭	mbuxdzem
-𗙀𘔮	mbuxġhwaarx
-𗙀𘔮𗔇	mbuxġhwaarxwuuhx
+𗙀𘔮	mbuxgghwaarx
+𗙀𘔮𗔇	mbuxgghwaarxwuuhx
 𗙀𘘖	mbuxllihx
 𗙀𘜘	mbuxrir
-𗙁𗙏	myyxġhaiihx
+𗙁𗙏	myyxgghaiihx
 𗙃𗃠	limnneex
 𗙃𗃠𘜸𘏸	limnneextshyysrayy
 𗙃𗊧𘟙𗰖𘝞	limtjhwamnexnsraooywyrx
@@ -22869,46 +22869,46 @@ min_phrase_weight: 100
 𗙊𗦺	draaamphaam
 𗙋𗖠	dzoomngweex
 𗙌𗠭	qayyqaii
-𗙍𗄵	qhwayyġhwaeem
+𗙍𗄵	qhwayygghwaeem
 𗙍𗯒	qhwayytshaax
 𗙍𘕘𗞖	qhwayytsyyfim
 𗙎𗙎	siiwsiiw
-𗙏𗁦	ġhaiihxbeh
-𗙏𗍨	ġhaiihxzuurx
-𗙏𗓁	ġhaiihxmi
-𗙏𗖵	ġhaiihxbu
-𗙏𗙄	ġhaiihxsrayyr
-𗙏𗙠	ġhaiihxdraaa
-𗙏𗢕	ġhaiihxlhyr
-𗙏𗧊	ġhaiihxtoox
-𗙏𗧘	ġhaiihxvwoox
-𗙏𗳆	ġhaiihxlho
-𗙏𗶦	ġhaiihxqaahx
-𗙏𗷠	ġhaiihxtrwaee
-𗙏𗿒	ġhaiihxqhweex
-𗙏𘂊	ġhaiihx--
-𗙏𘄽	ġhaiihxngaahx
-𗙏𘍦	ġhaiihxye
-𗙏𘐉	ġhaiihxvahx
-𗙏𘙂	ġhaiihxbih
-𗙏𘙰	ġhaiihxliiwx
-𗙏𘝇	ġhaiihxnsjwix
-𗙏𘝯	ġhaiihxmbaoo
-𗙏𘟔	ġhaiihxnlhi
-𗙑𗁹	ġhaiihxthaax
-𗙑𗆮	ġhaiihxlhow
-𗙑𗊴	ġhaiihxse
-𗙑𗧊	ġhaiihxtoox
-𗙑𗨙	ġhaiihxlhehx
-𗙑𗱏𗌡𗍋	ġhaiihxpuuthaamngkhy
-𗙑𗱩	ġhaiihxnwe
-𗙑𘇒	ġhaiihxvwaiir
-𗙑𘏖	ġhaiihxtemhx
-𗙑𘙞	ġhaiihxzjyrx
-𗙑𘚢	ġhaiihxdraeex
-𗙑𘚶	ġhaiihxly
-𗙑𘝓	ġhaiihxsjwu
-𗙑𘝟	ġhaiihxsjwy
+𗙏𗁦	gghaiihxbeh
+𗙏𗍨	gghaiihxzuurx
+𗙏𗓁	gghaiihxmi
+𗙏𗖵	gghaiihxbu
+𗙏𗙄	gghaiihxsrayyr
+𗙏𗙠	gghaiihxdraaa
+𗙏𗢕	gghaiihxlhyr
+𗙏𗧊	gghaiihxtoox
+𗙏𗧘	gghaiihxvwoox
+𗙏𗳆	gghaiihxlho
+𗙏𗶦	gghaiihxqaahx
+𗙏𗷠	gghaiihxtrwaee
+𗙏𗿒	gghaiihxqhweex
+𗙏𘂊	gghaiihx--
+𗙏𘄽	gghaiihxngaahx
+𗙏𘍦	gghaiihxye
+𗙏𘐉	gghaiihxvahx
+𗙏𘙂	gghaiihxbih
+𗙏𘙰	gghaiihxliiwx
+𗙏𘝇	gghaiihxnsjwix
+𗙏𘝯	gghaiihxmbaoo
+𗙏𘟔	gghaiihxnlhi
+𗙑𗁹	gghaiihxthaax
+𗙑𗆮	gghaiihxlhow
+𗙑𗊴	gghaiihxse
+𗙑𗧊	gghaiihxtoox
+𗙑𗨙	gghaiihxlhehx
+𗙑𗱏𗌡𗍋	gghaiihxpuuthaamngkhy
+𗙑𗱩	gghaiihxnwe
+𗙑𘇒	gghaiihxvwaiir
+𗙑𘏖	gghaiihxtemhx
+𗙑𘙞	gghaiihxzjyrx
+𗙑𘚢	gghaiihxdraeex
+𗙑𘚶	gghaiihxly
+𗙑𘝓	gghaiihxsjwu
+𗙑𘝟	gghaiihxsjwy
 𗙓𗿄	lwimkhux
 𗙓𘔘𗾩	lwimhuumhwam
 𗙔𗌡	hwaamthaam
@@ -22922,7 +22922,7 @@ min_phrase_weight: 100
 𗙘𘗂	gghaiihxtshoomx
 𗙛𘕘	lyxtsyy
 𗙞𗵃	qhwayyvwii
-𗙡𗙏	qwaarġhaiihx
+𗙡𗙏	qwaargghaiihx
 𗙡𗡈	qwaaryawrx
 𗙡𘕨	qwaarnsi
 𗙢𗷭	vwaamxkim
@@ -23005,7 +23005,7 @@ min_phrase_weight: 100
 𗚍𗉖	djwamtshem
 𗚍𗴛	djwamtjwomx
 𗚍𗻒	djwamdjwamx
-𗚑𗚬	dooġhoor
+𗚑𗚬	doogghoor
 𗚓𘔒	tunex
 𗚔𘚎	dzwyxdziw
 𗚖𗖟	lhorkah
@@ -23048,11 +23048,11 @@ min_phrase_weight: 100
 𗚩𘒎	reerxlhor
 𗚪𗷜	biidihx
 𗚫𗝠	vweemsi
-𗚬𗝠	ġhoorsi
+𗚬𗝠	gghoorsi
 𗚭𗁧	draaartiiw
 𗚭𗹙	draaartser
 𗚭𘟞	draaarbyr
-𗚯𘗠	leeġhaa
+𗚯𘗠	leegghaa
 𗚱𗝳	lhomxnaw
 𗚲𗝠	tsyrsi
 𗚲𗫴	tsyrmma
@@ -23069,7 +23069,7 @@ min_phrase_weight: 100
 𗚽𗅉	duuhnuo
 𗚽𗞝	duuhgex
 𗚿𗐱	liwxnix
-𗚿𗝐	liwxġhaax
+𗚿𗝐	liwxgghaax
 𗚿𗬐	liwxsyy
 𗚿𗵸	liwxhe
 𗚿𘄀	liwxtju
@@ -23112,7 +23112,7 @@ min_phrase_weight: 100
 𗛝𗛦	reerxqhaii
 𗛝𗝠	reerxsi
 𗛝𘊳	reerxboo
-𗛞𗛠	dyxġhuux
+𗛞𗛠	dyxgghuux
 𗛞𗜩	dyxlaax
 𗛟𗑉	vwiimee
 𗛟𗝥	vwiimuur
@@ -23129,7 +23129,7 @@ min_phrase_weight: 100
 𗛧𘇂	lluhgguux
 𗛨𘈗	naarxqaam
 𗛩𗚍	vordjwam
-𗛪𗞪	giwġhaeerx
+𗛪𗞪	giwgghaeerx
 𗛬𗚕	duuxlix
 𗛬𗜷	duuxmboox
 𗛯𘊉	nvukeh
@@ -23218,7 +23218,7 @@ min_phrase_weight: 100
 𗜐𗥞	mmyynggux
 𗜐𗧊	mmyytoox
 𗜐𗧹	mmyygir
-𗜐𗪺	mmyyġhaii
+𗜐𗪺	mmyygghaii
 𗜐𗭹	mmyybaar
 𗜐𗭼	mmyyswiiw
 𗜐𗯼	mmyydjaw
@@ -23300,7 +23300,7 @@ min_phrase_weight: 100
 𗜫𘊐𘉅𘐆𘝞	sikedzaalaaywyrx
 𗜫𘏸	sisrayy
 𗜮𗜬	nllunllo
-𗜮𘔮	nlluġhwaarx
+𗜮𘔮	nllugghwaarx
 𗜯𗞈	llyyxbaiix
 𗜰𗋳	tsuumqwaam
 𗜰𘇨	tsuumsrwaii
@@ -23347,7 +23347,7 @@ min_phrase_weight: 100
 𗝓𗝃	qayyxpaeemx
 𗝔𗜝	ruurxgehx
 𗝔𗝠	ruurxsi
-𗝕𗄵	luġhwaeem
+𗝕𗄵	lugghwaeem
 𗝕𗄽	lusraaam
 𗝕𗥋	lummyy
 𗝕𗭹	lubaar
@@ -23366,7 +23366,7 @@ min_phrase_weight: 100
 𗝚𘕰	syphuux
 𗝛𗫴	niirxmma
 𗝛𘕰	niirxphuux
-𗝜𗺟	dyrxġhoorx
+𗝜𗺟	dyrxgghoorx
 𗝝𗖟	ngwyyrkah
 𗝞𗛭	ndeextuu
 𗝟𗛄	guhxllwuh
@@ -23385,7 +23385,7 @@ min_phrase_weight: 100
 𗝠𗏫	silluuhx
 𗝠𗏫𘎵𘍞	silluuhxzehxwooh
 𗝠𗒕	sillweh
-𗝠𗓑𘍞	siġhweerxwooh
+𗝠𗓑𘍞	sigghweerxwooh
 𗝠𗔧	sisux
 𗝠𗘩	sinyyrx
 𗝠𗛅	siduuhx
@@ -23399,7 +23399,7 @@ min_phrase_weight: 100
 𗝠𗟛	sibaahx
 𗝠𗢬	sidziw
 𗝠𗤩	sighwam
-𗝠𗥦	siġhuu
+𗝠𗥦	sigghuu
 𗝠𗥻	siphaii
 𗝠𗦻	simmex
 𗝠𗫴	simma
@@ -23410,7 +23410,7 @@ min_phrase_weight: 100
 𗝠𗵫	sigeh
 𗝠𗺞	situuh
 𗝠𗼺	sindzuux
-𗝠𗽪𗢭𗽓𗼻𘎵𗵞𘌎𗔇	siġhweexnggyriiwrllyhxzehxsjuosjixwuuhx
+𗝠𗽪𗢭𗽓𗼻𘎵𗵞𘌎𗔇	sigghweexnggyriiwrllyhxzehxsjuosjixwuuhx
 𗝠𘊉	sikeh
 𗝠𘊳	siboo
 𗝠𘋮	siyar
@@ -23444,7 +23444,7 @@ min_phrase_weight: 100
 𗝰𗝠	mmaarsi
 𗝱𗝠	vweerxsi
 𗝲𗛋	myxqaaax
-𗝵𘂬	ġhaeewoo
+𗝵𘂬	gghaeewoo
 𗝶𗲕	tjaxtsii
 𗝷𗚾	qiiwxkhix
 𗝷𗛉	qiiwxkhe
@@ -23463,7 +23463,7 @@ min_phrase_weight: 100
 𗝿𗉖𘕘	tjhetshemtsyy
 𗝿𗐱𗤛	tjhenixtjom
 𗝿𗑑	tjhemaoor
-𗝿𗙏	tjheġhaiihx
+𗝿𗙏	tjhegghaiihx
 𗝿𗜈	tjhezoomx
 𗝿𗜖	tjhetjox
 𗝿𗜙	tjhetjex
@@ -23550,7 +23550,7 @@ min_phrase_weight: 100
 𗞦𗝡	kurnllaa
 𗞨𗻝	qayyxziimx
 𗞩𗇒	nixsja
-𗞩𘀬	nixġhaa
+𗞩𘀬	nixgghaa
 𗞫𗞫	tjitji
 𗞫𘍁	tjitrayyr
 𗞬𗝠	remxsi
@@ -23574,12 +23574,12 @@ min_phrase_weight: 100
 𗟀𗜈	raarxzoomx
 𗟀𗜶	raarxnvwii
 𗟀𗟢	raarxgix
-𗟀𗪺	raarxġhaii
+𗟀𗪺	raarxgghaii
 𗟀𗫻	raarxndje
 𗟀𘐏	raarxtih
 𗟀𘓐	raarxdzwox
 𗟀𘔭	raarxdzem
-𗟀𘔮	raarxġhwaarx
+𗟀𘔮	raarxgghwaarx
 𗟀𘞙	raarxgeh
 𗟁𗊃	thwooxmuur
 𗟄𗜤	lykiw
@@ -23622,7 +23622,7 @@ min_phrase_weight: 100
 𗟔𗋻	qoodzoom
 𗟔𗍰	qoopohx
 𗟔𗖅	qooswix
-𗟔𗥦𘏿	qooġhuuqaah
+𗟔𗥦𘏿	qoogghuuqaah
 𗟔𗥫	qooye
 𗟔𗦋	qooneex
 𗟔𗦬	qoogguux
@@ -23635,7 +23635,7 @@ min_phrase_weight: 100
 𗟔𘆝	qoorer
 𗟔𘆦	qoondzee
 𗟔𘖘	qoodjy
-𗟔𘗠	qooġhaa
+𗟔𘗠	qoogghaa
 𗟔𘚢	qoodraeex
 𗟗𗎸	phitjax
 𗟘𗬧	povwyyh
@@ -23646,7 +23646,7 @@ min_phrase_weight: 100
 𗟛𗒯	baahxkhi
 𗟜𗋂	dzyrsjwow
 𗟜𗐒	dzyrghax
-𗟜𗔼	dzyrġhwee
+𗟜𗔼	dzyrgghwee
 𗟜𗢵	dzyrvwoor
 𗟜𗥳	dzyrllihx
 𗟜𗦎	dzyrraarx
@@ -23677,10 +23677,10 @@ min_phrase_weight: 100
 𗟦𘜲	maamsju
 𗟦𘞐	maamnsju
 𗟦𘞐𗃵	maamnsjupuhx
-𗟦𘞐𗦻𘞌𗒘	maamnsjummexzjyrġhaee
+𗟦𘞐𗦻𘞌𗒘	maamnsjummexzjyrgghaee
 𗟧𗵗	rirxrorx
-𗟨𗒐	lhwiġhwaee
-𗟨𗔩	lhwiġheehx
+𗟨𗒐	lhwigghwaee
+𗟨𗔩	lhwiggheehx
 𗟨𗜈	lhwizoomx
 𗟨𗝿	lhwitjhe
 𗟨𗳫	lhwilhoh
@@ -23692,7 +23692,7 @@ min_phrase_weight: 100
 𗟫𗈪𗗄	nirxalux
 𗟫𗔓	nirx--
 𗟫𗢸𗷆	nirxllawxmphi
-𗟫𗥦𘏿	nirxġhuuqaah
+𗟫𗥦𘏿	nirxgghuuqaah
 𗟫𗰨𗚊	nirxyiwxnguur
 𗟫𗹑	nirxtjem
 𗟫𗾤	nirxghu
@@ -23752,7 +23752,7 @@ min_phrase_weight: 100
 𗟶𗼕	yirlo
 𗟶𗿄	yirkhux
 𗟶𘆝	yirrer
-𗟶𘔮	yirġhwaarx
+𗟶𘔮	yirgghwaarx
 𗟶𘛃	yirluux
 𗟶𘞾	yirbyh
 𗟷𗖏	pynwox
@@ -23821,7 +23821,7 @@ min_phrase_weight: 100
 𗠇𘓔	tihmyhx
 𗠇𘓯	tihkhom
 𗠇𘔃	tihtswu
-𗠇𘔮	tihġhwaarx
+𗠇𘔮	tihgghwaarx
 𗠇𘕉	tihvih
 𗠇𘕤	tihyux
 𗠇𘛇	tihgux
@@ -23830,9 +23830,9 @@ min_phrase_weight: 100
 𗠇𘝛	tihtjhuo
 𗠉𗍂	myyrnwe
 𗠉𗐉	myyrmar
-𗠉𗙏	myyrġhaiihx
-𗠉𗙏𗊢	myyrġhaiihxnlly
-𗠉𗙏𗥫	myyrġhaiihxye
+𗠉𗙏	myyrgghaiihx
+𗠉𗙏𗊢	myyrgghaiihxnlly
+𗠉𗙏𗥫	myyrgghaiihxye
 𗠉𗡃	myyrtsheex
 𗠉𗢸	myyrllawx
 𗠉𗤋	myyrme
@@ -23865,10 +23865,10 @@ min_phrase_weight: 100
 𗠚𘟙	theehxnex
 𗠛𗠰	lluhxthi
 𗠜𗘁	bixriir
-𗠜𗙏	bixġhaiihx
+𗠜𗙏	bixgghaiihx
 𗠜𗠜	bixbix
 𗠜𗡈	bixyawrx
-𗠝𗠴	aaġhaaax
+𗠝𗠴	aagghaaax
 𗠝𗦡𘋮	aayomxyar
 𗠝𘉿	aatsu
 𗠞𗡊	nwix--
@@ -23959,7 +23959,7 @@ min_phrase_weight: 100
 𗡚𗿳	tsiiwxdzem
 𗡛𗒞	lixnnaax
 𗡝𗑌	kaqaee
-𗡝𗑙	kaġhaam
+𗡝𗑙	kagghaam
 𗡝𗜪𗓽	kaliiwloo
 𗡝𗤛	katjom
 𗡝𗷲	kagim
@@ -23989,7 +23989,7 @@ min_phrase_weight: 100
 𗡞𘄄	tuuhzi
 𗡞𘋠	tuuhmyyx
 𗡞𘓐	tuuhdzwox
-𗡞𘗠	tuuhġhaa
+𗡞𘗠	tuuhgghaa
 𗡞𘘔	tuuhdjaw
 𗡞𘘘	tuuhsaa
 𗡡𗃎	nvwyyyer
@@ -24008,7 +24008,7 @@ min_phrase_weight: 100
 𗡧𗼟	ndzixsjwux
 𗡨𗒀	draooxtshwiiw
 𗡨𗡼	draooxberx
-𗡪𗏢	tsiiwxġhuur
+𗡪𗏢	tsiiwxgghuur
 𗡪𗤋	tsiiwxme
 𗡪𗦢	tsiiwxdzaax
 𗡪𗷳	tsiiwxduux
@@ -24030,7 +24030,7 @@ min_phrase_weight: 100
 𗡱𗗧𗒈	seqaaadraeemx
 𗡱𗟲	sengngwuu
 𗡱𗡱	sese
-𗡱𗰔𘏐	seyiwxġhwaii
+𗡱𗰔𘏐	seyiwxgghwaii
 𗡱𗱭	sesjiwx
 𗡱𘌍	sengaa
 𗡱𘛫𗔇	seliwwuuhx
@@ -24118,13 +24118,13 @@ min_phrase_weight: 100
 𗢈𗕂	tsaagux
 𗢈𗢿	tsaatshwim
 𗢈𗢿𗽓	tsaatshwimriiwr
-𗢈𗦗𘏐	tsaasooxġhwaii
+𗢈𗦗𘏐	tsaasooxgghwaii
 𗢉𘛇	tsaagux
 𗢉𘛊	tsaaqaaa
 𗢊𗢌	vuhxpiim
 𗢌𗈾	piimlhwah
 𗢌𗾋	piimtiih
-𗢎𗢏	ġhaarsix
+𗢎𗢏	gghaarsix
 𗢐𗛲	wuulomx
 𗢐𘋨	wuudzwy
 𗢔𗫡	rirxnyx
@@ -24166,7 +24166,7 @@ min_phrase_weight: 100
 𗢤𗹸	laaxlhuo
 𗢤𗽰	laaxmbuux
 𗢤𘃡	laaxvi
-𗢤𘗠	laaxġhaa
+𗢤𘗠	laaxgghaa
 𗢥𘝌	ndaallemh
 𗢦𗜈	gixzoomx
 𗢧𗶲	mmeerxtaa
@@ -24199,14 +24199,14 @@ min_phrase_weight: 100
 𗢭𗀻	nggytshwim
 𗢭𗁞	nggytjhawx
 𗢭𗊀	nggyghu
-𗢭𗋇	nggyghu
+𗢭𗋇	nggyγu
 𗢭𗌹	nggyner
 𗢭𗍫	nggynny
 𗢭𗍬	nggylux
 𗢭𗏇	nggydix
 𗢭𗓆	nggyle
 𗢭𗕑	nggykhyx
-𗢭𗙏	nggyġhaiihx
+𗢭𗙏	nggygghaiihx
 𗢭𗛜	nggyremx
 𗢭𗝏	nggyduuhx
 𗢭𗞖	nggyfim
@@ -24218,8 +24218,8 @@ min_phrase_weight: 100
 𗢭𗣼	nggytjhax
 𗢭𗤒	nggykiw
 𗢭𗬥	nggyde
-𗢭𗰗	nggyġhaahx
-𗢭𗰗𗼲	nggyġhaahxmbux
+𗢭𗰗	nggygghaahx
+𗢭𗰗𗼲	nggygghaahxmbux
 𗢭𗲌	nggyma
 𗢭𗳄	nggykyrx
 𗢭𗴮	nggydeh
@@ -24242,23 +24242,23 @@ min_phrase_weight: 100
 𗢭𘊲	nggymphaaax
 𗢭𘋠	nggymyyx
 𗢭𘓐	nggydzwox
-𗢭𘗠	nggyġhaa
+𗢭𘗠	nggygghaa
 𗢭𘘔	nggydjaw
 𗢭𘘘	nggysaa
 𗢭𘛅	nggydzyhx
 𗢭𘜍	nggyyawrx
 𗢮𗖘	gwinwox
 𗢮𘒣	gwidaahx
-𗢯𗀔𗙏	lhwatjhawġhaiihx
+𗢯𗀔𗙏	lhwatjhawgghaiihx
 𗢯𗆮	lhwalhow
 𗢯𗗠	lhwanlhaaa
 𗢯𗠂	lhwariirx
 𗢯𗠼	lhwanllex
 𗢯𗹠	lhwarer
 𗢯𘁙	lhwadjwa
-𗢯𘁙𗙏	lhwadjwaġhaiihx
+𗢯𘁙𗙏	lhwadjwagghaiihx
 𗢯𘐳	lhwalyx
-𗢯𘘄𗙏	lhwasjwiġhaiihx
+𗢯𘘄𗙏	lhwasjwigghaiihx
 𗢱𗥪	tshoomlemx
 𗢱𗥪𗪳	tshoomlemxvwiix
 𗢲𗳘	nggaxngwii
@@ -24283,7 +24283,7 @@ min_phrase_weight: 100
 𗢷𗫴	ngkhyxmma
 𗢸𗃎	llawxyer
 𗢸𗋈	llawxngwuux
-𗢸𗔼	llawxġhwee
+𗢸𗔼	llawxgghwee
 𗢸𗔿𗋐	llawxlwyyrxtjhu
 𗢸𗘩	llawxnyyrx
 𗢸𗜈	llawxzoomx
@@ -24331,10 +24331,10 @@ min_phrase_weight: 100
 𗣆𗎁	tshaxrirx
 𗣆𗔕	tshaxnirx
 𗣆𘀄	tshaxnggux
-𗣆𘀄𗰔𘏐	tshaxngguxyiwxġhwaii
+𗣆𘀄𗰔𘏐	tshaxngguxyiwxgghwaii
 𗣆𘀄𘏨𘎧	tshaxngguxllyhvwaa
 𗣆𘋺	tshaxsjuo
-𗣈𗔼	lhowġhwee
+𗣈𗔼	lhowgghwee
 𗣈𗭍	lhowdjeh
 𗣈𘃽	lhowwoox
 𗣈𘕂	lhowdje
@@ -24381,7 +24381,7 @@ min_phrase_weight: 100
 𗣛𗺉𗑪	qiiwtjhixkwim
 𗣛𗽤	qiiwtrhaeex
 𗣛𘅧𗐐𘓖	qiiwkwihomqoom
-𗣛𘅰𗽲	qiiwġhuuge
+𗣛𘅰𗽲	qiiwgghuuge
 𗣛𘌜𗁬	qiiwpaiithoom
 𗣛𘏱	qiiwsiiwx
 𗣛𘕆	qiiwtaam
@@ -24401,7 +24401,7 @@ min_phrase_weight: 100
 𗣟𗺉	vertjhix
 𗣟𘍦	verye
 𗣟𘕤	veryux
-𗣡𗍀	thyxġhuux
+𗣡𗍀	thyxgghuux
 𗣣𗮘	tshisjwix
 𗣤𗎘	pybux
 𗣦𗶻	sjwiwsjwyhx
@@ -24475,7 +24475,7 @@ min_phrase_weight: 100
 𗣼𗅲	tjhaxtemhx
 𗣼𗋿	tjhaxyur
 𗣼𗏴	tjhaxdju
-𗣼𗒘	tjhaxġhaee
+𗣼𗒘	tjhaxgghaee
 𗣼𗟲	tjhaxngngwuu
 𗣼𗤋	tjhaxme
 𗣼𗤶	tjhaxnne
@@ -24483,10 +24483,10 @@ min_phrase_weight: 100
 𗣼𗧁	tjhaxrerx
 𗣼𗧘	tjhaxvwoox
 𗣼𗧯	tjhaxnye
-𗣼𗪟	tjhaxġhuu
-𗣼𗪺	tjhaxġhaii
+𗣼𗪟	tjhaxgghuu
+𗣼𗪺	tjhaxgghaii
 𗣼𗫡	tjhaxnyx
-𗣼𗫦	tjhaxġhaiiw
+𗣼𗫦	tjhaxgghaiiw
 𗣼𗫨	tjhaxdwiiwrx
 𗣼𗭍	tjhaxdjeh
 𗣼𗭼	tjhaxswiiw
@@ -24557,11 +24557,11 @@ min_phrase_weight: 100
 𗤁𗡪	tjhiwtsiiwx
 𗤁𗤒	tjhiwkiw
 𗤁𗤻	tjhiwvah
-𗤁𗦁	tjhiwġhaiihx
+𗤁𗦁	tjhiwgghaiihx
 𗤁𗧯	tjhiwnye
 𗤁𗫲	tjhiwkhe
 𗤁𗬥	tjhiwde
-𗤁𗰗	tjhiwġhaahx
+𗤁𗰗	tjhiwgghaahx
 𗤁𗵘	tjhiwtja
 𗤁𗵫	tjhiwgeh
 𗤁𗶚	tjhiwne
@@ -24579,7 +24579,7 @@ min_phrase_weight: 100
 𗤁𘋠	tjhiwmyyx
 𗤁𘒏	tjhiwga
 𗤁𘔭	tjhiwdzem
-𗤁𘗠	tjhiwġhaa
+𗤁𘗠	tjhiwgghaa
 𗤁𘘔	tjhiwdjaw
 𗤁𘘘	tjhiwsaa
 𗤁𘙋	tjhiwriir
@@ -24618,7 +24618,7 @@ min_phrase_weight: 100
 𗤒𗆧𘘞𗳝	kiwsiwqaawoo
 𗤒𗡅	kiwdzi
 𗤒𗤒	kiwkiw
-𗤒𗥦	kiwġhuu
+𗤒𗥦	kiwgghuu
 𗤒𗦎	kiwraarx
 𗤒𗯮	kiwnthwuu
 𗤒𗸕	kiwqhwyy
@@ -24667,7 +24667,7 @@ min_phrase_weight: 100
 𗤛𘋅𗕔𗥑	tjomsaamtheehuu
 𗤛𘋻	tjomzjux
 𗤛𘑗	tjomngyyr
-𗤛𘔮	tjomġhwaarx
+𗤛𘔮	tjomgghwaarx
 𗤛𘝗	tjomyiw
 𗤜𗐮	lomlemx
 𗤝𗤝	tjitji
@@ -24696,7 +24696,7 @@ min_phrase_weight: 100
 𗤢𘍔	bixtjih
 𗤢𘓊	bixzyr
 𗤢𘓐	bixdzwox
-𗤢𘗠	bixġhaa
+𗤢𘗠	bixgghaa
 𗤢𘝣	bixnraeem
 𗤤𗨎	thuungiiwr
 𗤤𗩯	thuuswe
@@ -24719,7 +24719,7 @@ min_phrase_weight: 100
 𗤩𗏆	ghwamhwaaam
 𗤩𗐪	ghwamkhomx
 𗤩𗐾	ghwamswiim
-𗤩𗑙	ghwamġhaam
+𗤩𗑙	ghwamgghaam
 𗤩𗔗	ghwamsjawx
 𗤩𗔨𗺉	ghwamtrayyxtjhix
 𗤩𗕸	ghwamtjhom
@@ -24749,7 +24749,7 @@ min_phrase_weight: 100
 𗤩𘓖	ghwamqoom
 𗤩𘔘	ghwamhuum
 𗤪𗊟	ngiiwrnsoo
-𗤪𗙏	ngiiwrġhaiihx
+𗤪𗙏	ngiiwrgghaiihx
 𗤪𗙘	ngiiwrgghaiihx
 𗤪𗤪	ngiiwrngiiwr
 𗤪𗯞	ngiiwrbe
@@ -24882,7 +24882,7 @@ min_phrase_weight: 100
 𗤶𘓆	nnellyh
 𗤶𘓓	nnenvwyy
 𗤶𘓔	nnemyhx
-𗤶𘓠	nneġhaa
+𗤶𘓠	nnegghaa
 𗤶𘔟	nnedjyhx
 𗤶𘙰	nneliiwx
 𗤶𘚠	nnelyyx
@@ -24898,7 +24898,7 @@ min_phrase_weight: 100
 𗤷𗕡	qaahzor
 𗤷𗗦	qaahphyy
 𗤷𗜮	qaahnllu
-𗤷𗦁	qaahġhaiihx
+𗤷𗦁	qaahgghaiihx
 𗤷𗦳	qaahdzux
 𗤷𗧤	qaahpha
 𗤷𗨳	qaahtih
@@ -24908,11 +24908,11 @@ min_phrase_weight: 100
 𗤷𘐉	qaahvahx
 𗤷𘐏	qaahtih
 𗤷𘓔	qaahmyhx
-𗤷𘗠	qaahġhaa
+𗤷𘗠	qaahgghaa
 𗤺𗀫	lhwyxmphoo
 𗤺𗈶	lhwyxsy
 𗤺𗖾	lhwyxthyyh
-𗤺𗙏	lhwyxġhaiihx
+𗤺𗙏	lhwyxgghaiihx
 𗤺𗢃	lhwyxgwyr
 𗤺𗣓	lhwyxggaii
 𗤺𗤄	lhwyxyyr
@@ -24977,7 +24977,7 @@ min_phrase_weight: 100
 𗥃𗑟	llyrvih
 𗥃𗕑	llyrkhyx
 𗥃𗗚	llyrgomx
-𗥃𗙏	llyrġhaiihx
+𗥃𗙏	llyrgghaiihx
 𗥃𗚻	llyrsjemx
 𗥃𗛆	llyrvwaarx
 𗥃𗝏	llyrduuhx
@@ -24989,7 +24989,7 @@ min_phrase_weight: 100
 𗥃𗫴	llyrmma
 𗥃𗬥	llyrde
 𗥃𗭒	llyrkhy
-𗥃𗰗	llyrġhaahx
+𗥃𗰗	llyrgghaahx
 𗥃𗰚	llyrnlly
 𗥃𗲌𘍞	llyrmawooh
 𗥃𗴮	llyrdeh
@@ -25018,7 +25018,7 @@ min_phrase_weight: 100
 𗥃𘕴	llyrdzemx
 𗥃𘖙	llyrnoox
 𗥃𘗝	llyrlluuh
-𗥃𘗠	llyrġhaa
+𗥃𘗠	llyrgghaa
 𗥃𘘔	llyrdjaw
 𗥃𘘖	llyrllihx
 𗥃𘘘	llyrsaa
@@ -25118,13 +25118,13 @@ min_phrase_weight: 100
 𗥕𘗓	zuuxnggwi
 𗥖𗂹	twylhyh
 𗥖𗅥	twytux
-𗥖𗅥𗫹𗔼	twytuxġhwyyġhwee
+𗥖𗅥𗫹𗔼	twytuxgghwyygghwee
 𗥖𗇫	twydihx
-𗥖𗔼	twyġhwee
+𗥖𗔼	twygghwee
 𗥖𗜍	twysa
 𗥖𗝿	twytjhe
 𗥖𗥖	twytwy
-𗥖𗥖𗫹𗔼	twytwyġhwyyġhwee
+𗥖𗥖𗫹𗔼	twytwygghwyygghwee
 𗥖𗴚	twype
 𗥖𗷃	twydjehx
 𗥖𘃨	twyghyr
@@ -25133,13 +25133,13 @@ min_phrase_weight: 100
 𗥙𘆼	tshaamqwaeex
 𗥚𗳩	zwihxwoo
 𗥚𗳩𗣆𘄄	zwihxwootshaxzi
-𗥚𗳩𗪃𗪺𘟪	zwihxwoothuuġhaiisjom
+𗥚𗳩𗪃𗪺𘟪	zwihxwoothuugghaiisjom
 𗥚𗳩𘀄𘓄𗘂	zwihxwoongguxrurkhwy
 𗥚𗳩𘀄𘓄𗩴	zwihxwoongguxrurnniiwx
 𗥚𘐝	zwihxsraeem
 𗥛𗁮	ryrtjhi
-𗥛𗄵	ryrġhwaeem
-𗥛𗏨	ryrġhuur
+𗥛𗄵	ryrgghwaeem
+𗥛𗏨	ryrgghuur
 𗥛𗑝	ryrtsiiwr
 𗥛𗟂	ryrngggaee
 𗥛𗧜	ryrnlhuux
@@ -25155,7 +25155,7 @@ min_phrase_weight: 100
 𗥜𗱈𗹏𘕂	qwyyhlliixdoomdje
 𗥞𗄼	ngguxla
 𗥞𗇫	ngguxdihx
-𗥞𗓑	ngguxġhweerx
+𗥞𗓑	ngguxgghweerx
 𗥞𗖫	ngguxnahx
 𗥞𗶧	ngguxdjwix
 𗥞𗹙	ngguxtser
@@ -25164,7 +25164,7 @@ min_phrase_weight: 100
 𗥞𗹙𗣼𘉐𗅂	ngguxtsertjhaxyuorar
 𗥞𗹙𘍦	ngguxtserye
 𗥞𗿢𗢳𗴺𗤛	ngguxzuurxthaamatjom
-𗥞𘑨	ngguxġhwuuhx
+𗥞𘑨	ngguxgghwuuhx
 𗥞𘖗	ngguxdjy
 𗥡𗁼	luuxbex
 𗥡𗂧	luuxlhehx
@@ -25188,7 +25188,7 @@ min_phrase_weight: 100
 𗥡𘍨𘓖	luuxhiqoom
 𗥡𘍨𘟙	luuxhinex
 𗥡𘓐	luuxdzwox
-𗥡𘕪𘓖	luuxġhiiwqoom
+𗥡𘕪𘓖	luuxgghiiwqoom
 𗥡𘞽	luuxzyh
 𗥡𘟙	luuxnex
 𗥣𗠰	tsuuxthi
@@ -25196,57 +25196,57 @@ min_phrase_weight: 100
 𗥤𘄦	tsextem
 𗥤𘓦	tsexlleh
 𗥤𘟛	tsexzjyr
-𗥦𗀫	ġhuumphoo
-𗥦𗅈	ġhuutemhx
-𗥦𗌮	ġhuumor
-𗥦𗐄	ġhuupaeemhx
-𗥦𗐉	ġhuumar
-𗥦𗑉	ġhuumee
-𗥦𗒕	ġhuullweh
-𗥦𗕝	ġhuuphyh
-𗥦𗖅	ġhuuswix
-𗥦𗖅𗣫	ġhuuswixtseem
-𗥦𗘣	ġhuuyyr
-𗥦𗚊	ġhuunguur
-𗥦𗥒	ġhuungoox
-𗥦𗥓	ġhuungoox
-𗥦𗥛	ġhuuryr
-𗥦𗦳	ġhuudzux
-𗥦𗨅	ġhuulhy
-𗥦𗨳	ġhuutih
-𗥦𗨳𘟙	ġhuutihnex
-𗥦𗰙	ġhuukhwihx
-𗥦𗰞	ġhuunaw
-𗥦𗰸	ġhuukhwy
-𗥦𗱚	ġhuundzux
-𗥦𗳦	ġhuuqaa
-𗥦𗴂	ġhuuphaoom
-𗥦𗴵	ġhuulluhx
-𗥦𗴸	ġhuutswaa
-𗥦𗵣	ġhuutjiwx
-𗥦𗶦	ġhuuqaahx
-𗥦𗽿	ġhuudzuux
-𗥦𗾶	ġhuuhu
-𗥦𘁙	ġhuudjwa
-𗥦𘁲	ġhuuzaa
-𗥦𘁳	ġhuundiiwx
-𗥦𘂴	ġhuumme
-𗥦𘇂	ġhuugguux
-𗥦𘇧	ġhuuyomx
-𗥦𘊰𗥒	ġhuuphaangoox
-𗥦𘊱𗥓	ġhuuphaangoox
-𗥦𘋯	ġhuuyemx
-𗥦𘏿	ġhuuqaah
-𗥦𘏿𗣫	ġhuuqaahtseem
-𗥦𘏿𗿒	ġhuuqaahqhweex
-𗥦𘐄	ġhuulhwa
-𗥦𘓕	ġhuurur
-𗥦𘗋	ġhuugeh
-𗥦𘙂	ġhuubih
-𗥦𘙜	ġhuunyyh
-𗥦𘚔	ġhuummex
-𗥦𘞤	ġhuuloomx
-𗥦𘟅	ġhuutjhe
+𗥦𗀫	gghuumphoo
+𗥦𗅈	gghuutemhx
+𗥦𗌮	gghuumor
+𗥦𗐄	gghuupaeemhx
+𗥦𗐉	gghuumar
+𗥦𗑉	gghuumee
+𗥦𗒕	gghuullweh
+𗥦𗕝	gghuuphyh
+𗥦𗖅	gghuuswix
+𗥦𗖅𗣫	gghuuswixtseem
+𗥦𗘣	gghuuyyr
+𗥦𗚊	gghuunguur
+𗥦𗥒	gghuungoox
+𗥦𗥓	gghuungoox
+𗥦𗥛	gghuuryr
+𗥦𗦳	gghuudzux
+𗥦𗨅	gghuulhy
+𗥦𗨳	gghuutih
+𗥦𗨳𘟙	gghuutihnex
+𗥦𗰙	gghuukhwihx
+𗥦𗰞	gghuunaw
+𗥦𗰸	gghuukhwy
+𗥦𗱚	gghuundzux
+𗥦𗳦	gghuuqaa
+𗥦𗴂	gghuuphaoom
+𗥦𗴵	gghuulluhx
+𗥦𗴸	gghuutswaa
+𗥦𗵣	gghuutjiwx
+𗥦𗶦	gghuuqaahx
+𗥦𗽿	gghuudzuux
+𗥦𗾶	gghuuhu
+𗥦𘁙	gghuudjwa
+𗥦𘁲	gghuuzaa
+𗥦𘁳	gghuundiiwx
+𗥦𘂴	gghuumme
+𗥦𘇂	gghuugguux
+𗥦𘇧	gghuuyomx
+𗥦𘊰𗥒	gghuuphaangoox
+𗥦𘊱𗥓	gghuuphaangoox
+𗥦𘋯	gghuuyemx
+𗥦𘏿	gghuuqaah
+𗥦𘏿𗣫	gghuuqaahtseem
+𗥦𘏿𗿒	gghuuqaahqhweex
+𗥦𘐄	gghuulhwa
+𗥦𘓕	gghuurur
+𗥦𘗋	gghuugeh
+𗥦𘙂	gghuubih
+𗥦𘙜	gghuunyyh
+𗥦𘚔	gghuummex
+𗥦𘞤	gghuuloomx
+𗥦𘟅	gghuutjhe
 𗥩𗄛	lwuxbiirx
 𗥩𗄭	lwuxdzyhx
 𗥩𗭻	lwuxnllex
@@ -25274,7 +25274,7 @@ min_phrase_weight: 100
 𗥱𘌍	dzeengaa
 𗥱𘒣	dzeedaahx
 𗥱𘓐	dzeedzwox
-𗥱𘔮	dzeeġhwaarx
+𗥱𘔮	dzeegghwaarx
 𗥱𘚻	dzeediix
 𗥱𘟠	dzeedzuu
 𗥲𘖈	piimxlemx
@@ -25291,7 +25291,7 @@ min_phrase_weight: 100
 𗥹𗿖	looxngngaaax
 𗥹𘃡	looxvi
 𗥹𘝚	looxkwyr
-𗥺𗓧	ngngwyyġhaa
+𗥺𗓧	ngngwyygghaa
 𗥺𗖸	ngngwyyngngwuu
 𗥺𗙴	ngngwyyraar
 𗥺𗙴𘝞𘓟	ngngwyyraarywyrxdraeex
@@ -25351,19 +25351,19 @@ min_phrase_weight: 100
 𗥿𗸶	pahxlhwehx
 𗥿𘙿	pahxlex
 𗥿𘛃	pahxluux
-𗦁𗄈	ġhaiihxsjow
-𗦁𗄿	ġhaiihxlluuhx
-𗦁𗆼	ġhaiihxyiwx
-𗦁𗤋	ġhaiihxme
-𗦁𗧊	ġhaiihxtoox
-𗦁𗯩	ġhaiihxtwuuh
-𗦁𗾞	ġhaiihxnnyx
-𗦁𗾫	ġhaiihxnsex
-𗦁𗿒	ġhaiihxqhweex
-𗦁𘅣	ġhaiihxdaahx
-𗦁𘈔	ġhaiihxbix
-𗦁𘊄	ġhaiihxnromx
-𗦁𘔳	ġhaiihxlwiiw
+𗦁𗄈	gghaiihxsjow
+𗦁𗄿	gghaiihxlluuhx
+𗦁𗆼	gghaiihxyiwx
+𗦁𗤋	gghaiihxme
+𗦁𗧊	gghaiihxtoox
+𗦁𗯩	gghaiihxtwuuh
+𗦁𗾞	gghaiihxnnyx
+𗦁𗾫	gghaiihxnsex
+𗦁𗿒	gghaiihxqhweex
+𗦁𘅣	gghaiihxdaahx
+𗦁𘈔	gghaiihxbix
+𗦁𘊄	gghaiihxnromx
+𗦁𘔳	gghaiihxlwiiw
 𗦃𗇊𗌷	hweexthexpoo
 𗦃𗐐	hweexhom
 𗦃𗑁	hweexyomx
@@ -25375,7 +25375,7 @@ min_phrase_weight: 100
 𗦆𗂧	tsimlhehx
 𗦆𗇊𘓖	tsimthexqoom
 𗦆𗌵𘋨	tsimkomdzwy
-𗦆𗑙𘋨	tsimġhaamdzwy
+𗦆𗑙𘋨	tsimgghaamdzwy
 𗦆𗘺𘋨	tsimmedzwy
 𗦆𗤀	tsimsje
 𗦆𗤀𘐆𘝞	tsimsjelaaywyrx
@@ -25404,7 +25404,7 @@ min_phrase_weight: 100
 𗦈𗦎	thiiwraarx
 𗦈𗰀	thiiwnthwuu
 𗦉𗀓	bexsjex
-𗦉𗉂	bexġhaiih
+𗦉𗉂	bexgghaiih
 𗦉𗣫	bextseem
 𗦉𗹑	bextjem
 𗦉𘊄	bexnromx
@@ -25417,7 +25417,7 @@ min_phrase_weight: 100
 𗦋𗟔	neexqoo
 𗦋𗟔𗍅	neexqookyr
 𗦍𗓾	thuuxtshiiwx
-𗦍𗨸	thuuxġhayy
+𗦍𗨸	thuuxgghayy
 𗦍𗶚	thuuxne
 𗦎𗅉	raarxnuo
 𗦎𗋃	raarxsi
@@ -25449,7 +25449,7 @@ min_phrase_weight: 100
 𗦗𗎭	sooxmmi
 𗦗𗦮𗼽	sooxphesiiwx
 𗦗𗰦	sooxlwoo
-𗦗𗰿𘗠	sooxywixġhaa
+𗦗𗰿𘗠	sooxywixgghaa
 𗦗𗵫	sooxgeh
 𗦗𘆈	sooxlluuh
 𗦗𘔳	sooxlwiiw
@@ -25512,7 +25512,7 @@ min_phrase_weight: 100
 𗦬𘏷	gguuxndi
 𗦬𘓟	gguuxdraeex
 𗦬𘜔	gguuxngiiwrx
-𗦭𗔎	zuuxġhaee
+𗦭𗔎	zuuxgghaee
 𗦮𗃇	phela
 𗦮𗃛𗾩	phelomhwam
 𗦮𗊻	phesjox
@@ -25531,9 +25531,9 @@ min_phrase_weight: 100
 𗦮𗾽	pheboomhx
 𗦮𘋺	phesjuo
 𗦮𘍑	phelem
-𗦯𗇩	ġhuuloomx
+𗦯𗇩	gghuuloomx
 𗦲𘇥𘕘	rirxphoomhxtsyy
-𗦳𗒐	dzuxġhwaee
+𗦳𗒐	dzuxgghwaee
 𗦳𗨙	dzuxlhehx
 𗦳𗵘	dzuxtja
 𗦳𗸮	dzuxvwyy
@@ -25729,7 +25729,7 @@ min_phrase_weight: 100
 𗧹𗣒	girloomx
 𗧹𗤋	girme
 𗧹𗤒	girkiw
-𗧹𗦁	girġhaiihx
+𗧹𗦁	girgghaiihx
 𗧹𗨙	girlhehx
 𗧹𗨻	girvwiix
 𗧹𗯗𘀄𗨻	girleexngguxvwiix
@@ -25754,7 +25754,7 @@ min_phrase_weight: 100
 𗧼𗤂	dzuxdix
 𗧽𗊟	tsoomrxnsoo
 𗧽𗤪	tsoomrxngiiwr
-𗧾𗼙	thyxġhuux
+𗧾𗼙	thyxgghuux
 𗨀𗟥	dj-teh
 𗨀𗳥	dj-ndjux
 𗨀𗺹	dj-hiiw
@@ -25767,7 +25767,7 @@ min_phrase_weight: 100
 𗨁𗖠	phuxngweex
 𗨁𗖻	phuxpuh
 𗨁𗙀	phuxmbux
-𗨁𗙏	phuxġhaiihx
+𗨁𗙏	phuxgghaiihx
 𗨁𗡪	phuxtsiiwx
 𗨁𗤀	phuxsje
 𗨁𗤋	phuxme
@@ -25775,9 +25775,9 @@ min_phrase_weight: 100
 𗨁𗤱	phuxremx
 𗨁𗥁	phuxsroomx
 𗨁𗨻	phuxvwiix
-𗨁𗪟	phuxġhuu
-𗨁𗫁	phuxġhwaii
-𗨁𗫁𗎭	phuxġhwaiimmi
+𗨁𗪟	phuxgghuu
+𗨁𗫁	phuxgghwaii
+𗨁𗫁𗎭	phuxgghwaiimmi
 𗨁𗫻	phuxndje
 𗨁𗯨𗶧	phuxrurdjwix
 𗨁𗱋	phuxthyhx
@@ -25798,8 +25798,8 @@ min_phrase_weight: 100
 𗨁𘉅𗴛𗔇	phuxdzaatjwomxwuuhx
 𗨁𘋨	phuxdzwy
 𗨁𘍞𘚪	phuxwoohdzihx
-𗨁𘏐	phuxġhwaii
-𗨁𘏐𗎭	phuxġhwaiimmi
+𗨁𘏐	phuxgghwaii
+𗨁𘏐𗎭	phuxgghwaiimmi
 𗨁𘐡	phuxntjy
 𗨁𘐳	phuxlyx
 𗨁𘒇	phuxtshix
@@ -25824,7 +25824,7 @@ min_phrase_weight: 100
 𗨉𗨙	nixlhehx
 𗨉𗸬	nixlhem
 𗨊𗮹	kyrxsox
-𗨋𗬥	ġhwyyxde
+𗨋𗬥	gghwyyxde
 𗨍𗁬	hwaaathoom
 𗨍𗃫	hwaaapiw
 𗨍𗃫𗝠	hwaaapiwsi
@@ -25847,7 +25847,7 @@ min_phrase_weight: 100
 𗨔𗿴	niiwboomr
 𗨖𗬀	paaalwuux
 𗨖𘄔	paaapaeemx
-𗨙𗔼	lhehxġhwee
+𗨙𗔼	lhehxgghwee
 𗨙𗭻	lhehxnllex
 𗨙𘎨	lhehxlhihx
 𗨚𗑉	ngqaarmee
@@ -25900,9 +25900,9 @@ min_phrase_weight: 100
 𗨪𗝠	kyxsi
 𗨪𗫴	kyxmma
 𗨪𘕰	kyxphuux
-𗨫𗄟	ġhuuxngwuux
-𗨫𘃪	ġhuuxdjwa
-𗨫𘅫	ġhuuxtju
+𗨫𗄟	gghuuxngwuux
+𗨫𘃪	gghuuxdjwa
+𗨫𘅫	gghuuxtju
 𗨬𗁹	ruurthaax
 𗨬𗨬	ruurruur
 𗨬𘌅	ruurze
@@ -25912,9 +25912,9 @@ min_phrase_weight: 100
 𗨮𗕠	kahxqhoo
 𗨮𗖸	kahxngngwuu
 𗨮𗗥	kahxzjihx
-𗨮𗙏	kahxġhaiihx
+𗨮𗙏	kahxgghaiihx
 𗨮𗹢	kahxdohx
-𗨮𗿒𗖠𘂍	kahxqhweexngweexġhayy
+𗨮𗿒𗖠𘂍	kahxqhweexngweexgghayy
 𗨮𘃡	kahxvi
 𗨮𘝇	kahxnsjwix
 𗨯𗹙	tjyrxtser
@@ -25922,7 +25922,7 @@ min_phrase_weight: 100
 𗨰𘃽	laaxwoox
 𗨵𗣱	kwyhdzihx
 𗨷𘙥	lhylhix
-𗨹𗨹	ġhyyhġhyyh
+𗨹𗨹	gghyyhgghyyh
 𗨺𘜹	llehxdzoom
 𗨺𘜹𘛃	llehxdzoomluux
 𗨻𗩍	vwiixnvwyy
@@ -26035,14 +26035,14 @@ min_phrase_weight: 100
 𗩤𗦷	bixllihx
 𗩤𗫈	bixse
 𗩦𗌿	qooxpemhx
-𗩦𗥦	qooxġhuu
+𗩦𗥦	qooxgghuu
 𗩨𗊖	tsyyhwoox
 𗩨𗌮	tsyyhmor
 𗩨𗌳	tsyyhvah
 𗩨𗏅	tsyyhnywy
 𗩨𗘍	tsyyhngwyyr
 𗩨𗘛	tsyyhtshwu
-𗩨𗙏	tsyyhġhaiihx
+𗩨𗙏	tsyyhgghaiihx
 𗩨𗜲	tsyyhdzii
 𗩨𗡮	tsyyhsjwox
 𗩨𗤋	tsyyhme
@@ -26080,7 +26080,7 @@ min_phrase_weight: 100
 𗩭𗼑	tjomlhihx
 𗩭𗼑𘀄	tjomlhihxnggux
 𗩮𗶤	kelu
-𗩮𘅰	keġhuu
+𗩮𘅰	kegghuu
 𗩯𗄻	swenwyy
 𗩯𗩯	sweswe
 𗩯𗯩	swetwuuh
@@ -26118,7 +26118,7 @@ min_phrase_weight: 100
 𗩴𘒣	nniiwxdaahx
 𗩴𘓐	nniiwxdzwox
 𗩴𘝦	nniiwxdjy
-𗩵𘕿𗹦𘑗	byyxġhaaxmyyngyyr
+𗩵𘕿𗹦𘑗	byyxgghaaxmyyngyyr
 𗩸𘋨	khardzwy
 𗩸𘏼	khartjhiwx
 𗩻𗟢	tjowgix
@@ -26130,7 +26130,7 @@ min_phrase_weight: 100
 𗩾𗤢	zjixbix
 𗩾𗧯	zjixnye
 𗩾𗨁	zjixphux
-𗩾𗪟	zjixġhuu
+𗩾𗪟	zjixgghuu
 𗩾𗴴	zjixreerx
 𗩾𗶚	zjixne
 𗩾𗹭	zjixbex
@@ -26154,7 +26154,7 @@ min_phrase_weight: 100
 𗩿𘕼𗫉𗰔	sixguxmbaeeyiwx
 𗪀𗏣	ngkhuxrerx
 𗪀𗑉	ngkhuxmee
-𗪀𗓑	ngkhuxġhweerx
+𗪀𗓑	ngkhuxgghweerx
 𗪀𗦊	ngkhuxlhweh
 𗪀𗨉	ngkhuxnix
 𗪀𘓉	ngkhuxlhiiw
@@ -26170,7 +26170,7 @@ min_phrase_weight: 100
 𗪆𗉛	nswyzjih
 𗪆𗤋	nswyme
 𗪆𗤽	nswysiim
-𗪆𗦁	nswyġhaiihx
+𗪆𗦁	nswygghaiihx
 𗪆𗧹	nswygir
 𗪆𗨾	nswyheex
 𗪆𗩨	nswytsyyh
@@ -26193,7 +26193,7 @@ min_phrase_weight: 100
 𗪒𗷾	quuhxlleh
 𗪒𗽷	quuhxyawrx
 𗪒𗽷𗅂	quuhxyawrxrar
-𗪒𗽷𗬳𗓑	quuhxyawrxpeeġhweerx
+𗪒𗽷𗬳𗓑	quuhxyawrxpeegghweerx
 𗪒𗽷𘒩𗨙	quuhxyawrxdzulhehx
 𗪒𗽷𘒩𗭻	quuhxyawrxdzunllex
 𗪒𘉀	quuhxtser
@@ -26223,7 +26223,7 @@ min_phrase_weight: 100
 𗪘𗦫	sjiyiw
 𗪘𗦻	sjimmex
 𗪘𗪘	sjisji
-𗪘𗪟	sjiġhuu
+𗪘𗪟	sjigghuu
 𗪘𗫨	sjidwiiwrx
 𗪘𗫻	sjindje
 𗪘𗭍	sjidjeh
@@ -26267,23 +26267,23 @@ min_phrase_weight: 100
 𗪚𗬁	duudemx
 𗪚𘗕	duuzraeerx
 𗪚𘛒	duungiiwr
-𗪜𗥦	norġhuu
+𗪜𗥦	norgghuu
 𗪜𗰜	normyyrx
-𗪝𗔼	ġhwaeehġhwee
-𗪝𗸓	ġhwaeehdwyyr
+𗪝𗔼	gghwaeehgghwee
+𗪝𗸓	gghwaeehdwyyr
 𗪞𗃛	yulom
 𗪞𗉔	yutjiw
 𗪞𗍚	yuzaar
 𗪞𗼊	yusiiw
 𗪞𘋞	yuzaarx
-𗪟𗄈	ġhuusjow
-𗪟𗄈𘂴𗫡	ġhuusjowmmenyx
-𗪟𗤒	ġhuukiw
-𗪟𗦳	ġhuudzux
-𗪟𘃪	ġhuudjwa
-𗪟𘎳	ġhuunvwii
-𗪟𘓐	ġhuudzwox
-𗪟𘚈	ġhuutuhx
+𗪟𗄈	gghuusjow
+𗪟𗄈𘂴𗫡	gghuusjowmmenyx
+𗪟𗤒	gghuukiw
+𗪟𗦳	gghuudzux
+𗪟𘃪	gghuudjwa
+𗪟𘎳	gghuunvwii
+𗪟𘓐	gghuudzwox
+𗪟𘚈	gghuutuhx
 𗪡𘋳	gwoxgwix
 𗪢𗃡	dzapuhx
 𗪢𗇪	dzadihx
@@ -26331,8 +26331,8 @@ min_phrase_weight: 100
 𗪰𘔯	gixngqhauu
 𗪱𘚷𗼝	byylylo
 𗪲𗀚	ghiwsraoo
-𗪲𗒐	ghiwġhwaee
-𗪲𘄘	ghiwġhaoom
+𗪲𗒐	ghiwgghwaee
+𗪲𘄘	ghiwgghaoom
 𗪴𘑚	diiwx--
 𗪵𗱀	traeewoo
 𗪵𗵡	traeetraeex
@@ -26341,42 +26341,42 @@ min_phrase_weight: 100
 𗪷𗩀𘎃	dyxkwyrvwii
 𗪷𗪌	dyxkwyr
 𗪸𗒞	raarxnnaax
-𗪺𗆄	ġhaiipuh
-𗪺𗉋	ġhaiitraoom
-𗪺𗍣	ġhaiibax
-𗪺𗗦	ġhaiiphyy
-𗪺𗗫	ġhaiitsiir
-𗪺𗤋	ġhaiime
-𗪺𗳦	ġhaiiqaa
-𗪺𗷖	ġhaiitshwiiw
-𗪺𗷪	ġhaiinduux
-𗪺𗸀	ġhaiiwuux
-𗪺𗾀	ġhaiidzuux
-𗪺𘃪	ġhaiidjwa
-𗪺𘇔	ġhaiindza
-𗪺𘍐	ġhaiirerx
-𗪺𘎉	ġhaiinlloo
-𗪺𘎼	ġhaiithy
-𗪺𘐠	ġhaiingwoox
-𗪺𘑨	ġhaiiġhwuuhx
-𗪺𘒐	ġhaiinlloo
-𗪺𘖠	ġhaiiqayyr
-𗪺𘘯	ġhaiigghaa
-𗪺𘜄	ġhaiingwiir
-𗪺𘜘	ġhaiirir
-𗪺𘜶	ġhaiillehx
-𗪺𘜶𗣕	ġhaiillehxvih
-𗪺𘝓	ġhaiisjwu
+𗪺𗆄	gghaiipuh
+𗪺𗉋	gghaiitraoom
+𗪺𗍣	gghaiibax
+𗪺𗗦	gghaiiphyy
+𗪺𗗫	gghaiitsiir
+𗪺𗤋	gghaiime
+𗪺𗳦	gghaiiqaa
+𗪺𗷖	gghaiitshwiiw
+𗪺𗷪	gghaiinduux
+𗪺𗸀	gghaiiwuux
+𗪺𗾀	gghaiidzuux
+𗪺𘃪	gghaiidjwa
+𗪺𘇔	gghaiindza
+𗪺𘍐	gghaiirerx
+𗪺𘎉	gghaiinlloo
+𗪺𘎼	gghaiithy
+𗪺𘐠	gghaiingwoox
+𗪺𘑨	gghaiigghwuuhx
+𗪺𘒐	gghaiinlloo
+𗪺𘖠	gghaiiqayyr
+𗪺𘘯	gghaiigghaa
+𗪺𘜄	gghaiingwiir
+𗪺𘜘	gghaiirir
+𗪺𘜶	gghaiillehx
+𗪺𘜶𗣕	gghaiillehxvih
+𗪺𘝓	gghaiisjwu
 𗪼𗭼	temhxswiiw
 𗪽𗉋	buurtraoom
 𗪾𗄈	quuhsjow
 𗪾𘐉	quuhvahx
 𗪿𗩌	lanlhu
-𗫁𗎭	ġhwaiimmi
-𗫁𗑾	ġhwaiingngwuu
-𗫁𗴽	ġhwaiilom
-𗫁𘁐	ġhwaiibux
-𗫁𘛃	ġhwaiiluux
+𗫁𗎭	gghwaiimmi
+𗫁𗑾	gghwaiingngwuu
+𗫁𗴽	gghwaiilom
+𗫁𘁐	gghwaiibux
+𗫁𘛃	gghwaiiluux
 𗫃𗼨	phoomngwiix
 𗫇𗯁	sjuhsjiwx
 𗫈𗌮	semor
@@ -26477,11 +26477,11 @@ min_phrase_weight: 100
 𗫔𘂀	yisex
 𗫔𘃟𘝞	yiywamywyrx
 𗫔𘄡	yisehx
-𗫔𘅰	yiġhuu
+𗫔𘅰	yigghuu
 𗫔𘊄	yinromx
 𗫔𘒏	yiga
 𗫔𘓐	yidzwox
-𗫔𘔮	yiġhwaarx
+𗫔𘔮	yigghwaarx
 𗫔𘕘	yitsyy
 𗫕𗀸	nthoonthee
 𗫖𗤛	ywimtjom
@@ -26489,7 +26489,7 @@ min_phrase_weight: 100
 𗫙𘜅	lyyxlliix
 𗫚𘍞	khwixwooh
 𗫞𘓐	dzihxdzwox
-𗫟𗏘	phoomġhaarx
+𗫟𗏘	phoomgghaarx
 𗫟𗮯	phoomsjwaw
 𗫟𘃰	phoomdzwiiw
 𗫠𗔛	gwyrgwix
@@ -26516,23 +26516,23 @@ min_phrase_weight: 100
 𗫢𘅯	byydzy
 𗫢𘐶	byydjwox
 𗫤𘜔	nuxngiiwrx
-𗫥𗰗	djyhġhaahx
+𗫥𗰗	djyhgghaahx
 𗫥𘈩	djyhliiw
-𗫦𗓰	ġhaiiwnaa
-𗫦𗖤	ġhaiiwntuu
-𗫦𗟢	ġhaiiwgix
-𗫦𗟶	ġhaiiwyir
-𗫦𗩱	ġhaiiwnwix
-𗫦𗵘	ġhaiiwtja
-𗫦𗸐	ġhaiiwyyrx
-𗫦𗼗𘝦𘓊	ġhaiiwdemdjyzyr
-𗫦𗾟	ġhaiiwvwaahx
-𗫦𘃠	ġhaiiwnduu
-𗫦𘍞	ġhaiiwwooh
-𗫦𘓐	ġhaiiwdzwox
-𗫦𘘝	ġhaiiwndzex
-𗫦𘞂	ġhaiiwndzyx
-𗫦𘟠	ġhaiiwdzuu
+𗫦𗓰	gghaiiwnaa
+𗫦𗖤	gghaiiwntuu
+𗫦𗟢	gghaiiwgix
+𗫦𗟶	gghaiiwyir
+𗫦𗩱	gghaiiwnwix
+𗫦𗵘	gghaiiwtja
+𗫦𗸐	gghaiiwyyrx
+𗫦𗼗𘝦𘓊	gghaiiwdemdjyzyr
+𗫦𗾟	gghaiiwvwaahx
+𗫦𘃠	gghaiiwnduu
+𗫦𘍞	gghaiiwwooh
+𗫦𘓐	gghaiiwdzwox
+𗫦𘘝	gghaiiwndzex
+𗫦𘞂	gghaiiwndzyx
+𗫦𘟠	gghaiiwdzuu
 𗫧𗑦	nwysjwyr
 𗫧𗔜	nwylweem
 𗫧𗷴	nwydwyyrx
@@ -26569,7 +26569,7 @@ min_phrase_weight: 100
 𗫸𗆮	yihxlhow
 𗫸𗇾	yihxdoomx
 𗫸𗏓	yihxllihx
-𗫸𗔼	yihxġhwee
+𗫸𗔼	yihxgghwee
 𗫸𗖸	yihxngngwuu
 𗫸𗗥	yihxzjihx
 𗫸𗠰	yihxthi
@@ -26589,7 +26589,7 @@ min_phrase_weight: 100
 𗫸𘜘	yihxrir
 𗫸𘝚	yihxkwyr
 𗫸𘟀	yihxlex
-𗫹𗔼	ġhwyyġhwee
+𗫹𗔼	gghwyygghwee
 𗫻𗡶	ndjesje
 𗫻𗫞	ndjedzihx
 𗫻𗫻	ndjendje
@@ -26606,7 +26606,7 @@ min_phrase_weight: 100
 𗫿𗓆	kwile
 𗫿𗓆𗆧𗅆	kwilesiwdemx
 𗫿𘆨	kwitix
-𗫿𘙄	kwiġhwaeemx
+𗫿𘙄	kwigghwaeemx
 𗫿𘞂𗆧𗥤	kwindzyxsiwtsex
 𗬀𗃇	lwuuxla
 𗬀𗈐	lwuuxmyyh
@@ -26629,8 +26629,8 @@ min_phrase_weight: 100
 𗬆𗫔𘆮	phiiyitjihx
 𗬇𗬈	laaxvwiix
 𗬉𗒞	siinnaax
-𗬋𗬊	ġhweeġhwyy
-𗬋𗬊𘒣𘈧	ġhweeġhwyydaahxndee
+𗬋𗬊	gghweegghwyy
+𗬋𗬊𘒣𘈧	gghweegghwyydaahxndee
 𗬍𗆧	guxsiw
 𗬍𗐑	guxsji
 𗬍𗺺	guxsii
@@ -26695,7 +26695,7 @@ min_phrase_weight: 100
 𗬢𘜝	gwytserx
 𗬣𗅴	pyylleehx
 𗬥𗩚	deduu
-𗬥𗪟	deġhuu
+𗬥𗪟	degghuu
 𗬥𗼑	delhihx
 𗬥𗾞	dennyx
 𗬦𗀱	hiiwxphaoox
@@ -26710,7 +26710,7 @@ min_phrase_weight: 100
 𗬩𗫿	qaiikwi
 𗬩𗭍	qaiidjeh
 𗬩𗰛	qaiidzeh
-𗬩𗴐	qaiiġhaar
+𗬩𗴐	qaiigghaar
 𗬩𗹔	qaiilhweh
 𗬩𗹔𗑩	qaiilhwehnggix
 𗬩𗹙	qaiitser
@@ -26728,7 +26728,7 @@ min_phrase_weight: 100
 𗬫𘃾	dyrxlhy
 𗬫𘍦	dyrxye
 𗬫𘕢	dyrxby
-𗬫𘗠	dyrxġhaa
+𗬫𘗠	dyrxgghaa
 𗬫𘛽	dyrxlluhx
 𗬫𘟀	dyrxlex
 𗬬𗭪	dexsix
@@ -26738,8 +26738,8 @@ min_phrase_weight: 100
 𗬯𘎄	qwyyxvwiir
 𗬱𗩸	zjukhar
 𗬳𗅉	peenuo
-𗬳𗓑	peeġhweerx
-𗬳𗓑𘒩𗭻	peeġhweerxdzunllex
+𗬳𗓑	peegghweerx
+𗬳𗓑𘒩𗭻	peegghweerxdzunllex
 𗬴𗬴	leemleem
 𗬷𗬸	nomrxnnaaax
 𗬹𘇠	remxbaarx
@@ -26767,7 +26767,7 @@ min_phrase_weight: 100
 𗬼𘇹	yyrxsrayy
 𗬼𘐊	yyrxtshuu
 𗬼𘔚	yyrxne
-𗬼𘔮	yyrxġhwaarx
+𗬼𘔮	yyrxgghwaarx
 𗬼𘞆	yyrxbi
 𗬾𗁸	lluhxsiix
 𗭀𗋑	remxdemhx
@@ -26806,7 +26806,7 @@ min_phrase_weight: 100
 𗭒𗘒	khyqwee
 𗭒𗞇	khytjho
 𗭒𗤋	khyme
-𗭒𗥦	khyġhuu
+𗭒𗥦	khygghuu
 𗭒𗭇	khygex
 𗭒𗭛	khyswemx
 𗭒𗭟	khyle
@@ -26821,13 +26821,13 @@ min_phrase_weight: 100
 𗭒𘎶	khyqwyyx
 𗭒𘑦	khysiiw
 𗭒𘞱	khyvix
-𗭓𗺏	ġhaeeyemx
-𗭓𘐄	ġhaeelhwa
+𗭓𗺏	gghaeeyemx
+𗭓𘐄	gghaeelhwa
 𗭔𗭔	leexleex
 𗭔𗯘	leexloox
 𗭔𗶧	leexdjwix
 𗭔𘋝	leexriiwrx
-𗭗𗭓	payyxġhaee
+𗭗𗭓	payyxgghaee
 𗭘𗭘	ntsaantsaa
 𗭚𗭏	syxgex
 𗭞𗄖	bixdji
@@ -26935,7 +26935,7 @@ min_phrase_weight: 100
 𗭸𘌠	paeexphem
 𗭸𘐾	paeexqaa
 𗭸𘑌	paeexdjex
-𗭹𗙏	baarġhaiihx
+𗭹𗙏	baargghaiihx
 𗭹𗙘	baargghaiihx
 𗭹𗤪	baarngiiwr
 𗭹𗥖	baartwy
@@ -27086,7 +27086,7 @@ min_phrase_weight: 100
 𗮺𗨊	tsyyhkyrx
 𗮺𗮰	tsyyhsix
 𗮽𗥛	rerxryr
-𗮿𗮵	kwyhġhuux
+𗮿𗮵	kwyhgghuux
 𗯄𗪦	kahxpaaa
 𗯆𗂊	myhxdjwa
 𗯆𘂘	myhxsjom
@@ -27132,16 +27132,16 @@ min_phrase_weight: 100
 𗯨𗃡	rurpuhx
 𗯨𗐯	rurqaeehx
 𗯨𗐯𗍅𘍞	rurqaeehxkyrwooh
-𗯨𗐯𗽪	rurqaeehxġhweex
+𗯨𗐯𗽪	rurqaeehxgghweex
 𗯨𗐯𘌍𗭔𗔇	rurqaeehxngaaleexwuuhx
 𗯨𗓒	rurdzu
 𗯨𗖰	rurlwyyrx
 𗯨𗗎	rurpwyr
 𗯨𗗎𗨮	rurpwyrkahx
-𗯨𗙏𘝯	rurġhaiihxmbaoo
-𗯨𗙏𘝯𗫡𘗠𘄿	rurġhaiihxmbaoonyxġhaate
-𗯨𗙏𘝯𘋤𗥤	rurġhaiihxmbaoodraaamxtsex
-𗯨𗙏𘝯𘋤𗥤𘃨𗆫𘆖𗣟𗺉	rurġhaiihxmbaoodraaamxtsexghyrlyrxntshyvertjhix
+𗯨𗙏𘝯	rurgghaiihxmbaoo
+𗯨𗙏𘝯𗫡𘗠𘄿	rurgghaiihxmbaoonyxgghaate
+𗯨𗙏𘝯𘋤𗥤	rurgghaiihxmbaoodraaamxtsex
+𗯨𗙏𘝯𘋤𗥤𘃨𗆫𘆖𗣟𗺉	rurgghaiihxmbaoodraaamxtsexghyrlyrxntshyvertjhix
 𗯨𗥞	rurnggux
 𗯨𗪙	rurmuur
 𗯨𘅣	rurdaahx
@@ -27205,7 +27205,7 @@ min_phrase_weight: 100
 𗰂𗣭	hwooxtshim
 𗰂𗥑	hwooxhuu
 𗰂𗥑𘅧	hwooxhuukwi
-𗰂𗱭𘅰	hwooxsjiwxġhuu
+𗰂𗱭𘅰	hwooxsjiwxgghuu
 𗰂𗷲	hwooxgim
 𗰂𗼵	hwooxhomx
 𗰂𗽮	hwooxnaa
@@ -27260,7 +27260,7 @@ min_phrase_weight: 100
 𗰓𘟣	llohxdu
 𗰔𗘺𗚿𘝞	yiwxmeliwxywyrx
 𗰔𗣠	yiwxdeh
-𗰔𗣠𗤶𘅎𘏐	yiwxdehnnellemhxġhwaii
+𗰔𗣠𗤶𘅎𘏐	yiwxdehnnellemhxgghwaii
 𗰔𗩙𗒑	yiwxphuuyyx
 𗰔𗰞𗱀	yiwxnawwoo
 𗰔𘌈	yiwxnyu
@@ -27270,86 +27270,86 @@ min_phrase_weight: 100
 𗰖𗄭	nsraoodzyhx
 𗰖𗍋	nsraoongkhy
 𗰖𗛧	nsraoolluh
-𗰖𗝐	nsraooġhaax
+𗰖𗝐	nsraoogghaax
 𗰖𗨨	nsraooroorx
 𗰖𗰠	nsraoonsraii
 𗰖𘃠	nsraoonduu
 𗰖𘘜	nsraoonsraee
 𗰖𘝇	nsraoonsjwix
-𗰗𗀊	ġhaahxtjhaw
-𗰗𗁞	ġhaahxtjhawx
-𗰗𗂧	ġhaahxlhehx
-𗰗𗆔	ġhaahxqaahx
-𗰗𗇒	ġhaahxsja
-𗰗𗍫	ġhaahxnny
-𗰗𗍫𗂧	ġhaahxnnylhehx
-𗰗𗍫𗎭	ġhaahxnnymmi
-𗰗𗍫𗛆	ġhaahxnnyvwaarx
-𗰗𗍫𗡪	ġhaahxnnytsiiwx
-𗰗𗍫𗤒	ġhaahxnnykiw
-𗰗𗍫𗦖𗎭	ġhaahxnnymerxmmi
-𗰗𗍫𗼑	ġhaahxnnylhihx
-𗰗𗍫𗼑𗼘	ġhaahxnnylhihxphoom
-𗰗𗍫𗿳	ġhaahxnnydzem
-𗰗𗍬	ġhaahxlux
-𗰗𗏁	ġhaahxngwyy
-𗰗𗏁𗡪	ġhaahxngwyytsiiwx
-𗰗𗏇	ġhaahxdix
-𗰗𗒜	ġhaahxdjwa
-𗰗𗒹	ġhaahxsjah
-𗰗𗕑	ġhaahxkhyx
-𗰗𗚻	ġhaahxsjemx
-𗰗𗜸	ġhaahxgguux
-𗰗𗝏	ġhaahxduuhx
-𗰗𗞖	ġhaahxfim
-𗰗𗡪	ġhaahxtsiiwx
-𗰗𗢭	ġhaahxnggy
-𗰗𗣃	ġhaahxgwix
-𗰗𗤁	ġhaahxtjhiw
-𗰗𗤁𗂧	ġhaahxtjhiwlhehx
-𗰗𗤁𗂧𗤀	ġhaahxtjhiwlhehxsje
-𗰗𗤁𗍬	ġhaahxtjhiwlux
-𗰗𗤒	ġhaahxkiw
-𗰗𗥃	ġhaahxllyr
-𗰗𗥃𗡪	ġhaahxllyrtsiiwx
-𗰗𗫸𗲄𗧤𘆄𗥃𗴮	ġhaahxyihxtrhaoomphanyxllyrdeh
-𗰗𗭞	ġhaahxbix
-𗰗𗰚	ġhaahxnlly
-𗰗𗰧	ġhaahxlhomx
-𗰗𗰭	ġhaahxsja
-𗰗𗼑	ġhaahxlhihx
-𗰗𗼑𗼘	ġhaahxlhihxphoom
-𗰗𗼲	ġhaahxmbux
-𗰗𗼻	ġhaahxllyhx
-𗰗𗽋	ġhaahxdzoom
-𗰗𗿳	ġhaahxdzem
-𗰗𘂏	ġhaahxbaeehx
-𗰗𘄿	ġhaahxte
-𗰗𘈩	ġhaahxliiw
-𗰗𘈩𗡪	ġhaahxliiwtsiiwx
-𗰗𘈩𗤒	ġhaahxliiwkiw
-𗰗𘈩𗼑	ġhaahxliiwlhihx
-𗰗𘈩𗿳	ġhaahxliiwdzem
-𗰗𘉋	ġhaahxyar
-𗰗𘊄	ġhaahxnromx
-𗰗𘊲	ġhaahxmphaaax
-𗰗𘋠	ġhaahxmyyx
-𗰗𘌉	ġhaahxqwoo
-𗰗𘌑	ġhaahxsoox
-𗰗𘍟	ġhaahxtsy
-𗰗𘎐	ġhaahxtraeehx
-𗰗𘐳	ġhaahxlyx
-𗰗𘑌	ġhaahxdjex
-𗰗𘒝	ġhaahxtrhaiiw
-𗰗𘓐	ġhaahxdzwox
-𗰗𘕕	ġhaahxsoomh
-𗰗𘕕𗡪	ġhaahxsoomhtsiiwx
-𗰗𘕕𗤒	ġhaahxsoomhkiw
-𗰗𘗠	ġhaahxġhaa
-𗰗𘘔	ġhaahxdjaw
-𗰗𘘘	ġhaahxsaa
-𗰗𘞚	ġhaahxmbe
-𗰗𘞫	ġhaahxgiwrx
+𗰗𗀊	gghaahxtjhaw
+𗰗𗁞	gghaahxtjhawx
+𗰗𗂧	gghaahxlhehx
+𗰗𗆔	gghaahxqaahx
+𗰗𗇒	gghaahxsja
+𗰗𗍫	gghaahxnny
+𗰗𗍫𗂧	gghaahxnnylhehx
+𗰗𗍫𗎭	gghaahxnnymmi
+𗰗𗍫𗛆	gghaahxnnyvwaarx
+𗰗𗍫𗡪	gghaahxnnytsiiwx
+𗰗𗍫𗤒	gghaahxnnykiw
+𗰗𗍫𗦖𗎭	gghaahxnnymerxmmi
+𗰗𗍫𗼑	gghaahxnnylhihx
+𗰗𗍫𗼑𗼘	gghaahxnnylhihxphoom
+𗰗𗍫𗿳	gghaahxnnydzem
+𗰗𗍬	gghaahxlux
+𗰗𗏁	gghaahxngwyy
+𗰗𗏁𗡪	gghaahxngwyytsiiwx
+𗰗𗏇	gghaahxdix
+𗰗𗒜	gghaahxdjwa
+𗰗𗒹	gghaahxsjah
+𗰗𗕑	gghaahxkhyx
+𗰗𗚻	gghaahxsjemx
+𗰗𗜸	gghaahxgguux
+𗰗𗝏	gghaahxduuhx
+𗰗𗞖	gghaahxfim
+𗰗𗡪	gghaahxtsiiwx
+𗰗𗢭	gghaahxnggy
+𗰗𗣃	gghaahxgwix
+𗰗𗤁	gghaahxtjhiw
+𗰗𗤁𗂧	gghaahxtjhiwlhehx
+𗰗𗤁𗂧𗤀	gghaahxtjhiwlhehxsje
+𗰗𗤁𗍬	gghaahxtjhiwlux
+𗰗𗤒	gghaahxkiw
+𗰗𗥃	gghaahxllyr
+𗰗𗥃𗡪	gghaahxllyrtsiiwx
+𗰗𗫸𗲄𗧤𘆄𗥃𗴮	gghaahxyihxtrhaoomphanyxllyrdeh
+𗰗𗭞	gghaahxbix
+𗰗𗰚	gghaahxnlly
+𗰗𗰧	gghaahxlhomx
+𗰗𗰭	gghaahxsja
+𗰗𗼑	gghaahxlhihx
+𗰗𗼑𗼘	gghaahxlhihxphoom
+𗰗𗼲	gghaahxmbux
+𗰗𗼻	gghaahxllyhx
+𗰗𗽋	gghaahxdzoom
+𗰗𗿳	gghaahxdzem
+𗰗𘂏	gghaahxbaeehx
+𗰗𘄿	gghaahxte
+𗰗𘈩	gghaahxliiw
+𗰗𘈩𗡪	gghaahxliiwtsiiwx
+𗰗𘈩𗤒	gghaahxliiwkiw
+𗰗𘈩𗼑	gghaahxliiwlhihx
+𗰗𘈩𗿳	gghaahxliiwdzem
+𗰗𘉋	gghaahxyar
+𗰗𘊄	gghaahxnromx
+𗰗𘊲	gghaahxmphaaax
+𗰗𘋠	gghaahxmyyx
+𗰗𘌉	gghaahxqwoo
+𗰗𘌑	gghaahxsoox
+𗰗𘍟	gghaahxtsy
+𗰗𘎐	gghaahxtraeehx
+𗰗𘐳	gghaahxlyx
+𗰗𘑌	gghaahxdjex
+𗰗𘒝	gghaahxtrhaiiw
+𗰗𘓐	gghaahxdzwox
+𗰗𘕕	gghaahxsoomh
+𗰗𘕕𗡪	gghaahxsoomhtsiiwx
+𗰗𘕕𗤒	gghaahxsoomhkiw
+𗰗𘗠	gghaahxgghaa
+𗰗𘘔	gghaahxdjaw
+𗰗𘘘	gghaahxsaa
+𗰗𘞚	gghaahxmbe
+𗰗𘞫	gghaahxgiwrx
 𗰘𗒲	wuuxtraii
 𗰘𗤔	wuuxmux
 𗰘𘇤	wuuxngge
@@ -27390,7 +27390,7 @@ min_phrase_weight: 100
 𗰝𗀋	paiihphaoox
 𗰝𗌝	paiihsex
 𗰝𗬛	paiihriirx
-𗰞𗒘	nawġhaee
+𗰞𗒘	nawgghaee
 𗰞𗔤𗔤	nawqwaiiqwaii
 𗰞𗘍	nawngwyyr
 𗰞𗭡	nawtswyr
@@ -27402,9 +27402,9 @@ min_phrase_weight: 100
 𗰢𗁜	nggaxvor
 𗰦𘀎	lwoomuur
 𗰨𗚊	yiwxnguur
-𗰩𗶤	ġhwoomhlu
-𗰩𘁣	ġhwoomhghem
-𗰩𘆊	ġhwoomhghom
+𗰩𗶤	gghwoomhlu
+𗰩𘁣	gghwoomhghem
+𗰩𘆊	gghwoomhghom
 𗰬𗰬	tootoo
 𗰬𗰬𗄽	tootoosraaam
 𗰬𘅧	tookwi
@@ -27415,7 +27415,7 @@ min_phrase_weight: 100
 𗰭𗤁	sjatjhiw
 𗰭𗥃	sjallyr
 𗰭𗬥	sjade
-𗰭𗰗	sjaġhaahx
+𗰭𗰗	sjagghaahx
 𗰭𗰧	sjalhomx
 𗰭𗿀	sjatsiir
 𗰭𘆦	sjandzee
@@ -27438,7 +27438,7 @@ min_phrase_weight: 100
 𗰷𗋝	zwyyrlwuux
 𗰷𗋲	zwyyrllaiih
 𗰷𗚔	zwyyrdzwyx
-𗰷𗛫	zwyyrġhoorx
+𗰷𗛫	zwyyrgghoorx
 𗰸𗟥	khwyteh
 𗰸𗨇	khwytjuo
 𗰸𗯢	khwygwy
@@ -27475,7 +27475,7 @@ min_phrase_weight: 100
 𗰾𗨄	nihxyiwx
 𗰿𗈅	ywixleex
 𗰿𗓆	ywixle
-𗰿𘜛	ywixġhwee
+𗰿𘜛	ywixgghwee
 𗱀𗐱	woonix
 𗱅𗶮	lhihxngga
 𗱅𗽷	lhihxyawrx
@@ -27535,7 +27535,7 @@ min_phrase_weight: 100
 𗱕𘍞	rurwooh
 𗱕𘒣	rurdaahx
 𗱕𘓐	rurdzwox
-𗱕𘔮	rurġhwaarx
+𗱕𘔮	rurgghwaarx
 𗱕𘘝	rurndzex
 𗱕𘟙	rurnex
 𗱕𘟙𘛃	rurnexluux
@@ -27550,7 +27550,7 @@ min_phrase_weight: 100
 𗱚𘗫	ndzuxllaah
 𗱛𗦧	myyxmerx
 𗱜𗶤	nlluxlu
-𗱝𗙏	drwaiiġhaiihx
+𗱝𗙏	drwaiigghaiihx
 𗱞𗁪	laamthiiwx
 𗱞𘄱	laamthem
 𗱡𗁪𗴼	zjwuxthiiwxkhiwx
@@ -27591,7 +27591,7 @@ min_phrase_weight: 100
 𗱱𗲸	tshaxtyhx
 𗱱𗹢	tshaxdohx
 𗱱𘓯	tshaxkhom
-𗱱𘔮	tshaxġhwaarx
+𗱱𘔮	tshaxgghwaarx
 𗱱𘕤	tshaxyux
 𗱲𗱲	duhduh
 𗱲𗱲𗜓𗟻𗯿	duhduhsjaxphivweer
@@ -27599,7 +27599,7 @@ min_phrase_weight: 100
 𗱴𗲳	vihxdjwyr
 𗱵𗑉	liixmee
 𗱵𗧐	liixbaiix
-𗱵𗱘	liixġhayyr
+𗱵𗱘	liixgghayyr
 𗱶𗇯	duudaax
 𗱷𗱰	qyylaam
 𗱸𗅠	lluuhgguur
@@ -27720,7 +27720,7 @@ min_phrase_weight: 100
 𗲞𘑪	raarqhwyy
 𗲟𗍥	pyyghyh
 𗲠𗀅	ngaazaarx
-𗲠𗈮	ngaaġhaiir
+𗲠𗈮	ngaagghaiir
 𗲠𗡪	ngaatsiiwx
 𗲠𗲠	ngaangaa
 𗲠𗵫	ngaageh
@@ -27729,8 +27729,8 @@ min_phrase_weight: 100
 𗲡𗝢𗄽	hiimxlaamsraaam
 𗲡𗝢𗒈	hiimxlaamdraeemx
 𗲡𗝢𗵒	hiimxlaamqaiih
-𗲡𗝢𗽪	hiimxlaamġhweex
-𗲡𗝢𗽪𗝠𘎵𘍞	hiimxlaamġhweexsizehxwooh
+𗲡𗝢𗽪	hiimxlaamgghweex
+𗲡𗝢𗽪𗝠𘎵𘍞	hiimxlaamgghweexsizehxwooh
 𗲡𗝢𘑗	hiimxlaamngyyr
 𗲡𘑗	hiimxngyyr
 𗲤𗥝	thyynduu
@@ -27751,14 +27751,14 @@ min_phrase_weight: 100
 𗲴𗀳	lluhtjyr
 𗲴𗭹	lluhbaar
 𗲴𘑑	lluhriiwrx
-𗲵𗱘	liixġhayyr
+𗲵𗱘	liixgghayyr
 𗲶𗠉	traiiwmyyr
 𗲶𗢸	traiiwllawx
 𗲶𗻫	traiiwvorx
 𗲷𗡎	ngngwuuxlix
 𗲼𘏮	tswynneex
 𗲾𗴂	swiimphaoom
-𗳃𗥦	bihġhuu
+𗳃𗥦	bihgghuu
 𗳃𗳾	bihntrhaaax
 𗳃𘏉	bihtjhow
 𗳃𘝞	bihywyrx
@@ -27770,7 +27770,7 @@ min_phrase_weight: 100
 𗳆𘜘	lhorir
 𗳇𗍷	dzuhdzemx
 𗳇𗏡	dzuhquuh
-𗳇𗥦	dzuhġhuu
+𗳇𗥦	dzuhgghuu
 𗳇𗳽	dzuhloomx
 𗳇𗴀	dzuhsoox
 𗳇𗴵	dzuhlluhx
@@ -27820,11 +27820,11 @@ min_phrase_weight: 100
 𗳦𗿳	qaadzem
 𗳩𗁼	woobex
 𗳩𗂎	wootshemx
-𗳩𗂎𘟄𗯿𘏐	wootshemxghyvweerġhwaii
+𗳩𗂎𘟄𗯿𘏐	wootshemxghyvweergghwaii
 𗳩𗄋	woozji
 𗳩𗍁	woovwiix
 𗳩𗎁	woorirx
-𗳩𗎁𘟪𘏐	woorirxsjomġhwaii
+𗳩𗎁𘟪𘏐	woorirxsjomgghwaii
 𗳩𗎞	woommyy
 𗳩𗎥	woommi
 𗳩𗚿	wooliwx
@@ -27840,7 +27840,7 @@ min_phrase_weight: 100
 𗳩𘓬	woonggguux
 𗳩𘛫	wooliw
 𗳩𘛫𗐱𗤛	wooliwnixtjom
-𗳭𘏍	yerxġhaa
+𗳭𘏍	yerxgghaa
 𗳯𗳯	wuuxwuux
 𗳱𗐱	thaxnix
 𗳲𗳇	lhemdzuh
@@ -27888,7 +27888,7 @@ min_phrase_weight: 100
 𗳻𘍨	tjahi
 𗳽𗁜	loomxvor
 𗳽𗍗𗒈	loomxvwiixdraeemx
-𗳽𗥦	loomxġhuu
+𗳽𗥦	loomxgghuu
 𗳽𗭆	loomxtaah
 𗳽𗳃	loomxbih
 𗳽𗳇	loomxdzuh
@@ -27932,7 +27932,7 @@ min_phrase_weight: 100
 𗴂𘗙	phaoombux
 𗴂𘙮	phaoomliiwx
 𗴄𗿰	yyrxqaeehx
-𗴆𗿵	djwyxġhaa
+𗴆𗿵	djwyxgghaa
 𗴇𗑛	llwehxzyr
 𗴈𗰞	doomxnaw
 𗴉𗍲	pheela
@@ -27945,7 +27945,7 @@ min_phrase_weight: 100
 𗴎𘔾	toomlhoomrx
 𗴏𗈿	tsatsha
 𗴏𗉀	tsatshwa
-𗴐𗴐	ġhaarġhaar
+𗴐𗴐	gghaargghaar
 𗴒𗁣	kahdzy
 𗴒𗃬	kahlliix
 𗴒𗅅	kahyiwx
@@ -28008,7 +28008,7 @@ min_phrase_weight: 100
 𗴣𗴣	vwyyrvwyyr
 𗴣𘕂	vwyyrdje
 𗴤𗅾	yiwxnoo
-𗴤𗥦𘏿	yiwxġhuuqaah
+𗴤𗥦𘏿	yiwxgghuuqaah
 𗴤𗰞𗱀	yiwxnawwoo
 𗴤𘆖	yiwxntshy
 𗴤𘓐	yiwxdzwox
@@ -28098,7 +28098,7 @@ min_phrase_weight: 100
 𗴿𗒀	kuhtshwiiw
 𗴿𗳞	kuhlhaah
 𗴿𗵭	kuhkoh
-𗴿𘔮	kuhġhwaarx
+𗴿𘔮	kuhgghwaarx
 𗴿𘕤	kuhyux
 𗵀𗃽	vwoomvwaar
 𗵀𗑩	vwoomnggix
@@ -28125,7 +28125,7 @@ min_phrase_weight: 100
 𗵃𗌝	vwiisex
 𗵃𗍰	vwiipohx
 𗵃𗎭	vwiimmi
-𗵃𗒘	vwiiġhaee
+𗵃𗒘	vwiigghaee
 𗵃𗘍	vwiingwyyr
 𗵃𗘩	vwiinyyrx
 𗵃𗤒	vwiikiw
@@ -28137,7 +28137,7 @@ min_phrase_weight: 100
 𗵃𘆝	vwiirer
 𗵃𘔚	vwiine
 𗵃𘖨	vwiilom
-𗵃𘗠	vwiiġhaa
+𗵃𘗠	vwiigghaa
 𗵃𘟙	vwiinex
 𗵄𗚊	lluhxnguur
 𗵆𗣔	sjemtuu
@@ -28173,8 +28173,8 @@ min_phrase_weight: 100
 𗵎𘒑	sjemdjwex
 𗵏𘕳	buquuhx
 𗵐𗑩	neexnggix
-𗵐𗒘	neexġhaee
-𗵐𗦁	neexġhaiihx
+𗵐𗒘	neexgghaee
+𗵐𗦁	neexgghaiihx
 𗵐𗨤	neexdzox
 𗵐𗯩	neextwuuh
 𗵐𗼄	neextraiir
@@ -28192,7 +28192,7 @@ min_phrase_weight: 100
 𗵒𗋾	qaiihzjux
 𗵒𗍧	qaiihlliihx
 𗵒𗎭	qaiihmmi
-𗵒𗒘	qaiihġhaee
+𗵒𗒘	qaiihgghaee
 𗵒𗕑	qaiihkhyx
 𗵒𗘩	qaiihnyyrx
 𗵒𗘮	qaiihnyyr
@@ -28247,7 +28247,7 @@ min_phrase_weight: 100
 𗵒𘝋𘎃	qaiihdzwyxvwii
 𗵒𘟞	qaiihbyr
 𗵒𘟩	qaiihtemhx
-𗵒𘟫	qaiihġhaah
+𗵒𘟫	qaiihgghaah
 𗵓𗅄	lloomxllaah
 𗵓𘌅	lloomxze
 𗵕𗝏	byyduuhx
@@ -28278,7 +28278,7 @@ min_phrase_weight: 100
 𗵘𗧯	tjanye
 𗵘𗨬	tjaruur
 𗵘𗪀	tjangkhux
-𗵘𗫦	tjaġhaiiw
+𗵘𗫦	tjagghaiiw
 𗵘𗭍	tjadjeh
 𗵘𗯮	tjanthwuu
 𗵘𗰞	tjanaw
@@ -28386,12 +28386,12 @@ min_phrase_weight: 100
 𗶃𘋇	tjixfi
 𗶃𘕘	tjixtsyy
 𗶄𗉠	mmyxtju
-𗶅𗓑	trauuhġhweerx
+𗶅𗓑	trauuhgghweerx
 𗶅𗹧	trauuhmyy
-𗶅𘑨	trauuhġhwuuhx
-𗶆𗶈	ġhwaadiih
+𗶅𘑨	trauuhgghwuuhx
+𗶆𗶈	gghwaadiih
 𗶇𗢃	diihgwyr
-𗶇𗪺	diihġhaii
+𗶇𗪺	diihgghaii
 𗶇𗺉	diihtjhix
 𗶇𘊣	diihsoox
 𗶇𘔳	diihlwiiw
@@ -28400,10 +28400,10 @@ min_phrase_weight: 100
 𗶈𗦗	diihsoox
 𗶈𗦗𗎭	diihsooxmmi
 𗶈𗦗𗦖𗎭	diihsooxmerxmmi
-𗶈𗰿𘗠	diihywixġhaa
+𗶈𗰿𘗠	diihywixgghaa
 𗶈𗵫	diihgeh
 𗶈𘁤	diihtjhiwx
-𗶈𘃽𘗠	diihwooxġhaa
+𗶈𘃽𘗠	diihwooxgghaa
 𗶉𘓎	zyrswi
 𗶏𗕪	nlluxmeh
 𗶐𗶊	miixnex
@@ -28427,7 +28427,7 @@ min_phrase_weight: 100
 𗶙𗼍	djwyxnsaa
 𗶙𘔺𗤛	djwyxkhixtjom
 𗶚𗂸	nebix
-𗶚𗈮	neġhaiir
+𗶚𗈮	negghaiir
 𗶚𗈲	neqhwaa
 𗶚𗋐	netjhu
 𗶚𗋐𘚕𘞿	netjhulloomxve
@@ -28533,7 +28533,7 @@ min_phrase_weight: 100
 𗶷𗄼	sjyla
 𗶷𗅉	sjynuo
 𗶷𗆮	sjylhow
-𗶷𗙏	sjyġhaiihx
+𗶷𗙏	sjygghaiihx
 𗶷𗫻	sjyndje
 𗶷𗯩	sjytwuuh
 𗶷𗶹	sjysjix
@@ -28554,7 +28554,7 @@ min_phrase_weight: 100
 𗷅𘋨	sjyxdzwy
 𗷆𗣓	mphiggaii
 𗷆𗦇𗎭	mphilliiwxmmi
-𗷆𗪺	mphiġhaii
+𗷆𗪺	mphigghaii
 𗷆𗯩	mphitwuuh
 𗷆𗷬	mphitjhworx
 𗷆𘒏	mphiga
@@ -28585,9 +28585,9 @@ min_phrase_weight: 100
 𗷚𘉌	liixzyyrx
 𗷛𘖉	qaeexkhex
 𗷞𗅬	lixdjiwx
-𗷟𗶩	ġhaamxthix
-𗷟𗼻	ġhaamxllyhx
-𗷟𘜶	ġhaamxllehx
+𗷟𗶩	gghaamxthix
+𗷟𗼻	gghaamxllyhx
+𗷟𘜶	gghaamxllehx
 𗷣𗠵	djwupaahx
 𗷣𘋁	djwudjwi
 𗷤𗽍	nduuxndwyy
@@ -28614,7 +28614,7 @@ min_phrase_weight: 100
 𗷭𗚿	kimliwx
 𗷭𗬐	kimsyy
 𗷭𘂆𘑗	kimtsyngyyr
-𗷭𘅰	kimġhuu
+𗷭𘅰	kimgghuu
 𗷭𘝻	kimqwoo
 𗷮𗊛	vwoomtshiiw
 𗷮𗸯𗧯	vwoomdjwunye
@@ -28638,7 +28638,7 @@ min_phrase_weight: 100
 𗷷𗞿	lhihxtshwe
 𗷷𘐠	lhihxngwoox
 𗷸𗾖	yiwxgor
-𗷸𗿕	yiwxġhwuuhx
+𗷸𗿕	yiwxgghwuuhx
 𗷹𘄫	dzuurtsuh
 𗷹𘉻	dzuurlhiihx
 𗷺𗾞	mannyx
@@ -28678,13 +28678,13 @@ min_phrase_weight: 100
 𗸐𗍷	yyrxdzemx
 𗸐𗓈	yyrxlhwuu
 𗸐𗜈	yyrxzoomx
-𗸐𗫦	yyrxġhaiiw
+𗸐𗫦	yyrxgghaiiw
 𗸐𗲸	yyrxtyhx
 𗸐𗹔	yyrxlhweh
 𗸐𘅣	yyrxdaahx
 𗸐𘋦	yyrxnzraaax
 𗸓𗤋	dwyyrme
-𗸓𗪝	dwyyrġhwaeeh
+𗸓𗪝	dwyyrgghwaeeh
 𗸓𘜏	dwyyrnar
 𗸔𗙩	yyrxhiw
 𗸔𗩙	yyrxphuu
@@ -28698,7 +28698,7 @@ min_phrase_weight: 100
 𗸕𗴂	qhwyyphaoom
 𗸕𗵝𗸕𗀐	qhwyylloomxqhwyydje
 𗸕𗸕	qhwyyqhwyy
-𗸕𗹺	qhwyyġhaaamx
+𗸕𗹺	qhwyygghaaamx
 𗸕𗾶	qhwyyhu
 𗸕𗾶𗸕𘞌	qhwyyhuqhwyyzjyr
 𗸕𘄎𘝣	qhwyyginraeem
@@ -28712,7 +28712,7 @@ min_phrase_weight: 100
 𗸚𘆕	ngggaangggaax
 𗸛𗢖	qhwyytshwem
 𗸛𗸞	qhwyyneehx
-𗸞𗸝	neehxġhoom
+𗸞𗸝	neehxgghoom
 𗸟𗢛𗍁	ngggaayuvwiix
 𗸟𗪞𗍁	ngggaayuvwiix
 𗸠𗤋	hwaaame
@@ -28739,7 +28739,7 @@ min_phrase_weight: 100
 𗸯𗣼	djwutjhax
 𗸯𗤋	djwume
 𗸯𗤶	djwunne
-𗸯𗦁	djwuġhaiihx
+𗸯𗦁	djwugghaiihx
 𗸯𗧘	djwuvwoox
 𗸯𗧯	djwunye
 𗸯𗭍	djwudjeh
@@ -28756,10 +28756,10 @@ min_phrase_weight: 100
 𗸯𘘖	djwullihx
 𗸯𘘚	djwundzex
 𗸯𘟙	djwunex
-𗸯𘟙𗂧𗓑	djwunexlhehxġhweerx
+𗸯𘟙𗂧𗓑	djwunexlhehxgghweerx
 𗸯𘟠	djwudzuu
 𗸰𗪉	toomzwih
-𗸰𗪉𗽔𘗣𘏐	toomzwihbyyxduuxġhwaii
+𗸰𗪉𗽔𘗣𘏐	toomzwihbyyxduuxgghwaii
 𗸰𗫿	toomkwi
 𗸰𗾎	toomkwi
 𗸰𘅧	toomkwi
@@ -28824,7 +28824,7 @@ min_phrase_weight: 100
 𗹏𗄖	doomdji
 𗹏𗄖𗎭	doomdjimmi
 𗹏𗄖𗦖𗎭	doomdjimerxmmi
-𗹏𗄵	doomġhwaeem
+𗹏𗄵	doomgghwaeem
 𗹏𗅴	doomlleehx
 𗹏𗊑	doomdzwam
 𗹏𗎭	doommmi
@@ -28868,11 +28868,11 @@ min_phrase_weight: 100
 𗹑𗡼	tjemberx
 𗹑𗢼	tjemzehx
 𗹑𗣼	tjemtjhax
-𗹑𗥦𗖅	tjemġhuuswix
+𗹑𗥦𗖅	tjemgghuuswix
 𗹑𗦻	tjemmmex
 𗹑𗩈	tjemmbux
 𗹑𗩈𗅂	tjemmbuxrar
-𗹑𗫦	tjemġhaiiw
+𗹑𗫦	tjemgghaiiw
 𗹑𗶠	tjemndzuux
 𗹑𗹐	tjemtwuuh
 𗹑𗹑	tjemtjem
@@ -28883,9 +28883,9 @@ min_phrase_weight: 100
 𗹒𗴠	--temhx
 𗹒𘅣	--daahx
 𗹒𘇚	--mmix
-𗹒𘑨	--ġhwuuhx
-𗹒𘑨𗃵	--ġhwuuhxpuhx
-𗹒𘑨𗃵𘜶𗧁𗑾	--ġhwuuhxpuhxllehxrerxngngwuu
+𗹒𘑨	--gghwuuhx
+𗹒𘑨𗃵	--gghwuuhxpuhx
+𗹒𘑨𗃵𘜶𗧁𗑾	--gghwuuhxpuhxllehxrerxngngwuu
 𗹒𘚪	--dzihx
 𗹓𗁪	tjemthiiwx
 𗹓𘘪	tjemtoom
@@ -28907,17 +28907,17 @@ min_phrase_weight: 100
 𗹙𗤋	tserme
 𗹙𗦻	tsermmex
 𗹙𗭹	tserbaar
-𗹙𗴐	tserġhaar
+𗹙𗴐	tsergghaar
 𗹙𗼮	tserdzuhx
 𗹙𘅫	tsertju
 𗹙𘇄	tserlwu
 𗹙𘎪	tserntshe
-𗹙𘔮	tserġhwaarx
-𗹙𘗠	tserġhaa
+𗹙𘔮	tsergghwaarx
+𗹙𘗠	tsergghaa
 𗹙𘘚	tserndzex
 𗹙𘛇	tsergux
 𗹙𘛇𗤛	tserguxtjom
-𗹚𗐔	nerġhaarx
+𗹚𗐔	nergghaarx
 𗹚𗣯	nerdeh
 𗹞𘁓	myybux
 𗹠𗁅	rerllaah
@@ -28955,7 +28955,7 @@ min_phrase_weight: 100
 𗹡𘓐	kirdzwox
 𗹡𘗁	kirdjax
 𗹡𘝦	kirdjy
-𗹢𗫦	dohxġhaiiw
+𗹢𗫦	dohxgghaiiw
 𗹢𘞂	dohxndzyx
 𗹤𗰁	sraeedjuox
 𗹥𗹥	rerrer
@@ -28983,12 +28983,12 @@ min_phrase_weight: 100
 𗹦𗤏	myykyrx
 𗹦𗤶	myynne
 𗹦𗤷	myyqaah
-𗹦𗥦	myyġhuu
+𗹦𗥦	myygghuu
 𗹦𗥴	myyqhoom
 𗹦𗦾	myynyu
 𗹦𗧊	myytoox
 𗹦𗧹	myygir
-𗹦𗪺	myyġhaii
+𗹦𗪺	myygghaii
 𗹦𗭞	myybix
 𗹦𗭼	myyswiiw
 𗹦𗮿	myykwyh
@@ -28999,7 +28999,7 @@ min_phrase_weight: 100
 𗹦𗵘	myytja
 𗹦𗵝	myylloomx
 𗹦𗵰	myytih
-𗹦𗷟	myyġhaamx
+𗹦𗷟	myygghaamx
 𗹦𗸊	myylux
 𗹦𗹭	myybex
 𗹦𗹳	myydjex
@@ -29028,7 +29028,7 @@ min_phrase_weight: 100
 𗹦𘓐	myydzwox
 𗹦𘓓	myynvwyy
 𗹦𘓷	myyqwyyr
-𗹦𘗠	myyġhaa
+𗹦𘗠	myygghaa
 𗹦𘘂𗼻𘘂	myydjollyhxdjo
 𗹦𘚶	myyly
 𗹦𘛺	myybex
@@ -29053,9 +29053,9 @@ min_phrase_weight: 100
 𗹨𘅣	yemxdaahx
 𗹨𘅫	yemxtju
 𗹨𘈟	yemxlyy
-𗹨𘗠	yemxġhaa
-𗹨𘗠𘂴𗱨	yemxġhaammenllux
-𗹨𘗠𘂴𗱨𘒩𗭻	yemxġhaammenlluxdzunllex
+𗹨𘗠	yemxgghaa
+𗹨𘗠𘂴𗱨	yemxgghaammenllux
+𗹨𘗠𘂴𗱨𘒩𗭻	yemxgghaammenlluxdzunllex
 𗹪𗆐	nllexllehx
 𗹪𗈞	nllexdzarx
 𗹪𗧹	nllexgir
@@ -29083,7 +29083,7 @@ min_phrase_weight: 100
 𗹳𗆧	djexsiw
 𗹳𗑗	djexsee
 𗹳𗜈	djexzoomx
-𗹳𗥦𘏿	djexġhuuqaah
+𗹳𗥦𘏿	djexgghuuqaah
 𗹳𗴂	djexphaoom
 𗹳𗴛	djextjwomx
 𗹳𘒘	djexpaaam
@@ -29096,7 +29096,7 @@ min_phrase_weight: 100
 𗹸𗍗	lhuovwiix
 𗹸𗍗𘋼𗿷	lhuovwiixkurxdjex
 𗹸𘕼	lhuogux
-𗹺𘂝	ġhaaamxdzeem
+𗹺𘂝	gghaaamxdzeem
 𗹻𗹿	diiwdee
 𗹽𗠋	traeehtrhaaa
 𗹾𗪘	phesji
@@ -29152,7 +29152,7 @@ min_phrase_weight: 100
 𗺕𗞔	ngkisja
 𗺕𗺜	ngkidzyyh
 𗺕𗻖	ngkirirx
-𗺖𗺯	tsaaġhuux
+𗺖𗺯	tsaagghuux
 𗺘𗻈	yiwxpuu
 𗺙𗵫	zurxgeh
 𗺛𗺹	--hiiw
@@ -29175,7 +29175,7 @@ min_phrase_weight: 100
 𗺩𗻗	sraaaxsjux
 𗺪𗺷	rurzurx
 𗺫𗗖	byyxllemhx
-𗺫𗝜𗺟	byyxdyrxġhoorx
+𗺫𗝜𗺟	byyxdyrxgghoorx
 𗺭𗒞	djomnnaax
 𗺭𗘍	djomngwyyr
 𗺮𗺽𗻰	vwiixrarxtshiiwx
@@ -29211,7 +29211,7 @@ min_phrase_weight: 100
 𗺽𗺮	rarxvwiix
 𗺽𗻐	rarxmbuux
 𗺾𘍴	vwaarxllih
-𗻀𗻸	baiixġhaa
+𗻀𗻸	baiixgghaa
 𗻁𗺠	ndeextuu
 𗻆𗻛	sjaxkiw
 𗻉𗺣	luuxnsjix
@@ -29253,7 +29253,7 @@ min_phrase_weight: 100
 𗻪𗫴	nniiwxmma
 𗻫𗢸	vorxllawx
 𗻬𘞆	zjyrbi
-𗻭𗘍	ġhaangwyyr
+𗻭𗘍	gghaangwyyr
 𗻮𗉝	llaeehsjihx
 𗻮𗝠	llaeehsi
 𗻯𗉝	zuurxsjihx
@@ -29297,7 +29297,7 @@ min_phrase_weight: 100
 𗼃𗧥𗎭	sjemxzirxmmi
 𗼃𗧥𗕿𘘖𗤛	sjemxzirxnexllihxtjom
 𗼃𗧥𗫔𗎭	sjemxzirxyimmi
-𗼃𗪺	sjemxġhaii
+𗼃𗪺	sjemxgghaii
 𗼃𗫔	sjemxyi
 𗼃𗫴	sjemxmma
 𗼃𗭼	sjemxswiiw
@@ -29318,7 +29318,7 @@ min_phrase_weight: 100
 𗼃𘑗	sjemxngyyr
 𗼃𘑫	sjemxqaam
 𗼃𘓐	sjemxdzwox
-𗼃𘔮	sjemxġhwaarx
+𗼃𘔮	sjemxgghwaarx
 𗼃𘘖	sjemxllihx
 𗼃𘝞	sjemxywyrx
 𗼃𘟙	sjemxnex
@@ -29346,21 +29346,21 @@ min_phrase_weight: 100
 𗼇𘂜𗐽𗸦𗅂	mixzaartshoomdjwurar
 𗼇𘂜𗐽𗸦𘍞	mixzaartshoomdjwuwooh
 𗼇𘂜𗟲𗿳𗖵𘃎𘇂𗊏	mixzaarngngwuudzembupahgguuxnihx
-𗼇𘂜𗫦𘍞	mixzaarġhaiiwwooh
+𗼇𘂜𗫦𘍞	mixzaargghaiiwwooh
 𗼇𘂜𗿳𗖵𘃎𘇂𗊏	mixzaardzembupahgguuxnihx
 𗼇𘂜𘜶𘘝𘍞	mixzaarllehxndzexwooh
 𗼇𘈑𗤳	mixmyrmyyx
 𗼇𘓐	mixdzwox
 𗼇𘗌	mixzirx
 𗼇𘗍	mixlhuh
-𗼇𘜶𗫦𘍞	mixllehxġhaiiwwooh
+𗼇𘜶𗫦𘍞	mixllehxgghaiiwwooh
 𗼇𘜶𘘝𘍞	mixllehxndzexwooh
 𗼇𘝞	mixywyrx
 𗼈𗇮	nahryyrx
 𗼈𗉬	nahgwe
 𗼈𗊏	nahnihx
 𗼈𗎭	nahmmi
-𗼈𗒐	nahġhwaee
+𗼈𗒐	nahgghwaee
 𗼈𗔁	nahsix
 𗼈𗤱	nahremx
 𗼈𗫗	nahgwyrx
@@ -29382,7 +29382,7 @@ min_phrase_weight: 100
 𗼋𗾫	dzwyhnsex
 𗼋𘐔	dzwyhtshwiiw
 𗼍𗅲	nsaatemhx
-𗼍𘔮	nsaaġhwaarx
+𗼍𘔮	nsaagghwaarx
 𗼎𗼇	myxmix
 𗼎𗾧	myxnawx
 𗼎𗾧𗫉	myxnawxmbaee
@@ -29400,7 +29400,7 @@ min_phrase_weight: 100
 𗼑𗬥	lhihxde
 𗼑𗭼	lhihxswiiw
 𗼑𗯮	lhihxnthwuu
-𗼑𗰩	lhihxġhwoomh
+𗼑𗰩	lhihxgghwoomh
 𗼑𗲠	lhihxngaa
 𗼑𗷉	lhihxsje
 𗼑𗸕	lhihxqhwyy
@@ -29420,7 +29420,7 @@ min_phrase_weight: 100
 𗼒𗆐	qhuullehx
 𗼒𗱠	qhuudje
 𗼒𗴛	qhuutjwomx
-𗼒𘔮	qhuuġhwaarx
+𗼒𘔮	qhuugghwaarx
 𗼔𘆑	tjhoxgihx
 𗼕𗓡	lorirx
 𗼕𗟶	loyir
@@ -29429,7 +29429,7 @@ min_phrase_weight: 100
 𗼕𗤷	loqaah
 𗼕𗦫	loyiw
 𗼕𗧹	logir
-𗼕𗪺	loġhaii
+𗼕𗪺	logghaii
 𗼕𗮅	loreerx
 𗼕𗯿	lovweer
 𗼕𗴿	lokuh
@@ -29441,7 +29441,7 @@ min_phrase_weight: 100
 𗼕𘂬	lowoo
 𗼕𘃡	lovi
 𗼕𘄡	losehx
-𗼕𘑨	loġhwuuhx
+𗼕𘑨	logghwuuhx
 𗼕𘒹	lolhuux
 𗼕𘕤	loyux
 𗼕𘗽	lozohx
@@ -29452,7 +29452,7 @@ min_phrase_weight: 100
 𗼘𗣷	phoomlhyy
 𗼘𗸟𗼉	phoomngggaaswe
 𗼚𗲞𗰞	woomxraarnaw
-𗼚𗲞𗰞𗔩𘇚𗅂	woomxraarnawġheehxmmixrar
+𗼚𗲞𗰞𗔩𘇚𗅂	woomxraarnawggheehxmmixrar
 𗼚𗲞𗰞𘌍𗗥𘎵𘍞	woomxraarnawngaazjihxzehxwooh
 𗼚𗲞𗰞𘌍𗭔𗔇	woomxraarnawngaaleexwuuhx
 𗼚𘎧𗡻	woomxvwaaly
@@ -29460,15 +29460,15 @@ min_phrase_weight: 100
 𗼛𗉢	traiirsjwa
 𗼛𗏣	traiirrerx
 𗼛𗗯𗤡𗠚𗥑	traiirtjexnggitheehxhuu
-𗼜𗅔	ġhaiixnawx
-𗼜𘄊	ġhaiixli
-𗼜𘜘	ġhaiixrir
+𗼜𗅔	gghaiixnawx
+𗼜𘄊	gghaiixli
+𗼜𘜘	gghaiixrir
 𗼞𗅲	qoomxtemhx
 𗼞𗐱	qoomxnix
 𗼞𗔇	qoomxwuuhx
 𗼞𗗥	qoomxzjihx
 𗼞𗥱	qoomxdzee
-𗼞𗬳𗓑	qoomxpeeġhweerx
+𗼞𗬳𗓑	qoomxpeegghweerx
 𗼞𗳻	qoomxtja
 𗼞𗵞𘌎	qoomxsjuosjix
 𗼞𗹳	qoomxdjex
@@ -29482,7 +29482,7 @@ min_phrase_weight: 100
 𗼞𘒣	qoomxdaahx
 𗼞𘓐	qoomxdzwox
 𗼞𘔭	qoomxdzem
-𗼞𘔮	qoomxġhwaarx
+𗼞𘔮	qoomxgghwaarx
 𗼞𘕺	qoomxgu
 𗼞𘗜	qoomxgomx
 𗼞𘟩	qoomxtemhx
@@ -29496,12 +29496,12 @@ min_phrase_weight: 100
 𗼢𗆓	zyyrxmex
 𗼣𗙴	ghyrraar
 𗼤𗯿	vwoomvweer
-𗼥𘏐	qaaġhwaii
+𗼥𘏐	qaagghwaii
 𗼦𗻧	dzuhxsje
 𗼦𘌉	dzuhxqwoo
 𗼦𘌐	dzuhxqhaiix
 𗼨𗆟	ngwiixmi
-𗼨𗆟𗢳𗓑𗵆	ngwiixmithaaġhweerxsjem
+𗼨𗆟𗢳𗓑𗵆	ngwiixmithaagghweerxsjem
 𗼨𗆟𗣼𗮔	ngwiixmitjhaxswiiw
 𗼨𗆟𗯿𗄽	ngwiixmivweersraaam
 𗼨𗆟𗶩𗈲	ngwiixmithixqhwaa
@@ -29520,8 +29520,8 @@ min_phrase_weight: 100
 𗼨𗱲𗥺𗬁	ngwiixduhngngwyydemx
 𗼨𘂋	ngwiixziix
 𗼨𘂋𗵆𗰔𗯿	ngwiixziixsjemyiwxvweer
-𗼩𘖃	ġhaahxvwaahx
-𗼩𘖃𘀄	ġhaahxvwaahxnggux
+𗼩𘖃	gghaahxvwaahx
+𗼩𘖃𘀄	gghaahxvwaahxnggux
 𗼪𗅆	dihxdemx
 𗼪𗨉	dihxnix
 𗼫𗿧	suxtsyyh
@@ -29542,7 +29542,7 @@ min_phrase_weight: 100
 𗼯𗆖	tahrar
 𗼱𗈾	dziwlhwah
 𗼱𗋋	dziwtraoor
-𗼱𗔩	dziwġheehx
+𗼱𗔩	dziwggheehx
 𗼱𗘩	dziwnyyrx
 𗼱𗰸	dziwkhwy
 𗼱𗳭	dziwyerx
@@ -29567,7 +29567,7 @@ min_phrase_weight: 100
 𗼵𗍏𗧺𘎫	homxsuxthoomki
 𗼵𗍏𘐆𘝞	homxsuxlaaywyrx
 𗼵𗏲	homxpheex
-𗼵𗐹𗾩	homxġhaamhwam
+𗼵𗐹𗾩	homxgghaamhwam
 𗼵𗒉	homxlaa
 𗼵𗘼	homxnggu
 𗼵𗞖	homxfim
@@ -29592,7 +29592,7 @@ min_phrase_weight: 100
 𗼸𗽤	llwihxtrhaeex
 𗼸𘉂	llwihxdzem
 𗼸𘐖	llwihxlux
-𗼸𘗠	llwihxġhaa
+𗼸𘗠	llwihxgghaa
 𗼹𗽊	djwoxmmeex
 𗼺𗋿	ndzuuxyur
 𗼺𗱸	ndzuuxlluuh
@@ -29639,7 +29639,7 @@ min_phrase_weight: 100
 𗼻𗣯	llyhxdeh
 𗼻𗤋	llyhxme
 𗼻𗤢	llyhxbix
-𗼻𗥦	llyhxġhuu
+𗼻𗥦	llyhxgghuu
 𗼻𗦻	llyhxmmex
 𗼻𗨬	llyhxruur
 𗼻𗩍	llyhxnvwyy
@@ -29682,7 +29682,7 @@ min_phrase_weight: 100
 𗼻𘍦	llyhxye
 𗼻𘎵	llyhxzehx
 𗼻𘎵𗔇	llyhxzehxwuuhx
-𗼻𘏐	llyhxġhwaii
+𗼻𘏐	llyhxgghwaii
 𗼻𘏷	llyhxndi
 𗼻𘐐	llyhxmah
 𗼻𘐖	llyhxlux
@@ -29721,8 +29721,8 @@ min_phrase_weight: 100
 𗽁𘛇	ghyhgux
 𗽁𘞡	ghyhdzoom
 𗽁𘟪	ghyhsjom
-𗽂𗓰	ġhiiwnaa
-𗽂𘗠	ġhiiwġhaa
+𗽂𗓰	gghiiwnaa
+𗽂𘗠	gghiiwgghaa
 𗽃𗼯	buutah
 𗽄𘏯	llyhxnsjix
 𗽅𘊱	trayyphaa
@@ -29738,7 +29738,7 @@ min_phrase_weight: 100
 𗽈𗿳	llihdzem
 𗽈𘃡	llihvi
 𗽈𘅫	llihtju
-𗽈𘑨	llihġhwuuhx
+𗽈𘑨	llihgghwuuhx
 𗽈𘓐	llihdzwox
 𗽈𘛇	llihgux
 𗽉𘞍	tihtiiwr
@@ -29763,7 +29763,7 @@ min_phrase_weight: 100
 𗽓𗼻	riiwrllyhx
 𗽓𘖚	riiwrnoox
 𗽔𘗣	byyxduux
-𗽔𘗣𘏐	byyxduuxġhwaii
+𗽔𘗣𘏐	byyxduuxgghwaii
 𗽔𘗣𘟪	byyxduuxsjom
 𗽕𗁪	qaoomxthiiwx
 𗽕𗋽	qaoomxzyrx
@@ -29797,13 +29797,13 @@ min_phrase_weight: 100
 𗽝𗤛	qwaaatjom
 𗽝𘎢	qwaaataa
 𗽝𘓣	qwaaambaaax
-𗽞𗔼	themġhwee
+𗽞𗔼	themgghwee
 𗽞𗣔	themtuu
 𗽞𗣔𗵒	themtuuqaiih
 𗽞𗣔𘜶𘑗	themtuullehxngyyr
 𗽞𘉍	thembi
 𗽞𘖿	themnggwi
-𗽟𗽟𗫔	ġhweexġhweexyi
+𗽟𗽟𗫔	gghweexgghweexyi
 𗽠𗽡	nlluuverx
 𗽠𘞩	nlluunllu
 𗽣𗽣	lomxlomx
@@ -29819,7 +29819,7 @@ min_phrase_weight: 100
 𗽧𘐒	qhwaaxyerx
 𗽨𗊇	ntaaaxsaax
 𗽩𗊇	tihxsaax
-𗽪𗊧	ġhweextjhwam
+𗽪𗊧	gghweextjhwam
 𗽫𗽫	nwenwe
 𗽬𗀋	tshihphaoox
 𗽬𗅵	tshihmex
@@ -29892,7 +29892,7 @@ min_phrase_weight: 100
 𗾆𘉂	djiwdzem
 𗾆𘐏	djiwtih
 𗾆𘗴	djiwkirx
-𗾇𗕶	biiġhaahx
+𗾇𗕶	biigghaahx
 𗾇𘓐	biidzwox
 𗾈𗁦	mmiixbeh
 𗾈𗂸	mmiixbix
@@ -29911,7 +29911,7 @@ min_phrase_weight: 100
 𗾈𗠇𗗌𗅂	mmiixtihggoorar
 𗾈𗡸	mmiixsix
 𗾈𗩱	mmiixnwix
-𗾈𗪺	mmiixġhaii
+𗾈𗪺	mmiixgghaii
 𗾈𗫔	mmiixyi
 𗾈𗱸	mmiixlluuh
 𗾈𗳽	mmiixloomx
@@ -29969,7 +29969,7 @@ min_phrase_weight: 100
 𗾖𗸱	gornoox
 𗾖𗸱𗇮𗃵	gornooxryyrxpuhx
 𗾖𗸱𗎭𘒣	gornooxmmidaahx
-𗾖𗸱𗑣𗒪𘐆	gornooxġhwaavwaahxlaa
+𗾖𗸱𗑣𗒪𘐆	gornooxgghwaavwaahxlaa
 𗾖𗸱𗹠𗨤𗨮	gornooxrerdzoxkahx
 𗾖𗸱𘍦	gornooxye
 𗾖𗿒	gorqhweex
@@ -29997,9 +29997,9 @@ min_phrase_weight: 100
 𗾞𘜍	nnyxyawrx
 𗾞𘜔	nnyxngiiwrx
 𗾞𘟀	nnyxlex
-𗾟𗊷𘗠	vwaahxremxġhaa
+𗾟𗊷𘗠	vwaahxremxgghaa
 𗾟𗤓	vwaahxntho
-𗾟𗫦	vwaahxġhaiiw
+𗾟𗫦	vwaahxgghaiiw
 𗾟𗹦	vwaahxmyy
 𗾟𘌅	vwaahxze
 𗾟𘜶	vwaahxllehx
@@ -30129,7 +30129,7 @@ min_phrase_weight: 100
 𗿒𗐱	qhweexnix
 𗿒𗤳	qhweexmyyx
 𗿒𗨻	qhweexvwiix
-𗿒𗷭𘅰	qhweexkimġhuu
+𗿒𗷭𘅰	qhweexkimgghuu
 𗿒𗿒	qhweexqhweex
 𗿒𘅣	qhweexdaahx
 𗿒𘓐	qhweexdzwox
@@ -30137,9 +30137,9 @@ min_phrase_weight: 100
 𗿒𘜶	qhweexllehx
 𗿓𗾡	lhyyboomr
 𗿓𘔙	lhyynex
-𗿕𗀷	ġhwuuhxkhux
-𗿕𗣫	ġhwuuhxtseem
-𗿕𗿒	ġhwuuhxqhweex
+𗿕𗀷	gghwuuhxkhux
+𗿕𗣫	gghwuuhxtseem
+𗿕𗿒	gghwuuhxqhweex
 𗿖𗐨	ngngaaaxsraii
 𗿖𗐺	ngngaaaxmiim
 𗿖𗐺𗋳	ngngaaaxmiimqwaam
@@ -30173,11 +30173,11 @@ min_phrase_weight: 100
 𗿢𘈈	zuurxmmi
 𗿢𘒣	zuurxdaahx
 𗿢𘒩	zuurxdzu
-𗿢𘟫	zuurxġhaah
-𗿣𗙑	merxġhaiihx
+𗿢𘟫	zuurxgghaah
+𗿣𗙑	merxgghaiihx
 𗿣𗚛	merxmux
 𗿣𗜓	merxsjax
-𗿣𗪺	merxġhaii
+𗿣𗪺	merxgghaii
 𗿣𗵋	merxdraoomx
 𗿣𗼈	merxnah
 𗿣𗿷	merxdjex
@@ -30188,9 +30188,9 @@ min_phrase_weight: 100
 𗿦𗫄𗤙𗎩𗯿	madzwydaaxqaaavweer
 𗿦𗮖	masjwix
 𗿦𗱈	malliix
-𗿦𗿕	maġhwuuhx
+𗿦𗿕	magghwuuhx
 𗿦𗿥	mavyh
-𗿦𘇍	maġhwuuhx
+𗿦𘇍	magghwuuhx
 𗿦𘈶	maryrx
 𗿦𘝙	madzoom
 𗿦𘝙𘐀𗣼𗯿	madzoomphyytjhaxvweer
@@ -30237,7 +30237,7 @@ min_phrase_weight: 100
 𗿷𗿷	djexdjex
 𗿷𘟣	djexdu
 𗿸𘈈	vwiixmmi
-𗿹𗥦	yomxġhuu
+𗿹𗥦	yomxgghuu
 𗿹𗰞	yomxnaw
 𗿹𘔚	yomxne
 𗿻𗹶	quuduu
@@ -30357,8 +30357,8 @@ min_phrase_weight: 100
 𘀗𘁈	tshwusjyh
 𘀗𘄆	tshwupho
 𘀗𘈷	tshwugix
-𘀗𘑨	tshwuġhwuuhx
-𘀗𘑨𘏨𘔭	tshwuġhwuuhxllyhdzem
+𘀗𘑨	tshwugghwuuhx
+𘀗𘑨𘏨𘔭	tshwugghwuuhxllyhdzem
 𘀗𘓺	tshwungwyyr
 𘀗𘔅	tshwuzurx
 𘀙𗰤	boxlaax
@@ -30428,7 +30428,7 @@ min_phrase_weight: 100
 𘀼𗩛	niihnoox
 𘀼𘎪	niihntshe
 𘀼𘕍	niihtjhiw
-𘀿𘀬	nnooxġhaa
+𘀿𘀬	nnooxgghaa
 𘀿𘀿	nnooxnnoox
 𘁀𘁁	kirndzex
 𘁀𘈀	kirvar
@@ -30436,7 +30436,7 @@ min_phrase_weight: 100
 𘁂𗇃𗃞𗗿𗄽	yaxhwaaxqyytaasraaam
 𘁂𗇃𘄒𘎑𗫉	yaxhwaaxpaaxraxmbaee
 𘁂𗇃𘄒𘎑𗯿	yaxhwaaxpaaxraxvweer
-𘁂𗇃𘟪𘏐	yaxhwaaxsjomġhwaii
+𘁂𗇃𘟪𘏐	yaxhwaaxsjomgghwaii
 𘁂𗇇	yaxhwaa
 𘁂𗇇𗰰𗄽	yaxhwaakirxsraaam
 𘁂𗦱	yaxhwaa
@@ -30454,7 +30454,7 @@ min_phrase_weight: 100
 𘁄𘁍	myyhllwyh
 𘁄𘂆	myyhtsy
 𘁄𘑠	myyhvwoorx
-𘁅𘇍	phuġhwuuhx
+𘁅𘇍	phugghwuuhx
 𘁆𘁉	khamxngwoox
 𘁇𗂣	yyxvi
 𘁇𗾞	yyxnnyx
@@ -30495,13 +30495,13 @@ min_phrase_weight: 100
 𘁝𗱈	nnelliix
 𘁝𘁱	nneqaah
 𘁝𘇂	nnegguux
-𘁞𗁅	ġhwyyxllaah
-𘁞𗙷	ġhwyyxrirx
-𘁞𗢰	ġhwyyxnaa
-𘁞𗨅	ġhwyyxlhy
-𘁞𗷭𗥝	ġhwyyxkimnduu
-𘁞𘁗	ġhwyyxzaax
-𘁞𘅒	ġhwyyxllah
+𘁞𗁅	gghwyyxllaah
+𘁞𗙷	gghwyyxrirx
+𘁞𗢰	gghwyyxnaa
+𘁞𗨅	gghwyyxlhy
+𘁞𗷭𗥝	gghwyyxkimnduu
+𘁞𘁗	gghwyyxzaax
+𘁞𘅒	gghwyyxllah
 𘁟𗂙	dooxphaa
 𘁟𗛧	dooxlluh
 𘁟𗤳	dooxmyyx
@@ -30509,8 +30509,8 @@ min_phrase_weight: 100
 𘁟𗶷	dooxsjy
 𘁟𘁟	dooxdoox
 𘁟𘄿	dooxte
-𘁠𗪟	ġhaaġhuu
-𘁠𘎏	ġhaatjhiwx
+𘁠𗪟	gghaagghuu
+𘁠𘎏	gghaatjhiwx
 𘁡𗥓	zaaxngoox
 𘁢𘍀	thiiwxlaa
 𘁤𗵫	tjhiwxgeh
@@ -30521,16 +30521,16 @@ min_phrase_weight: 100
 𘁨𘝞	buuywyrx
 𘁩𗋟	qoomrxqeerx
 𘁪𗬅	zyhmma
-𘁭𗘕	ġhwyyxngwyyr
+𘁭𗘕	gghwyyxngwyyr
 𘁮𗔀	zyhva
 𘁮𗴺	zyhma
 𘁯𘁙	dzihdjwa
 𘁯𘃘	dzihke
 𘁳𗨅	ndiiwxlhy
-𘁴𗞂	ġhwyyxluux
+𘁴𗞂	gghwyyxluux
 𘁶𗜌	dzy-emx
 𘁶𘓳	dzyngoomrx
-𘁷𗕱	dzaarġhaii
+𘁷𗕱	dzaargghaii
 𘁸𘁸	thyyhthyyh
 𘁹𘁺	dzaarlhem
 𘁻𗲱	nsjwixtjomx
@@ -30561,7 +30561,7 @@ min_phrase_weight: 100
 𘂈𗓆	lloomhxle
 𘂈𗷸	lloomhxyiwx
 𘂌𗠏	ngwyyxngqoox
-𘂍𗖝	ġhayynex
+𘂍𗖝	gghayynex
 𘂎𗛵	laalaax
 𘂎𗸦	laadjwu
 𘂑𘀇	tshaxzjiw
@@ -30735,7 +30735,7 @@ min_phrase_weight: 100
 𘃂𘍞𘟙	vyhxwoohnex
 𘃂𘑗	vyhxngyyr
 𘃂𘒎	vyhxlhor
-𘃂𘗠	vyhxġhaa
+𘃂𘗠	vyhxgghaa
 𘃂𘟙	vyhxnex
 𘃃𗱈	ziiwrxlliix
 𘃇𘊍	rerxpoo
@@ -30750,7 +30750,7 @@ min_phrase_weight: 100
 𘃍𗀹	nnoozi
 𘃍𗑝	nnootsiiwr
 𘃍𗣫	nnootseem
-𘃍𗥦	nnooġhuu
+𘃍𗥦	nnoogghuu
 𘃍𗿒	nnooqhweex
 𘃍𘁯	nnoodzih
 𘃍𘃒	nnoodziwx
@@ -30762,7 +30762,7 @@ min_phrase_weight: 100
 𘃎𘐏	pahtih
 𘃎𘞱	pahvix
 𘃏𘎃	pahxvwii
-𘃐𗥦	tsheġhuu
+𘃐𗥦	tshegghuu
 𘃔𗁅	ndyllaah
 𘃕𗮖	ndasjwix
 𘃖𗰡	zaarxqaax
@@ -30773,11 +30773,11 @@ min_phrase_weight: 100
 𘃚𘏿	dzwyxqaah
 𘃜𗤋	rarme
 𘃜𘟣	rardu
-𘃝𗒐	viġhwaee
+𘃝𗒐	vigghwaee
 𘃝𗭍	vidjeh
 𘃝𘃤	vivo
 𘃝𘏷	vindi
-𘃝𘔮	viġhwaarx
+𘃝𘔮	vigghwaarx
 𘃞𗿳	lydzem
 𘃞𘃞	lyly
 𘃟𗉔	ywamtjiw
@@ -30825,7 +30825,7 @@ min_phrase_weight: 100
 𘃣𘟙	vixnex
 𘃤𗭍	vodjeh
 𘃦𗲸	nllytyhx
-𘃧𗑙	nggaooġhaam
+𘃧𗑙	nggaoogghaam
 𘃧𗤡	nggaoonggi
 𘃧𗫔	nggaooyi
 𘃧𗭴𘕘	nggaooyomtsyy
@@ -30879,7 +30879,7 @@ min_phrase_weight: 100
 𘃻𘓖	yimqoom
 𘃻𘟙	yimnex
 𘃼𘀡	laaxdyx
-𘃽𗙏	wooxġhaiihx
+𘃽𗙏	wooxgghaiihx
 𘃾𗃆	lhyyar
 𘃾𗌮	lhymor
 𘃾𗌰	lhypuuhx
@@ -30960,8 +30960,8 @@ min_phrase_weight: 100
 𘄔𗃇	paeemxla
 𘄔𘓐	paeemxdzwox
 𘄕𗥱	syyxdzee
-𘄘𗄼	ġhaoomla
-𘄘𗩈	ġhaoommbux
+𘄘𗄼	gghaoomla
+𘄘𗩈	gghaoommbux
 𘄜𘏨	nooxllyh
 𘄝𗤈	sjwanggi
 𘄞𗌻𗽤	wuuhyarxtrhaeex
@@ -30980,7 +30980,7 @@ min_phrase_weight: 100
 𘄡𗩈	sehxmbux
 𘄡𗩬	sehxsjix
 𘄡𗪲	sehxghiw
-𘄡𗪲𘗠	sehxghiwġhaa
+𘄡𗪲𘗠	sehxghiwgghaa
 𘄡𗴿	sehxkuh
 𘄡𗸦	sehxdjwu
 𘄡𗹡	sehxkir
@@ -31000,7 +31000,7 @@ min_phrase_weight: 100
 𘄢𗣃	yawgwix
 𘄦𘍵	temvwii
 𘄦𘍵𗊱	temvwiidzox
-𘄧𘗉	ġhaaaxraamx
+𘄧𘗉	gghaaaxraamx
 𘄨𘄨	tsuhtsuh
 𘄩𗕣	tsuhtshah
 𘄩𗘴	tsuhmmux
@@ -31025,7 +31025,7 @@ min_phrase_weight: 100
 𘄱𗓽	themloo
 𘄱𗜰	themtsuum
 𘄱𗟓	themtaam
-𘄱𗥦	themġhuu
+𘄱𗥦	themgghuu
 𘄱𗥫	themye
 𘄱𗦮𗢩𘊴𘏸	themphetsathuusrayy
 𘄱𗩇	themvwiim
@@ -31077,7 +31077,7 @@ min_phrase_weight: 100
 𘄷𘎗	malhyh
 𘄺𘄻	bahlwa
 𘄺𘅅	bahduh
-𘄽𗒘	ngaahxġhaee
+𘄽𗒘	ngaahxgghaee
 𘄽𗱚𘊄𘀼	ngaahxndzuxnromxniih
 𘄽𗱠	ngaahxdje
 𘄽𘄽	ngaahxngaahx
@@ -31085,7 +31085,7 @@ min_phrase_weight: 100
 𘄽𘟀	ngaahxlex
 𘄾𗣓	nomrxggaii
 𘄿𗁪	tethiiwx
-𘄿𗥦	teġhuu
+𘄿𗥦	tegghuu
 𘄿𗩯	teswe
 𘄿𗳦	teqaa
 𘄿𘆥	te--
@@ -31110,7 +31110,7 @@ min_phrase_weight: 100
 𘅁𘛂	riirxmbex
 𘅂𗙸	llahrirx
 𘅂𗙺	llahyux
-𘅃𗒙	ngaahxġhaee
+𘅃𗒙	ngaahxgghaee
 𘅃𘅃	ngaahxngaahx
 𘅅𗭇	duhgex
 𘅊𗦿𗡶	leepemsje
@@ -31118,7 +31118,7 @@ min_phrase_weight: 100
 𘅊𘄄	leezi
 𘅊𘞰	leelix
 𘅊𘞰𗈒	leelixkiwrx
-𘅋𗅌	ngwiirxġhoorx
+𘅋𗅌	ngwiirxgghoorx
 𘅋𗅗	ngwiirxmee
 𘅋𗤢	ngwiirxbix
 𘅋𘃩	ngwiirxtjhow
@@ -31250,7 +31250,7 @@ min_phrase_weight: 100
 𘅫𘋟	tjuriiwrx
 𘅫𘐩	tjuphy
 𘅫𘓐	tjudzwox
-𘅫𘗠	tjuġhaa
+𘅫𘗠	tjugghaa
 𘅫𘙰	tjuliiwx
 𘅫𘛃	tjuluux
 𘅫𘜄	tjungwiir
@@ -31261,39 +31261,39 @@ min_phrase_weight: 100
 𘅮𘒨	tsoomrphe
 𘅮𘙼	tsoomrmuu
 𘅯𗨀	dzydj-
-𘅰𗂧	ġhuulhehx
-𘅰𗇝	ġhuuywar
-𘅰𗇝𗸅𗊛𘝞	ġhuuywartjhwimtshiiwywyrx
-𘅰𗏹	ġhuuyux
-𘅰𗐾	ġhuuswiim
-𘅰𗒯	ġhuukhi
-𘅰𗒯𗂧	ġhuukhilhehx
-𘅰𗓷	ġhuukhwam
-𘅰𗗧𗉣	ġhuuqaaaphi
-𘅰𗘼𘓷	ġhuungguqwyyr
-𘅰𗚿𘝞	ġhuuliwxywyrx
-𘅰𗠚𘌜	ġhuutheehxpaii
-𘅰𗤀𘝞	ġhuusjeywyrx
-𘅰𗩇𗤛	ġhuuvwiimtjom
-𘅰𗪨	ġhuumaeex
-𘅰𗼞	ġhuuqoomx
-𘅰𗾶𗨝	ġhuuhusjim
-𘅰𘃣𘕘	ġhuuvixtsyy
-𘅰𘃻𗔨	ġhuuyimtrayyx
-𘅰𘊇	ġhuusjom
-𘅰𘊇𗇏	ġhuusjomlex
-𘅰𘒏	ġhuuga
-𘅰𘓐	ġhuudzwox
-𘅰𘔺	ġhuukhix
-𘅰𘕘	ġhuutsyy
-𘅰𘜲𗙼	ġhuusjuyux
-𘅰𘟙	ġhuunex
-𘅰𘟙𗊡𘚥	ġhuunexhaalux
-𘅰𘟙𗐪	ġhuunexkhomx
-𘅰𘟙𗐾𗓷	ġhuunexswiimkhwam
-𘅰𘟙𗥑𗺉	ġhuunexhuutjhix
-𘅰𘟙𗥑𗽇	ġhuunexhuutrhaaa
-𘅰𘟙𘂦𘚥	ġhuunexhaamlux
+𘅰𗂧	gghuulhehx
+𘅰𗇝	gghuuywar
+𘅰𗇝𗸅𗊛𘝞	gghuuywartjhwimtshiiwywyrx
+𘅰𗏹	gghuuyux
+𘅰𗐾	gghuuswiim
+𘅰𗒯	gghuukhi
+𘅰𗒯𗂧	gghuukhilhehx
+𘅰𗓷	gghuukhwam
+𘅰𗗧𗉣	gghuuqaaaphi
+𘅰𗘼𘓷	gghuungguqwyyr
+𘅰𗚿𘝞	gghuuliwxywyrx
+𘅰𗠚𘌜	gghuutheehxpaii
+𘅰𗤀𘝞	gghuusjeywyrx
+𘅰𗩇𗤛	gghuuvwiimtjom
+𘅰𗪨	gghuumaeex
+𘅰𗼞	gghuuqoomx
+𘅰𗾶𗨝	gghuuhusjim
+𘅰𘃣𘕘	gghuuvixtsyy
+𘅰𘃻𗔨	gghuuyimtrayyx
+𘅰𘊇	gghuusjom
+𘅰𘊇𗇏	gghuusjomlex
+𘅰𘒏	gghuuga
+𘅰𘓐	gghuudzwox
+𘅰𘔺	gghuukhix
+𘅰𘕘	gghuutsyy
+𘅰𘜲𗙼	gghuusjuyux
+𘅰𘟙	gghuunex
+𘅰𘟙𗊡𘚥	gghuunexhaalux
+𘅰𘟙𗐪	gghuunexkhomx
+𘅰𘟙𗐾𗓷	gghuunexswiimkhwam
+𘅰𘟙𗥑𗺉	gghuunexhuutjhix
+𘅰𘟙𗥑𗽇	gghuunexhuutrhaaa
+𘅰𘟙𘂦𘚥	gghuunexhaamlux
 𘅲𘈜	tshixthwoo
 𘅳𗂧	tshilhehx
 𘅳𗟲	tshingngwuu
@@ -31306,7 +31306,7 @@ min_phrase_weight: 100
 𘅸𗨬	nlliruur
 𘅸𘖎	nlliveh
 𘅸𘙲	nllidjo
-𘅺𘌘	deemġhoom
+𘅺𘌘	deemgghoom
 𘅻𗫻	gghaaamndje
 𘅻𘂬	gghaaamwoo
 𘅻𘄵	gghaaamwoox
@@ -31320,9 +31320,9 @@ min_phrase_weight: 100
 𘆆𘞆	lebi
 𘆊𗈲𗛧𗧥	ghomqhwaalluhzirx
 𘆊𗶤	ghomlu
-𘆋𗄳	ġhwoomhmma
-𘆋𘆌	ġhwoomhtshemh
-𘆋𘜴	ġhwoomhmmax
+𘆋𗄳	gghwoomhmma
+𘆋𘆌	gghwoomhtshemh
+𘆋𘜴	gghwoomhmmax
 𘆍𗖠	qaahxngweex
 𘆎𘑐	rirxrerx
 𘆏𗆮	nllylhow
@@ -31333,8 +31333,8 @@ min_phrase_weight: 100
 𘆏𘑁	nllyrorx
 𘆏𘓯	nllykhom
 𘆏𘝞	nllyywyrx
-𘆒𗄾	ġhuusee
-𘆒𗯩	ġhuutwuuh
+𘆒𗄾	gghuusee
+𘆒𗯩	gghuutwuuh
 𘆔𘚋	baanooh
 𘆕𗁧	ngggaaxtiiw
 𘆕𘄄	ngggaaxzi
@@ -31365,22 +31365,22 @@ min_phrase_weight: 100
 𘆝𗣖	rersjuo
 𘆝𗣖𗡶𗹙	rersjuosjetser
 𘆝𗤨	rerdjux
-𘆝𗥦	rerġhuu
+𘆝𗥦	rergghuu
 𘆝𗭒	rerkhy
 𘆝𗸆	rerkhom
 𘆝𗽷	reryawrx
-𘆝𗿕	rerġhwuuhx
+𘆝𗿕	rergghwuuhx
 𘆝𗿦	rerma
 𘆝𘄽	rerngaahx
 𘆝𘆦	rerndzee
 𘆝𘆰	rerkwex
 𘆝𘆳	rermbaii
 𘆝𘇌	rerdzwi
-𘆝𘇍	rerġhwuuhx
+𘆝𘇍	rergghwuuhx
 𘆝𘓢	rerndzeex
 𘆝𘗶	rerrarx
 𘆝𘘄	rersjwi
-𘆝𘙄𗁲𘙲	rerġhwaeemxmeexdjo
+𘆝𘙄𗁲𘙲	rergghwaeemxmeexdjo
 𘆝𘚽	rerllwyh
 𘆝𘜯𗟻	reryihxphi
 𘆝𘞗	rerswy
@@ -31412,7 +31412,7 @@ min_phrase_weight: 100
 𘆭𘍞𗅂	llihxwoohrar
 𘆭𘒇	llihxtshix
 𘆮𗊢	tjihxnlly
-𘆮𗔩	tjihxġheehx
+𘆮𗔩	tjihxggheehx
 𘆮𗶗	tjihxtjohx
 𘆮𘆦	tjihxndzee
 𘆮𘊹	tjihxkaw
@@ -31446,11 +31446,11 @@ min_phrase_weight: 100
 𘆶𘃠	suxnduu
 𘆶𘆢	suxtah
 𘆶𘆤	suxsjuo
-𘆶𘇍	suxġhwuuhx
+𘆶𘇍	suxgghwuuhx
 𘆶𘋟	suxriiwrx
 𘆶𘌎	suxsjix
 𘆶𘓉	suxlhiiw
-𘆶𘔮	suxġhwaarx
+𘆶𘔮	suxgghwaarx
 𘆶𘔲	suxmme
 𘆸𗡩	phiihwii
 𘆸𘆠	phiikhe
@@ -31501,8 +31501,8 @@ min_phrase_weight: 100
 𘇂𘒁	gguuxduh
 𘇂𘒌	gguuxboomhx
 𘇂𘒏	gguuxga
-𘇂𘗠	gguuxġhaa
-𘇃𘇉	ġhwuuhxllihx
+𘇂𘗠	gguuxgghaa
+𘇃𘇉	gghwuuhxllihx
 𘇄𗄪	lwunuu
 𘇄𗷐	lwuhwii
 𘇄𘄩	lwutsuh
@@ -31514,8 +31514,8 @@ min_phrase_weight: 100
 𘇉𘆿	llihxsraeeh
 𘇊𗎄	llaeehvwyyrx
 𘇋𘉰	sraeehxgahx
-𘇍𘆭	ġhwuuhxllihx
-𘇍𘖷	ġhwuuhxmah
+𘇍𘆭	gghwuuhxllihx
+𘇍𘖷	gghwuuhxmah
 𘇐𗼈	sjomnah
 𘇒𗲹	vwaiirnlhu
 𘇒𘇓	vwaiirvwaoor
@@ -31538,10 +31538,10 @@ min_phrase_weight: 100
 𘇚𗵆	mmixsjem
 𘇚𗵐	mmixneex
 𘇚𗺡	mmixndraaax
-𘇚𗼜	mmixġhaiix
+𘇚𗼜	mmixgghaiix
 𘇚𘃡	mmixvi
-𘇚𘑨	mmixġhwuuhx
-𘇚𘑨𗰀𗪼	mmixġhwuuhxnthwuutemhx
+𘇚𘑨	mmixgghwuuhx
+𘇚𘑨𗰀𗪼	mmixgghwuuhxnthwuutemhx
 𘇚𘒮	mmixnziiwx
 𘇚𘗲	mmixnoox
 𘇚𘛒	mmixngiiwr
@@ -31584,12 +31584,12 @@ min_phrase_weight: 100
 𘇹𗁀𘂆	srayyqootsy
 𘇹𗌥	srayypah
 𘇹𘐄𗍅	srayylhwakyr
-𘇹𘖧	srayyġhaa
+𘇹𘖧	srayygghaa
 𘇻𗒌	munlly
 𘇻𗣫	mutseem
 𘇻𗧎	muqaeeh
 𘇻𗿒	muqhweex
-𘇻𘈆	muġhoor
+𘇻𘈆	mugghoor
 𘇼𗼪	gexdihx
 𘇽𗇈	nnooxqhwaax
 𘇽𗓈	nnooxlhwuu
@@ -31611,7 +31611,7 @@ min_phrase_weight: 100
 𘈇𘒺	raarnaarx
 𘈈𗫩	mmidjyr
 𘈈𘓯	mmikhom
-𘈈𘔮	mmiġhwaarx
+𘈈𘔮	mmigghwaarx
 𘈈𘟩	mmitemhx
 𘈊𘈌	nvinvo
 𘈋𗗩	phexpha
@@ -31627,7 +31627,7 @@ min_phrase_weight: 100
 𘈑𗤳	myrmyyx
 𘈑𗥷	myrnllaa
 𘈑𗥷𗎭	myrnllaammi
-𘈑𗪺	myrġhaii
+𘈑𗪺	myrgghaii
 𘈑𗫔	myryi
 𘈑𗸆	myrkhom
 𘈑𘆝	myrrer
@@ -31667,7 +31667,7 @@ min_phrase_weight: 100
 𘈚𗇸	gyxzyh
 𘈚𗊖	gyxwoox
 𘈚𗒾	gyxmiix
-𘈚𗔼	gyxġhwee
+𘈚𗔼	gyxgghwee
 𘈚𗫈	gyxse
 𘈚𗭼𗲈	gyxswiiwghiwx
 𘈚𗿳	gyxdzem
@@ -31707,7 +31707,7 @@ min_phrase_weight: 100
 𘈩𗎫	liiwtserx
 𘈩𗏇	liiwdix
 𘈩𗑝	liiwtsiiwr
-𘈩𗔼	liiwġhwee
+𘈩𗔼	liiwgghwee
 𘈩𗕑	liiwkhyx
 𘈩𗚠	liiwqhuux
 𘈩𗚻	liiwsjemx
@@ -31753,7 +31753,7 @@ min_phrase_weight: 100
 𘈩𘓷	liiwqwyyr
 𘈩𘔭	liiwdzem
 𘈩𘖙	liiwnoox
-𘈩𘗠	liiwġhaa
+𘈩𘗠	liiwgghaa
 𘈩𘘔	liiwdjaw
 𘈩𘘘	liiwsaa
 𘈩𘛇	liiwgux
@@ -31763,7 +31763,7 @@ min_phrase_weight: 100
 𘈪𗔦	tamerx
 𘈪𘈷	tagix
 𘈫𗁀	wuuxqoo
-𘈫𗐹𗍁	wuuxġhaamvwiix
+𘈫𗐹𗍁	wuuxgghaamvwiix
 𘈫𗒯	wuuxkhi
 𘈫𗒯𘊇𘏸	wuuxkhisjomsrayy
 𘈫𗕸	wuuxtjhom
@@ -31830,7 +31830,7 @@ min_phrase_weight: 100
 𘈼𗂥	maaxnex
 𘈼𗪘	maaxsji
 𘈼𘈚	maaxgyx
-𘈽𗪺	swemġhaii
+𘈽𗪺	swemgghaii
 𘈽𗱱	swemtshax
 𘈽𘃡	swemvi
 𘈾𗂥	dunex
@@ -31848,7 +31848,7 @@ min_phrase_weight: 100
 𘉀𗴿	tserkuh
 𘉀𗶠	tserndzuux
 𘉀𗹭	tserbex
-𘉀𗹭𘔮𘜘	tserbexġhwaarxrir
+𘉀𗹭𘔮𘜘	tserbexgghwaarxrir
 𘉀𗼕	tserlo
 𘉀𗼕𗎭	tserlommi
 𘉀𗿒	tserqhweex
@@ -31869,7 +31869,7 @@ min_phrase_weight: 100
 𘉁𘏇𘝞	mmiriirxywyrx
 𘉂𗐴	dzemnu
 𘉂𗼸	dzemllwihx
-𘉂𗽂	dzemġhiiw
+𘉂𗽂	dzemgghiiw
 𘉃𘉄	dzyyhllwux
 𘉅𗈶	dzaasy
 𘉅𗋅	dzaalwuu
@@ -31883,7 +31883,7 @@ min_phrase_weight: 100
 𘉅𗡱	dzaase
 𘉅𗡸	dzaasix
 𘉅𗤻𗬻	dzaavahkor
-𘉅𗦁	dzaaġhaiihx
+𘉅𗦁	dzaagghaiihx
 𘉅𗩨	dzaatsyyh
 𘉅𗫻	dzaandje
 𘉅𗬻	dzaakor
@@ -31896,7 +31896,7 @@ min_phrase_weight: 100
 𘉅𘐆	dzaalaa
 𘉅𘒣	dzaadaahx
 𘉅𘓐	dzaadzwox
-𘉅𘔮	dzaaġhwaarx
+𘉅𘔮	dzaagghwaarx
 𘉅𘕋	dzaadjihx
 𘉅𘛒	dzaangiiwr
 𘉅𘝚	dzaakwyr
@@ -31941,7 +31941,7 @@ min_phrase_weight: 100
 𘉋𗤒	yarkiw
 𘉋𗬥	yarde
 𘉋𗯨	yarrur
-𘉋𗰗	yarġhaahx
+𘉋𗰗	yargghaahx
 𘉋𗰚	yarnlly
 𘉋𗳽	yarloomx
 𘉋𗸆	yarkhom
@@ -31954,7 +31954,7 @@ min_phrase_weight: 100
 𘉋𘍦	yarye
 𘉋𘎮	yarpih
 𘉋𘑗	yarngyyr
-𘉋𘗠	yarġhaa
+𘉋𘗠	yargghaa
 𘉋𘘔	yardjaw
 𘉋𘘘	yarsaa
 𘉋𘜍	yaryawrx
@@ -32001,7 +32001,7 @@ min_phrase_weight: 100
 𘉐𘝦	yuodjy
 𘉑𗂙	myphaa
 𘉑𗂧	mylhehx
-𘉑𗉂	myġhaiih
+𘉑𗉂	mygghaiih
 𘉑𗜍	mysa
 𘉑𗟫	mynirx
 𘉑𗟲	myngngwuu
@@ -32039,8 +32039,8 @@ min_phrase_weight: 100
 𘉡𗆬	puhvwiir
 𘉡𗟬	puhllwehx
 𘉡𗣼	puhtjhax
-𘉡𗪺	puhġhaii
-𘉡𗴐	puhġhaar
+𘉡𗪺	puhgghaii
+𘉡𗴐	puhgghaar
 𘉡𗹭	puhbex
 𘉡𘎉	puhnlloo
 𘉡𘔳	puhlwiiw
@@ -32054,7 +32054,7 @@ min_phrase_weight: 100
 𘉮𗀩	phendex
 𘉯𗮚	tsiirbih
 𘉰𗤋	gahxme
-𘉰𗦁	gahxġhaiihx
+𘉰𗦁	gahxgghaiihx
 𘉰𘂬	gahxwoo
 𘉰𘃲	gahxveh
 𘉲𗂟	giwxvar
@@ -32067,7 +32067,7 @@ min_phrase_weight: 100
 𘉺𗉌	tsyrpux
 𘉼𗅅	nthooxyiwx
 𘉼𗈶	nthooxsy
-𘉼𗦁	nthooxġhaiihx
+𘉼𗦁	nthooxgghaiihx
 𘉼𗵫	nthooxgeh
 𘉼𘃡	nthooxvi
 𘉽𗮴	dziimma
@@ -32089,12 +32089,12 @@ min_phrase_weight: 100
 𘊄𗤨	nromxdjux
 𘊄𗤶	nromxnne
 𘊄𗥥	nromxrir
-𘊄𗦁	nromxġhaiihx
+𘊄𗦁	nromxgghaiihx
 𘊄𗦻	nromxmmex
 𘊄𗯩	nromxtwuuh
 𘊄𗱚𗩴𗜓	nromxndzuxnniiwxsjax
 𘊄𗳜𗩴𗹢	nromxnlhinniiwxdohx
-𘊄𗴐	nromxġhaar
+𘊄𗴐	nromxgghaar
 𘊄𗴮	nromxdeh
 𘊄𗵘	nromxtja
 𘊄𘀼	nromxniih
@@ -32135,7 +32135,7 @@ min_phrase_weight: 100
 𘊇𘏸	sjomsrayy
 𘊇𘛫	sjomliw
 𘊉𗹪	kehnllex
-𘊉𘙄	kehġhwaeemx
+𘊉𘙄	kehgghwaeemx
 𘊋𗖣	pozraiir
 𘊋𗥉	pondeex
 𘊋𘁵	potsex
@@ -32199,7 +32199,7 @@ min_phrase_weight: 100
 𘊝𗍬	yirxlux
 𘊝𗍬𗵒	yirxluxqaiih
 𘊝𗏁𗖵	yirxngwyybu
-𘊝𗔼𘊝𗠁	yirxġhweeyirxmbuux
+𘊝𗔼𘊝𗠁	yirxgghweeyirxmbuux
 𘊝𗕑	yirxkhyx
 𘊝𗞖	yirxfim
 𘊝𗟔	yirxqoo
@@ -32223,7 +32223,7 @@ min_phrase_weight: 100
 𘊝𘒝	yirxtrhaiiw
 𘊝𘓐	yirxdzwox
 𘊝𘕉	yirxvih
-𘊝𘗠	yirxġhaa
+𘊝𘗠	yirxgghaa
 𘊝𘘘	yirxsaa
 𘊝𘛅	yirxdzyhx
 𘊝𘜍	yirxyawrx
@@ -32241,7 +32241,7 @@ min_phrase_weight: 100
 𘊟𗾆𗇒	ngwooxdjiwsja
 𘊟𘂲	ngwooxnsu
 𘊟𘈟	ngwooxlyy
-𘊟𘟫	ngwooxġhaah
+𘊟𘟫	ngwooxgghaah
 𘊠𗥑𗏆	zehxhuuhwaaam
 𘊠𗬰	zehxdjix
 𘊡𗀅	luuxzaarx
@@ -32249,7 +32249,7 @@ min_phrase_weight: 100
 𘊡𗿳	luuxdzem
 𘊡𘚢	luuxdraeex
 𘊣𗃎	sooxyer
-𘊣𗪺	sooxġhaii
+𘊣𗪺	sooxgghaii
 𘊣𘔳	sooxlwiiw
 𘊣𘙞	sooxzjyrx
 𘊨𗗲	thiiwxqhaiihx
@@ -32268,8 +32268,8 @@ min_phrase_weight: 100
 𘊲𘏷	mphaaaxndi
 𘊲𘓳	mphaaaxngoomrx
 𘊳𗍊	boosux
-𘊳𗔼	booġhwee
-𘊳𗥦𘏿	booġhuuqaah
+𘊳𗔼	boogghwee
+𘊳𗥦𘏿	boogghuuqaah
 𘊳𗭡	bootswyr
 𘊳𘂳	boozjah
 𘊳𘇂	boogguux
@@ -32365,10 +32365,10 @@ min_phrase_weight: 100
 𘋏𗽷	neexyawrx
 𘋏𗿳	neexdzem
 𘋏𘛦	neexse
-𘋐𘛺	ġhaabex
+𘋐𘛺	gghaabex
 𘋑𗋐	qwaaatjhu
 𘋑𘆨	qwaaatix
-𘋔𗪠	lleehxġhuu
+𘋔𗪠	lleehxgghuu
 𘋖𘌸	khetoomh
 𘋘𘄎	qaooxgi
 𘋛𗑩	bemnggix
@@ -32389,7 +32389,7 @@ min_phrase_weight: 100
 𘋠𘋠	myyxmyyx
 𘋠𘌎	myyxsjix
 𘋠𘏨	myyxllyh
-𘋠𘔮	myyxġhwaarx
+𘋠𘔮	myyxgghwaarx
 𘋠𘕾	myyxnerx
 𘋠𘛇	myyxgux
 𘋠𘝞	myyxywyrx
@@ -32499,8 +32499,8 @@ min_phrase_weight: 100
 𘋼𘜘	kurxrir
 𘋼𘝞	kurxywyrx
 𘋼𘝦	kurxdjy
-𘋿𘋽	nexġhaa
-𘌁𘌀	ġhoomrġhaeerx
+𘋿𘋽	nexgghaa
+𘌁𘌀	gghoomrgghaeerx
 𘌂𗗗	nyunye
 𘌃𗼮	riirxdzuhx
 𘌃𘙮	riirxliiwx
@@ -32551,13 +32551,13 @@ min_phrase_weight: 100
 𘌎𘇚	sjixmmix
 𘌎𘇲	sjixvwii
 𘌎𘌃	sjixriirx
-𘌎𘌄	sjixġhoom
+𘌎𘌄	sjixgghoom
 𘌎𘌌	sjixsjemx
 𘌎𘌛	sjixlwi
 𘌎𘏨	sjixllyh
 𘌎𘐠	sjixngwoox
-𘌎𘔮	sjixġhwaarx
-𘌐𗉁	qhaiixġhaiih
+𘌎𘔮	sjixgghwaarx
+𘌐𗉁	qhaiixgghaiih
 𘌐𗔄	qhaiixbaaax
 𘌐𗔄𗕄	qhaiixbaaaxrirx
 𘌐𗰷𗕄	qhaiixzwyyrrirx
@@ -32577,7 +32577,7 @@ min_phrase_weight: 100
 𘌕𗌩	djuoxpemhx
 𘌕𗗥	djuoxzjihx
 𘌕𘆩	djuoxmiihx
-𘌖𘌄	zjwyrġhoom
+𘌖𘌄	zjwyrgghoom
 𘌖𘌐	zjwyrqhaiix
 𘌖𘌑	zjwyrsoox
 𘌙𗣫	dwuuxtseem
@@ -32655,7 +32655,7 @@ min_phrase_weight: 100
 𘌴𘃻	hwaeemyim
 𘌴𘋨	hwaeemdzwy
 𘌴𘟙	hwaeemnex
-𘌵𗉼	nsjixġhaa
+𘌵𗉼	nsjixgghaa
 𘌹𘎦	lhyhvwyyr
 𘌼𗣽	lyxlix
 𘌽𗂧	thyxlhehx
@@ -32677,7 +32677,7 @@ min_phrase_weight: 100
 𘌽𘏰	thyxvyx
 𘌽𘒣	thyxdaahx
 𘌽𘓐	thyxdzwox
-𘌽𘔮	thyxġhwaarx
+𘌽𘔮	thyxgghwaarx
 𘌽𘗽	thyxzohx
 𘌽𘝞	thyxywyrx
 𘌾𗫀	baaarnor
@@ -32732,7 +32732,7 @@ min_phrase_weight: 100
 𘍔𘊆	tjihbox
 𘍔𘍔	tjihtjih
 𘍔𘍘	tjihbeem
-𘍔𘓠	tjihġhaa
+𘍔𘓠	tjihgghaa
 𘍔𘛮	tjihkhex
 𘍗𘍙	guxguhx
 𘍚𗹊	mpuungku
@@ -32785,18 +32785,18 @@ min_phrase_weight: 100
 𘍾𘜍	gixyawrx
 𘍿𘀾	nrartshoom
 𘍿𘁯	nrardzih
-𘍿𘍶	nrarġhwyyr
+𘍿𘍶	nrargghwyyr
 𘎀𘎀	srayyxsrayyx
 𘎃𗒸	vwiillyy
-𘎃𗦗𗿕𗡻	vwiisooxġhwuuhxly
+𘎃𗦗𗿕𗡻	vwiisooxgghwuuhxly
 𘎃𗭌𗘮	vwiidoomxnyyr
 𘎃𗭌𘔟	vwiidoomxdjyhx
 𘎃𗭻	vwiinllex
 𘎃𗰞	vwiinaw
-𘎃𗾖𗿕𗡻	vwiigorġhwuuhxly
+𘎃𗾖𗿕𗡻	vwiigorgghwuuhxly
 𘎃𗾢	vwiisoox
 𘎃𗾢𗘩	vwiisooxnyyrx
-𘎃𘍶	vwiiġhwyyr
+𘎃𘍶	vwiigghwyyr
 𘎃𘍿	vwiinrar
 𘎃𘔚	vwiine
 𘎃𘗞	vwiivorx
@@ -32826,14 +32826,14 @@ min_phrase_weight: 100
 𘎆𘅞	djwynerx
 𘎆𘐠	djwyngwoox
 𘎆𘐩	djwyphy
-𘎆𘑨	djwyġhwuuhx
+𘎆𘑨	djwygghwuuhx
 𘎆𘓟	djwydraeex
 𘎆𘕤	djwyyux
 𘎆𘜄	djwyngwiir
 𘎆𘟀	djwylex
 𘎆𘟠	djwydzuu
 𘎇𗡼	poomberx
-𘎈𗒘	djyġhaee
+𘎈𗒘	djygghaee
 𘎈𗱠	djydje
 𘎋𗗠	djynlhaaa
 𘎍𗶻	tjhwiwxsjwyhx
@@ -32863,7 +32863,7 @@ min_phrase_weight: 100
 𘎟𘐠	nsraaaxngwoox
 𘎢𗂹	taalhyh
 𘎢𘎫	taaki
-𘎣𗅌	khwyġhoorx
+𘎣𗅌	khwygghoorx
 𘎣𗊖	khwywoox
 𘎣𗊹	khwylow
 𘎣𘌍	khwyngaa
@@ -32875,7 +32875,7 @@ min_phrase_weight: 100
 𘎤𘈚	tygyx
 𘎧𗂧𘘚	vwaalhehxndzex
 𘎧𘓉	vwaalhiiw
-𘎧𘓉𘑫𗖅𘏐	vwaalhiiwqaamswixġhwaii
+𘎧𘓉𘑫𗖅𘏐	vwaalhiiwqaamswixgghwaii
 𘎩𗭭	sweedyh
 𘎪𗡶	ntshesje
 𘎪𗣓	ntsheggaii
@@ -32935,7 +32935,7 @@ min_phrase_weight: 100
 𘎵𘍞	zehxwooh
 𘎵𘔭	zehxdzem
 𘎵𘖗	zehxdjy
-𘎵𘗠	zehxġhaa
+𘎵𘗠	zehxgghaa
 𘎶𗭜	qwyyxndraaax
 𘎷𗉝	nwyhxsjihx
 𘎸𗃅	tahvwiir
@@ -32965,7 +32965,7 @@ min_phrase_weight: 100
 𘏉𗄩	tjhowbiih
 𘏉𗉺	tjhowsraaa
 𘏉𗉺𘄱𘟙	tjhowsraaathemnex
-𘏉𗑙	tjhowġhaam
+𘏉𗑙	tjhowgghaam
 𘏉𗚂	tjhowsox
 𘏉𘌭	tjhowtjow
 𘏉𘑖	tjhowllah
@@ -32980,24 +32980,24 @@ min_phrase_weight: 100
 𘏋𗾞	syynnyx
 𘏋𘊤	syythu
 𘏋𘎎	syyswuux
-𘏋𘏟	syyġhaa
+𘏋𘏟	syygghaa
 𘏋𘏦	syytemh
 𘏋𘗸	syyvwii
 𘏋𘜖	syynduux
 𘏋𘞋	syytsemh
 𘏌𗁸	qaahsiix
-𘏏𗓋	tyġhaee
-𘏐𗎭	ġhwaiimmi
-𘏐𗢛𗎭	ġhwaiiyummi
-𘏐𗤨	ġhwaiidjux
-𘏐𗦗𗎭	ġhwaiisooxmmi
-𘏐𗪺	ġhwaiiġhaii
-𘏐𗷼	ġhwaiini
-𘏐𗿢	ġhwaiizuurx
-𘏐𘄄	ġhwaiizi
-𘏐𘉀	ġhwaiitser
-𘏐𘎉	ġhwaiinlloo
-𘏐𘓐	ġhwaiidzwox
+𘏏𗓋	tygghaee
+𘏐𗎭	gghwaiimmi
+𘏐𗢛𗎭	gghwaiiyummi
+𘏐𗤨	gghwaiidjux
+𘏐𗦗𗎭	gghwaiisooxmmi
+𘏐𗪺	gghwaiigghaii
+𘏐𗷼	gghwaiini
+𘏐𗿢	gghwaiizuurx
+𘏐𘄄	gghwaiizi
+𘏐𘉀	gghwaiitser
+𘏐𘎉	gghwaiinlloo
+𘏐𘓐	gghwaiidzwox
 𘏑𘞸	phuupem
 𘏒𗇘	phaiixlhiiwx
 𘏒𗋒	phaiixkeh
@@ -33050,7 +33050,7 @@ min_phrase_weight: 100
 𘏧𗐐	yawxhom
 𘏧𘎬	yawxkwihx
 𘏧𘞐	yawxnsju
-𘏨𗂄	llyhġhwaa
+𘏨𗂄	llyhgghwaa
 𘏨𗆖	llyhrar
 𘏨𗊏	llyhnihx
 𘏨𗊰	llyhlux
@@ -33062,7 +33062,7 @@ min_phrase_weight: 100
 𘏨𘄽	llyhngaahx
 𘏨𘑗	llyhngyyr
 𘏨𘔭	llyhdzem
-𘏨𘔮	llyhġhwaarx
+𘏨𘔮	llyhgghwaarx
 𘏨𘗂	llyhtshoomx
 𘏨𘗣	llyhduux
 𘏨𘛃	llyhluux
@@ -33072,7 +33072,7 @@ min_phrase_weight: 100
 𘏨𘛧𗎭	llyhlemxmmi
 𘏨𘛧𗦖𗎭	llyhlemxmerxmmi
 𘏨𘜶	llyhllehx
-𘏨𘟫	llyhġhaah
+𘏨𘟫	llyhgghaah
 𘏩𗺂	femhxvweex
 𘏪𘞨	deehxzjehx
 𘏫𗝿	haaaxtjhe
@@ -33097,13 +33097,13 @@ min_phrase_weight: 100
 𘏲𘓐𗅂	tserdzwoxrar
 𘏲𘖗	tserdjy
 𘏳𘞫	sjagiwrx
-𘏴𗂷	ġhoorxtwiih
-𘏴𗜧	ġhoorxmee
+𘏴𗂷	gghoorxtwiih
+𘏴𗜧	gghoorxmee
 𘏵𗡶	-axsje
 𘏵𘎱	-axtjex
 𘏶𗤬	twiiwnnix
 𘏶𘎖	twiiwdziwx
-𘏶𘏴	twiiwġhoorx
+𘏶𘏴	twiiwgghoorx
 𘏶𘏶	twiiwtwiiw
 𘏷𗝿	nditjhe
 𘏷𗟨	ndilhwi
@@ -33204,13 +33204,13 @@ min_phrase_weight: 100
 𘐚𘄂	nsjwynggi
 𘐚𘟇	nsjwyloo
 𘐛𗆰	llyhlla
-𘐛𗔩	llyhġheehx
+𘐛𗔩	llyhggheehx
 𘐠𗈙	ngwooxntju
 𘐠𗈶	ngwooxsy
 𘐠𗊢	ngwooxnlly
 𘐠𗜍	ngwooxsa
 𘐠𗡶	ngwooxsje
-𘐠𗦁	ngwooxġhaiihx
+𘐠𗦁	ngwooxgghaiihx
 𘐠𗷷	ngwooxlhihx
 𘐠𗹪	ngwooxnllex
 𘐡𗡪	ntjytsiiwx
@@ -33294,7 +33294,7 @@ min_phrase_weight: 100
 𘑗𗘡	ngyyrtjhem
 𘑗𗡮𗤻	ngyyrsjwoxvah
 𘑗𗣓	ngyyrggaii
-𘑗𗥦	ngyyrġhuu
+𘑗𗥦	ngyyrgghuu
 𘑗𗦻	ngyyrmmex
 𘑗𗰞	ngyyrnaw
 𘑗𗲌	ngyyrma
@@ -33343,16 +33343,16 @@ min_phrase_weight: 100
 𘑢𗱂	khwysi
 𘑣𗎣	sexpaoom
 𘑥𘘋	tjhumex
-𘑨𗀓	ġhwuuhxsjex
-𘑨𗡼	ġhwuuhxberx
-𘑨𗮅	ġhwuuhxreerx
-𘑨𘎆	ġhwuuhxdjwy
-𘑨𘒑	ġhwuuhxdjwex
-𘑨𘓠	ġhwuuhxġhaa
+𘑨𗀓	gghwuuhxsjex
+𘑨𗡼	gghwuuhxberx
+𘑨𗮅	gghwuuhxreerx
+𘑨𘎆	gghwuuhxdjwy
+𘑨𘒑	gghwuuhxdjwex
+𘑨𘓠	gghwuuhxgghaa
 𘑪𗬵	qhwyydjwom
-𘑪𗺟𗾟𘑗	qhwyyġhoorxvwaahxngyyr
+𘑪𗺟𗾟𘑗	qhwyygghoorxvwaahxngyyr
 𘑪𘏿	qhwyyqaah
-𘑪𘟫	qhwyyġhaah
+𘑪𘟫	qhwyygghaah
 𘑫𗁀	qaamqoo
 𘑫𗉔	qaamtjiw
 𘑫𗉔𗍁𗅂	qaamtjiwvwiixrar
@@ -33377,7 +33377,7 @@ min_phrase_weight: 100
 𘑲𗃛	tjomlom
 𘑲𗄽	tjomsraaam
 𘑲𗅘	tjomqhaam
-𘑲𗑙𗫍	tjomġhaamsji
+𘑲𗑙𗫍	tjomgghaamsji
 𘑲𗒃	tjomlawx
 𘑲𗒑𗷌	tjomyyxtii
 𘑲𗔨	tjomtrayyx
@@ -33408,7 +33408,7 @@ min_phrase_weight: 100
 𘑲𘕘	tjomtsyy
 𘑲𘞽	tjomzyh
 𘑳𘌶	lhoomrxtshiix
-𘑵𘝐	nthyġhaee
+𘑵𘝐	nthygghaee
 𘑶𗏣	tsererx
 𘑶𗐱	tsenix
 𘑶𘒏	tsega
@@ -33490,15 +33490,15 @@ min_phrase_weight: 100
 𘒏𗣈	galhow
 𘒏𗤱	garemx
 𘒏𗤶	ganne
-𘒏𗥦	gaġhuu
-𘒏𗥦𗖅	gaġhuuswix
+𘒏𗥦	gagghuu
+𘒏𗥦𗖅	gagghuuswix
 𘒏𗦳	gadzux
 𘒏𗦳𗅂	gadzuxrar
 𘒏𗧘𗋂	gavwooxsjwow
 𘒏𗩈	gambux
 𘒏𗩈𗅂	gambuxrar
 𘒏𗩈𗛝𘊳𗺉	gambuxreerxbootjhix
-𘒏𗪺	gaġhaii
+𘒏𗪺	gagghaii
 𘒏𗫔	gayi
 𘒏𗫻	gandje
 𘒏𗬀	galwuux
@@ -33528,7 +33528,7 @@ min_phrase_weight: 100
 𘒏𘊹	gakaw
 𘒏𘋟	gariiwrx
 𘒏𘏷	gandi
-𘒏𘑨	gaġhwuuhx
+𘒏𘑨	gagghwuuhx
 𘒏𘒑	gadjwex
 𘒏𘒘	gapaaam
 𘒏𘒚	gabee
@@ -33538,7 +33538,7 @@ min_phrase_weight: 100
 𘒏𘓐	gadzwox
 𘒏𘓷	gaqwyyr
 𘒏𘗜	gagomx
-𘒏𘗠	gaġhaa
+𘒏𘗠	gagghaa
 𘒏𘘑	gavwiir
 𘒏𘙶	gariirx
 𘒏𘛢	gamer
@@ -33547,10 +33547,10 @@ min_phrase_weight: 100
 𘒏𘞂	gandzyx
 𘒐𗥖	nllootwy
 𘒐𘝚	nllookwyr
-𘒑𗔩	djwexġheehx
+𘒑𗔩	djwexggheehx
 𘒑𗺑	djwexmba
 𘒑𘏊	djwexkur
-𘒑𘔮	djwexġhwaarx
+𘒑𘔮	djwexgghwaarx
 𘒓𗁜	paarvor
 𘒓𗊴	paarse
 𘒔𗭜	tweendraaax
@@ -33588,7 +33588,7 @@ min_phrase_weight: 100
 𘒣𗌮	daahxmor
 𘒣𗌮𗅋𘎪	daahxmormintshe
 𘒣𗑝	daahxtsiiwr
-𘒣𗒘	daahxġhaee
+𘒣𗒘	daahxgghaee
 𘒣𗓁	daahxmi
 𘒣𗓅	daahxngqaaax
 𘒣𗓰	daahxnaa
@@ -33599,7 +33599,7 @@ min_phrase_weight: 100
 𘒣𗟲	daahxngngwuu
 𘒣𗠉	daahxmyyr
 𘒣𗡼	daahxberx
-𘒣𗥦	daahxġhuu
+𘒣𗥦	daahxgghuu
 𘒣𗧘	daahxvwoox
 𘒣𗫡𘓐	daahxnyxdzwox
 𘒣𗮋	daahxqaiiwx
@@ -33744,7 +33744,7 @@ min_phrase_weight: 100
 𘓊𘊄	zyrnromx
 𘓊𘓊	zyrzyr
 𘓊𘓐	zyrdzwox
-𘓊𘔮	zyrġhwaarx
+𘓊𘔮	zyrgghwaarx
 𘓊𘕂	zyrdje
 𘓊𘜶	zyrllehx
 𘓊𘝦	zyrdjy
@@ -33784,7 +33784,7 @@ min_phrase_weight: 100
 𘓐𗤶	dzwoxnne
 𘓐𗤷	dzwoxqaah
 𘓐𗥉	dzwoxndeex
-𘓐𗥦	dzwoxġhuu
+𘓐𗥦	dzwoxgghuu
 𘓐𗦣	dzwoxnwi
 𘓐𗦳	dzwoxdzux
 𘓐𗦻	dzwoxmmex
@@ -33812,7 +33812,7 @@ min_phrase_weight: 100
 𘓐𗼈	dzwoxnah
 𘓐𗼍	dzwoxnsaa
 𘓐𗿒	dzwoxqhweex
-𘓐𗿕	dzwoxġhwuuhx
+𘓐𗿕	dzwoxgghwuuhx
 𘓐𗿦	dzwoxma
 𘓐𘂀	dzwoxsex
 𘓐𘄽	dzwoxngaahx
@@ -33837,7 +33837,7 @@ min_phrase_weight: 100
 𘓐𘔲	dzwoxmme
 𘓐𘖗	dzwoxdjy
 𘓐𘗒	dzwoxbux
-𘓐𘗠	dzwoxġhaa
+𘓐𘗠	dzwoxgghaa
 𘓐𘗬	dzwoxdju
 𘓐𘗽	dzwoxzohx
 𘓐𘘃	dzwoxnggi
@@ -33852,7 +33852,7 @@ min_phrase_weight: 100
 𘓐𘟀	dzwoxlex
 𘓐𘟠	dzwoxdzuu
 𘓐𘟤	dzwoxswuhx
-𘓑𗆆	ġhwaaamqwaeem
+𘓑𗆆	gghwaaamqwaeem
 𘓒𗃬	tjyrxlliix
 𘓒𗥓	tjyrxngoox
 𘓒𗧗	tjyrxtjhwem
@@ -33946,15 +33946,15 @@ min_phrase_weight: 100
 𘓟𘟀	draeexlex
 𘓟𘟣	draeexdu
 𘓟𘟩	draeextemhx
-𘓠𗀩	ġhaandex
-𘓠𗊽	ġhaabyh
-𘓠𗙏	ġhaaġhaiihx
-𘓠𗤶	ġhaanne
-𘓠𗥒	ġhaangoox
-𘓠𗨮	ġhaakahx
-𘓠𗪆	ġhaanswy
-𘓠𘓔	ġhaamyhx
-𘓠𘝮	ġhaallwuuh
+𘓠𗀩	gghaandex
+𘓠𗊽	gghaabyh
+𘓠𗙏	gghaagghaiihx
+𘓠𗤶	gghaanne
+𘓠𗥒	gghaangoox
+𘓠𗨮	gghaakahx
+𘓠𗪆	gghaanswy
+𘓠𘓔	gghaamyhx
+𘓠𘝮	gghaallwuuh
 𘓢𗍰	ndzeexpohx
 𘓢𗕞	ndzeexndzoox
 𘓣𗉃𘍑	mbaaaxtemlem
@@ -34053,7 +34053,7 @@ min_phrase_weight: 100
 𘓹𗱽	vwaahxdzy
 𘓹𗱽𗅂	vwaahxdzyrar
 𘓹𘃡	vwaahxvi
-𘓹𘗠	vwaahxġhaa
+𘓹𘗠	vwaahxgghaa
 𘓺𗂲	ngwyyrdzemx
 𘓺𗂸	ngwyyrbix
 𘓺𗅢	ngwyyrnsiiwx
@@ -34071,7 +34071,7 @@ min_phrase_weight: 100
 𘓺𗜍	ngwyyrsa
 𘓺𗞁	ngwyyrdzihx
 𘓺𗡪	ngwyyrtsiiwx
-𘓺𗢯𘚐𗵫𗪺𗦾	ngwyyrlhwasoomgehġhaiinyu
+𘓺𗢯𘚐𗵫𗪺𗦾	ngwyyrlhwasoomgehgghaiinyu
 𘓺𗣼	ngwyyrtjhax
 𘓺𗤒	ngwyyrkiw
 𘓺𗤶	ngwyyrnne
@@ -34115,7 +34115,7 @@ min_phrase_weight: 100
 𘓺𘐠	ngwyyrngwoox
 𘓺𘔧	ngwyyrguh
 𘓺𘕴	ngwyyrdzemx
-𘓺𘗠	ngwyyrġhaa
+𘓺𘗠	ngwyyrgghaa
 𘓺𘗽	ngwyyrzohx
 𘓺𘘖	ngwyyrllihx
 𘓺𘚪	ngwyyrdzihx
@@ -34154,7 +34154,7 @@ min_phrase_weight: 100
 𘔁𘋇	bifi
 𘔂𗇍	djyhlhiiwx
 𘔂𗇘	djyhlhiiwx
-𘔂𗔼	djyhġhwee
+𘔂𗔼	djyhgghwee
 𘔂𗢵	djyhvwoor
 𘔂𗥞	djyhnggux
 𘔂𗳆	djyhlho
@@ -34309,47 +34309,47 @@ min_phrase_weight: 100
 𘔭𘋟	dzemriiwrx
 𘔭𘌉	dzemqwoo
 𘔭𘌎	dzemsjix
-𘔭𘔮	dzemġhwaarx
-𘔭𘔮𗎭	dzemġhwaarxmmi
+𘔭𘔮	dzemgghwaarx
+𘔭𘔮𗎭	dzemgghwaarxmmi
 𘔭𘜔	dzemngiiwrx
 𘔭𘜘	dzemrir
-𘔮𗅴	ġhwaarxlleehx
-𘔮𗆄	ġhwaarxpuh
-𘔮𗊢	ġhwaarxnlly
-𘔮𗌮	ġhwaarxmor
-𘔮𗎭	ġhwaarxmmi
-𘔮𗑩	ġhwaarxnggix
-𘔮𗜈	ġhwaarxzoomx
-𘔮𗜮	ġhwaarxnllu
-𘔮𗡅	ġhwaarxdzi
-𘔮𗤋	ġhwaarxme
-𘔮𗧊	ġhwaarxtoox
-𘔮𗫩	ġhwaarxdjyr
-𘔮𗫿	ġhwaarxkwi
-𘔮𗳆	ġhwaarxlho
-𘔮𗴿	ġhwaarxkuh
-𘔮𗷖	ġhwaarxtshwiiw
-𘔮𗿒	ġhwaarxqhweex
-𘔮𗿷	ġhwaarxdjex
-𘔮𘃠	ġhwaarxnduu
-𘔮𘄽	ġhwaarxngaahx
-𘔮𘊃	ġhwaarxsehx
-𘔮𘋟	ġhwaarxriiwrx
-𘔮𘏷	ġhwaarxndi
-𘔮𘐏	ġhwaarxtih
-𘔮𘐠𘂀𘍐	ġhwaarxngwooxsexrerx
-𘔮𘐩	ġhwaarxphy
-𘔮𘕓	ġhwaarxnnoox
-𘔮𘜘	ġhwaarxrir
-𘔮𘟀	ġhwaarxlex
-𘔮𘟠	ġhwaarxdzuu
-𘔮𘟣	ġhwaarxdu
+𘔮𗅴	gghwaarxlleehx
+𘔮𗆄	gghwaarxpuh
+𘔮𗊢	gghwaarxnlly
+𘔮𗌮	gghwaarxmor
+𘔮𗎭	gghwaarxmmi
+𘔮𗑩	gghwaarxnggix
+𘔮𗜈	gghwaarxzoomx
+𘔮𗜮	gghwaarxnllu
+𘔮𗡅	gghwaarxdzi
+𘔮𗤋	gghwaarxme
+𘔮𗧊	gghwaarxtoox
+𘔮𗫩	gghwaarxdjyr
+𘔮𗫿	gghwaarxkwi
+𘔮𗳆	gghwaarxlho
+𘔮𗴿	gghwaarxkuh
+𘔮𗷖	gghwaarxtshwiiw
+𘔮𗿒	gghwaarxqhweex
+𘔮𗿷	gghwaarxdjex
+𘔮𘃠	gghwaarxnduu
+𘔮𘄽	gghwaarxngaahx
+𘔮𘊃	gghwaarxsehx
+𘔮𘋟	gghwaarxriiwrx
+𘔮𘏷	gghwaarxndi
+𘔮𘐏	gghwaarxtih
+𘔮𘐠𘂀𘍐	gghwaarxngwooxsexrerx
+𘔮𘐩	gghwaarxphy
+𘔮𘕓	gghwaarxnnoox
+𘔮𘜘	gghwaarxrir
+𘔮𘟀	gghwaarxlex
+𘔮𘟠	gghwaarxdzuu
+𘔮𘟣	gghwaarxdu
 𘔯𗐤	ngqhauuvehx
 𘔯𗨙	ngqhauulhehx
 𘔯𘄏	ngqhauudjux
 𘔱𗳕	pape
 𘔲𗆹	mmenye
-𘔲𗏨	mmeġhuur
+𘔲𗏨	mmegghuur
 𘔲𘐏	mmetih
 𘔲𘕤	mmeyux
 𘔲𘝢	mmetjhyh
@@ -34374,7 +34374,7 @@ min_phrase_weight: 100
 𘔹𗁘	byyxrerx
 𘔺𗍐	khixkhim
 𘔺𗑱	khixkax
-𘔺𗙑	khixġhaiihx
+𘔺𗙑	khixgghaiihx
 𘔺𗙓𗫱	khixlwimkham
 𘔺𗚊	khixnguur
 𘔺𗡁	khixgahx
@@ -34479,7 +34479,7 @@ min_phrase_weight: 100
 𘕒𗇂	quusaarx
 𘕒𗪾	quuquuh
 𘕓𘐏	nnooxtih
-𘕓𘔮	nnooxġhwaarx
+𘕓𘔮	nnooxgghwaarx
 𘕓𘕚	nnooxnneex
 𘕔𗀜	lyyngwuux
 𘕕𗀻	soomhtshwim
@@ -34527,10 +34527,10 @@ min_phrase_weight: 100
 𘕕𗫸	soomhyihx
 𘕕𗬥	soomhde
 𘕕𗭼	soomhswiiw
-𘕕𗰗	soomhġhaahx
-𘕕𗰗𗏁	soomhġhaahxngwyy
-𘕕𗰗𗏁𗡪	soomhġhaahxngwyytsiiwx
-𘕕𗰗𗏁𗢳	soomhġhaahxngwyythaa
+𘕕𗰗	soomhgghaahx
+𘕕𗰗𗏁	soomhgghaahxngwyy
+𘕕𗰗𗏁𗡪	soomhgghaahxngwyytsiiwx
+𘕕𗰗𗏁𗢳	soomhgghaahxngwyythaa
 𘕕𗰚	soomhnlly
 𘕕𗰜𘕲	soomhmyyrxquuhx
 𘕕𗲠	soomhngaa
@@ -34576,7 +34576,7 @@ min_phrase_weight: 100
 𘕕𘔭	soomhdzem
 𘕕𘖙	soomhnoox
 𘕕𘗝	soomhlluuh
-𘕕𘗠	soomhġhaa
+𘕕𘗠	soomhgghaa
 𘕕𘗽	soomhzohx
 𘕕𘘀	soomhnsji
 𘕕𘘔	soomhdjaw
@@ -34650,7 +34650,7 @@ min_phrase_weight: 100
 𘕡𘀕	ziiwrtsiir
 𘕡𘆡	ziiwrtshehx
 𘕢𗂧	bylhehx
-𘕢𗔼	byġhwee
+𘕢𗔼	bygghwee
 𘕢𗤶	bynne
 𘕢𗯨	byrur
 𘕢𗸆	bykhom
@@ -34681,11 +34681,11 @@ min_phrase_weight: 100
 𘕤𘕥	yuxllah
 𘕤𘜘	yuxrir
 𘕨𗆐	nsillehx
-𘕪𗭴	ġhiiwyom
-𘕪𗭴𗊛	ġhiiwyomtshiiw
-𘕪𗭴𗡝	ġhiiwyomka
-𘕪𗵿	ġhiiwmbiix
-𘕪𘅊	ġhiiwlee
+𘕪𗭴	gghiiwyom
+𘕪𗭴𗊛	gghiiwyomtshiiw
+𘕪𗭴𗡝	gghiiwyomka
+𘕪𗵿	gghiiwmbiix
+𘕪𘅊	gghiiwlee
 𘕫𗃬	ngiiwrlliix
 𘕫𘓒	ngiiwrtjyrx
 𘕬𗗑	bikuh
@@ -34757,12 +34757,12 @@ min_phrase_weight: 100
 𘕺𘖗	gudjy
 𘕺𘜴	gummax
 𘕾𗮂	nerxpho
-𘕿𗁁	ġhaaxvex
-𘕿𗄈	ġhaaxsjow
-𘕿𗫡	ġhaaxnyx
-𘕿𘂬	ġhaaxwoo
-𘕿𘆑	ġhaaxgihx
-𘕿𘕑	ġhaaxwuuh
+𘕿𗁁	gghaaxvex
+𘕿𗄈	gghaaxsjow
+𘕿𗫡	gghaaxnyx
+𘕿𘂬	gghaaxwoo
+𘕿𘆑	gghaaxgihx
+𘕿𘕑	gghaaxwuuh
 𘖁𘖁	tshaatshaa
 𘖃𗎭	vwaahxmmi
 𘖃𗼟	vwaahxsjwux
@@ -34771,7 +34771,7 @@ min_phrase_weight: 100
 𘖅𗉔	vwiitjiw
 𘖅𗬰	vwiidjix
 𘖅𗷧	vwiinduux
-𘖅𘅰	vwiiġhuu
+𘖅𘅰	vwiigghuu
 𘖉𗃮	khexdraoomx
 𘖉𗃵	khexpuhx
 𘖉𗄻	khexnwyy
@@ -34813,7 +34813,7 @@ min_phrase_weight: 100
 𘖣𘂬	qayyrwoo
 𘖦𘖥	taahxtswaar
 𘖦𘟨	taahxnomrx
-𘖧𗐴	ġhaanu
+𘖧𗐴	gghaanu
 𘖨𗉔	lomtjiw
 𘖨𗥛	lomryr
 𘖨𗥛𗴂	lomryrphaoom
@@ -34844,7 +34844,7 @@ min_phrase_weight: 100
 𘖿𗭹	nggwibaar
 𘖿𗼺	nggwindzuux
 𘖿𘖟	nggwibiih
-𘖿𘗠	nggwiġhaa
+𘖿𘗠	nggwigghaa
 𘖿𘝋	nggwidzwyx
 𘗀𗼒	nwoomxqhuu
 𘗀𗾪	nwoomxnawx
@@ -34896,36 +34896,36 @@ min_phrase_weight: 100
 𘗞𗫻	vorxndje
 𘗞𗻫	vorxvorx
 𘗞𘃡	vorxvi
-𘗠𗅉	ġhaanuo
-𘗠𗉧	ġhaatshemh
-𘗠𗎘	ġhaabux
-𘗠𗏸	ġhaama
-𘗠𗘩	ġhaanyyrx
-𘗠𗘩𗀹	ġhaanyyrxzi
-𘗠𗘩𘏸𗓽	ġhaanyyrxsrayyloo
-𘗠𗛜	ġhaaremx
-𘗠𗜈	ġhaazoomx
-𘗠𗢸	ġhaallawx
-𘗠𗣕	ġhaavih
-𘗠𗥦	ġhaaġhuu
-𘗠𗫡	ġhaanyx
-𘗠𗭖	ġhaakhyx
-𘗠𗯴𗦹	ġhaakhuvi
-𘗠𗯴𗫻𗕪	ġhaakhundjemeh
-𘗠𗲸	ġhaatyhx
-𘗠𗹶	ġhaaduu
-𘗠𗽭	ġhaaqhiiwx
-𘗠𘏒	ġhaaphaiix
-𘗠𘏦	ġhaatemh
-𘗠𘗜	ġhaagomx
-𘗠𘗝	ġhaalluuh
-𘗠𘜔	ġhaangiiwrx
+𘗠𗅉	gghaanuo
+𘗠𗉧	gghaatshemh
+𘗠𗎘	gghaabux
+𘗠𗏸	gghaama
+𘗠𗘩	gghaanyyrx
+𘗠𗘩𗀹	gghaanyyrxzi
+𘗠𗘩𘏸𗓽	gghaanyyrxsrayyloo
+𘗠𗛜	gghaaremx
+𘗠𗜈	gghaazoomx
+𘗠𗢸	gghaallawx
+𘗠𗣕	gghaavih
+𘗠𗥦	gghaagghuu
+𘗠𗫡	gghaanyx
+𘗠𗭖	gghaakhyx
+𘗠𗯴𗦹	gghaakhuvi
+𘗠𗯴𗫻𗕪	gghaakhundjemeh
+𘗠𗲸	gghaatyhx
+𘗠𗹶	gghaaduu
+𘗠𗽭	gghaaqhiiwx
+𘗠𘏒	gghaaphaiix
+𘗠𘏦	gghaatemh
+𘗠𘗜	gghaagomx
+𘗠𘗝	gghaalluuh
+𘗠𘜔	gghaangiiwrx
 𘗡𗉓	kurxphi
 𘗡𗎭	kurxmmi
 𘗡𗝂	kurxryrx
 𘗡𗹨	kurxyemx
 𘗡𘃽	kurxwoox
-𘗢𗩐	ġhaagguux
+𘗢𗩐	gghaagguux
 𘗣𗦧	duuxmerx
 𘗤𗷸	tsyryiwx
 𘗨𘚋	myyxnooh
@@ -35013,12 +35013,12 @@ min_phrase_weight: 100
 𘘃𘟘	nggighiw
 𘘄𗀐	sjwidje
 𘘄𗄭	sjwidzyhx
-𘘄𗒘𗙏	sjwiġhaeeġhaiihx
+𘘄𗒘𗙏	sjwigghaeegghaiihx
 𘘄𗕕	sjwiphyy
 𘘄𗨔	sjwiniiw
 𘘄𗷲	sjwigim
 𘘄𘁙	sjwidjwa
-𘘄𘁙𗙏	sjwidjwaġhaiihx
+𘘄𘁙𗙏	sjwidjwagghaiihx
 𘘄𘂬	sjwiwoo
 𘘄𘄮	sjwingkhy
 𘘄𘎫	sjwiki
@@ -35059,7 +35059,7 @@ min_phrase_weight: 100
 𘘚𗑟	ndzexvih
 𘘚𗤭	ndzexywim
 𘘚𗦻	ndzexmmex
-𘘚𗫦	ndzexġhaiiw
+𘘚𗫦	ndzexgghaiiw
 𘘚𗴿	ndzexkuh
 𘘚𗸱	ndzexnoox
 𘘚𗹠	ndzexrer
@@ -35115,8 +35115,8 @@ min_phrase_weight: 100
 𘘨𗒒	zyhxmiix
 𘘨𗒒𘈷	zyhxmiixgix
 𘘩𘘤	kyxdjy
-𘘪𗦁	toomġhaiihx
-𘘪𗼜	toomġhaiix
+𘘪𗦁	toomgghaiihx
+𘘪𗼜	toomgghaiix
 𘘭𗲸	vihxtyhx
 𘘭𗸀	vihxwuux
 𘘭𗸌	vihxvohx
@@ -35131,7 +35131,7 @@ min_phrase_weight: 100
 𘘯𗈶	gghaasy
 𘘯𗸚	gghaangggaa
 𘘯𘆕	gghaangggaax
-𘘯𘙄	gghaaġhwaeemx
+𘘯𘙄	gghaagghwaeemx
 𘘲𘙲	sodjo
 𘘳𗣥	nggixgomx
 𘘴𘏕	gomvwaiir
@@ -35145,8 +35145,8 @@ min_phrase_weight: 100
 𘙂𗕴	bihtsemh
 𘙂𗤢	bihbix
 𘙃𘘗	yyllihx
-𘙄𗪧	ġhwaeemxsjuh
-𘙄𗸚	ġhwaeemxngggaa
+𘙄𗪧	gghwaeemxsjuh
+𘙄𗸚	gghwaeemxngggaa
 𘙅𘙍	kuhlhuh
 𘙆𗨔	vwayyniiw
 𘙇𘂚𘘞𗳝	ryrxlloomhxqaawoo
@@ -35182,12 +35182,12 @@ min_phrase_weight: 100
 𘙜𗨕	nyyhmbaoox
 𘙜𘅙	nyyhrarx
 𘙝𗏎	nlhyybax
-𘙞𗉖𘆋	zjyrxtshemġhwoomh
+𘙞𗉖𘆋	zjyrxtshemgghwoomh
 𘙞𗜧	zjyrxmee
 𘙞𗦾	zjyrxnyu
 𘙞𗱵	zjyrxliix
 𘙞𘅓	zjyrxzoomr
-𘙞𘆋	zjyrxġhwoomh
+𘙞𘆋	zjyrxgghwoomh
 𘙞𘍦	zjyrxye
 𘙡𗕴	zrwiitsemh
 𘙡𘒣	zrwiidaahx
@@ -35204,7 +35204,7 @@ min_phrase_weight: 100
 𘙥𘙥	lhixlhix
 𘙦𗅡	sexqhayy
 𘙦𗐱	sexnix
-𘙦𗑙	sexġhaam
+𘙦𗑙	sexgghaam
 𘙦𗓪	sexswim
 𘙦𗔛	sexgwix
 𘙦𗥑	sexhuu
@@ -35236,7 +35236,7 @@ min_phrase_weight: 100
 𘙲𗧘	djovwoox
 𘙲𗧥	djozirx
 𘙲𗭘	djontsaa
-𘙲𘆋	djoġhwoomh
+𘙲𘆋	djogghwoomh
 𘙲𘌅	djoze
 𘙲𘖎	djoveh
 𘙲𘙲	djodjo
@@ -35249,7 +35249,7 @@ min_phrase_weight: 100
 𘙴𗠶	qoornzjy
 𘙵𗜈	dzuuxzoomx
 𘙶𗡶	riirxsje
-𘙶𗥦𗖅	riirxġhuuswix
+𘙶𗥦𗖅	riirxgghuuswix
 𘙶𗦳	riirxdzux
 𘙶𗹑	riirxtjem
 𘙶𘙵	riirxdzuux
@@ -35271,7 +35271,7 @@ min_phrase_weight: 100
 𘚂𗄓	laamgyhx
 𘚄𗠒	kyby
 𘚄𗷦	kybi
-𘚇𗆻	vohġhaa
+𘚇𗆻	vohgghaa
 𘚇𗋿	vohyur
 𘚇𗫻	vohndje
 𘚇𗵫	vohgeh
@@ -35354,7 +35354,7 @@ min_phrase_weight: 100
 𘚨𘚨	yomxyomx
 𘚪𘔧	dzihxguh
 𘚫𗥶	lylux
-𘚬𗥤	ġhiimtsex
+𘚬𗥤	gghiimtsex
 𘚭𗹗	vwoohggoox
 𘚯𗻞	lygux
 𘚰𗿠	lytjwiwx
@@ -35391,7 +35391,7 @@ min_phrase_weight: 100
 𘚶𗮴	lymma
 𘚶𗰞	lynaw
 𘚶𗲄	lytrhaoom
-𘚶𗴐	lyġhaar
+𘚶𗴐	lygghaar
 𘚶𗼮	lydzuhx
 𘚶𗿒	lyqhweex
 𘚶𗿧	lytsyyh
@@ -35412,7 +35412,7 @@ min_phrase_weight: 100
 𘚶𘜶	lyllehx
 𘚶𘞄	lynlly
 𘚶𘞨	lyzjehx
-𘚶𘞨𗙏	lyzjehxġhaiihx
+𘚶𘞨𗙏	lyzjehxgghaiihx
 𘚹𘚣	swygex
 𘚻𗊮	diixlaaax
 𘚻𗕣	diixtshah
@@ -35420,7 +35420,7 @@ min_phrase_weight: 100
 𘚻𗡵	diixnde
 𘚻𗴴	diixreerx
 𘚻𘅎	diixllemhx
-𘚻𘓠	diixġhaa
+𘚻𘓠	diixgghaa
 𘚽𗰻	llwyhlhix
 𘚽𗶮	llwyhngga
 𘚽𗿼	llwyhdjwom
@@ -35454,7 +35454,7 @@ min_phrase_weight: 100
 𘛂𘕧	mbexndaax
 𘛃𗁦	luuxbeh
 𘛃𗂷	luuxtwiih
-𘛃𗒐	luuxġhwaee
+𘛃𗒐	luuxgghwaee
 𘛃𗜈	luuxzoomx
 𘛃𗤢	luuxbix
 𘛃𗦻	luuxmmex
@@ -35475,7 +35475,7 @@ min_phrase_weight: 100
 𘛇𗉏	guxqwoom
 𘛇𗗓	guxgomx
 𘛇𘒉	guxnlloo
-𘛇𘔮	guxġhwaarx
+𘛇𘔮	guxgghwaarx
 𘛈𘛇	qaaagux
 𘛋𘛌	qhaaxriiwr
 𘛌𗒞	riiwrnnaax
@@ -35484,7 +35484,7 @@ min_phrase_weight: 100
 𘛐𗆹	twuuhnye
 𘛐𗑗	twuuhsee
 𘛐𗑶𗑶	twuuhziiwxziiwx
-𘛐𗒘	twuuhġhaee
+𘛐𗒘	twuuhgghaee
 𘛐𗗎	twuuhpwyr
 𘛐𗥞	twuuhnggux
 𘛐𗶠	twuuhndzuux
@@ -35497,7 +35497,7 @@ min_phrase_weight: 100
 𘛒𗅆	ngiiwrdemx
 𘛒𗇬	ngiiwrlwaamx
 𘛒𗈦	ngiiwrlhahx
-𘛒𗙏	ngiiwrġhaiihx
+𘛒𗙏	ngiiwrgghaiihx
 𘛒𗝡	ngiiwrnllaa
 𘛒𗟥	ngiiwrteh
 𘛒𗧤	ngiiwrpha
@@ -35594,13 +35594,13 @@ min_phrase_weight: 100
 𘛸𗬔	djwulhah
 𘛸𘇳	djwumma
 𘛺𗓥	bexsjomx
-𘛺𘋐	bexġhaa
+𘛺𘋐	bexgghaa
 𘛺𘖢	bexgi
 𘛺𘛦	bexse
 𘛻𗎑	ndimuurx
 𘛻𗔪	ndiqwaeeh
-𘛻𗔼	ndiġhwee
-𘛻𗙏	ndiġhaiihx
+𘛻𗔼	ndigghwee
+𘛻𗙏	ndigghaiihx
 𘛻𗡼	ndiberx
 𘛻𗬔	ndilhah
 𘛽𗁣	lluhxdzy
@@ -35611,7 +35611,7 @@ min_phrase_weight: 100
 𘛽𗎭	lluhxmmi
 𘛽𗓆	lluhxle
 𘛽𗓈	lluhxlhwuu
-𘛽𗓑	lluhxġhweerx
+𘛽𗓑	lluhxgghweerx
 𘛽𗗥	lluhxzjihx
 𘛽𗗪	lluhxngki
 𘛽𗛆	lluhxvwaarx
@@ -35631,8 +35631,8 @@ min_phrase_weight: 100
 𘛽𗹢	lluhxdohx
 𘛽𗹪	lluhxnllex
 𘛽𗹰	lluhxtjyh
-𘛽𗼜	lluhxġhaiix
-𘛽𗼜𗚜𗺉	lluhxġhaiixpuxtjhix
+𘛽𗼜	lluhxgghaiix
+𘛽𗼜𗚜𗺉	lluhxgghaiixpuxtjhix
 𘛽𘁶	lluhxdzy
 𘛽𘃪	lluhxdjwa
 𘛽𘆡	lluhxtshehx
@@ -35707,7 +35707,7 @@ min_phrase_weight: 100
 𘜘𗳆	rirlho
 𘜘𗵲	rirror
 𘜘𘜘	rirrir
-𘜛𗓆	ġhweele
+𘜛𗓆	gghweele
 𘜜𗧮	baeexdix
 𘜞𗦤	tseexnlle
 𘜞𗰣	tseexzeh
@@ -35715,7 +35715,7 @@ min_phrase_weight: 100
 𘜞𘝻𗨝	tseexqwoosjim
 𘜞𘟣	tseexdu
 𘜟𘜟	byby
-𘜤𗔼	haġhwee
+𘜤𗔼	hagghwee
 𘜤𗥞	hanggux
 𘜤𗦎	haraarx
 𘜤𗰛	hadzeh
@@ -35747,7 +35747,7 @@ min_phrase_weight: 100
 𘜳𗂎	thaaxtshemx
 𘜳𗅘	thaaxqhaam
 𘜳𗊋	thaaxtsix
-𘜳𗑙	thaaxġhaam
+𘜳𗑙	thaaxgghaam
 𘜳𗚿	thaaxliwx
 𘜳𗣆	thaaxtshax
 𘜳𗤩	thaaxghwam
@@ -35800,8 +35800,8 @@ min_phrase_weight: 100
 𘜶𗩟	llehxtjeh
 𘜶𗪚	llehxduu
 𘜶𗫔	llehxyi
-𘜶𗫦	llehxġhaiiw
-𘜶𗫦𗆧𗹢𗨮	llehxġhaiiwsiwdohxkahx
+𘜶𗫦	llehxgghaiiw
+𘜶𗫦𗆧𗹢𗨮	llehxgghaiiwsiwdohxkahx
 𘜶𗫨	llehxdwiiwrx
 𘜶𗫨𗤛	llehxdwiiwrxtjom
 𘜶𗭍	llehxdjeh
@@ -35907,9 +35907,9 @@ min_phrase_weight: 100
 𘝏𗋑	djuxdemhx
 𘝏𗖟	djuxkah
 𘝏𗠜	djuxbix
-𘝏𗥦𗰞	djuxġhuunaw
+𘝏𗥦𗰞	djuxgghuunaw
 𘝏𗴂	djuxphaoom
-𘝔𗔩	sjwuġheehx
+𘝔𗔩	sjwuggheehx
 𘝕𗮖	neexsjwix
 𘝖𗓪	yiwswim
 𘝖𘙆	yiwvwayy
@@ -35946,7 +35946,7 @@ min_phrase_weight: 100
 𘝚𘑬	kwyrdwiiwrx
 𘝚𘒏	kwyrga
 𘝚𘓐	kwyrdzwox
-𘝚𘔮	kwyrġhwaarx
+𘝚𘔮	kwyrgghwaarx
 𘝚𘕋	kwyrdjihx
 𘝚𘗫	kwyrllaah
 𘝚𘝛	kwyrtjhuo
@@ -35964,7 +35964,7 @@ min_phrase_weight: 100
 𘝞𗍶	ywyrxdzemx
 𘝞𗏇	ywyrxdix
 𘝞𗓦	ywyrxndwuux
-𘝞𗔼	ywyrxġhwee
+𘝞𗔼	ywyrxgghwee
 𘝞𗗈	ywyrxdoo
 𘝞𗗚	ywyrxgomx
 𘝞𗗚𘏨𗖵	ywyrxgomxllyhbu
@@ -35973,7 +35973,7 @@ min_phrase_weight: 100
 𘝞𗧁	ywyrxrerx
 𘝞𗧘	ywyrxvwoox
 𘝞𗪛	ywyrxdjwom
-𘝞𗫦	ywyrxġhaiiw
+𘝞𗫦	ywyrxgghaiiw
 𘝞𗭍	ywyrxdjeh
 𘝞𗴢	ywyrxmbu
 𘝞𗵫	ywyrxgeh
@@ -35988,7 +35988,7 @@ min_phrase_weight: 100
 𘝞𘓷	ywyrxqwyyr
 𘝞𘘚	ywyrxndzex
 𘝞𘝦	ywyrxdjy
-𘝞𘟫	ywyrxġhaah
+𘝞𘟫	ywyrxgghaah
 𘝟𘍴	sjwyllih
 𘝠𘊓	thyxlaa
 𘝢𗚜	tjhyhpux
@@ -36002,8 +36002,8 @@ min_phrase_weight: 100
 𘝦𗧗	djytjhwem
 𘝦𗨯	djytjyrx
 𘝦𗩯	djyswe
-𘝦𗫦	djyġhaiiw
-𘝦𗫦𘍞	djyġhaiiwwooh
+𘝦𗫦	djygghaiiw
+𘝦𗫦𘍞	djygghaiiwwooh
 𘝦𗭍	djydjeh
 𘝦𗮀	djybu
 𘝦𗳆	djylho
@@ -36026,13 +36026,13 @@ min_phrase_weight: 100
 𘝨𗜄	zohxyox
 𘝪𗇂	djomsaarx
 𘝪𗈜	djomqaax
-𘝪𗎅	djomġhoorx
+𘝪𗎅	djomgghoorx
 𘝫𘝭	--zyrx
 𘝬𗕵	leexdjwaw
 𘝬𗞽	leexbaaa
 𘝬𘅙	leexrarx
 𘝬𘌨	leexllahx
-𘝮𗙏	llwuuhġhaiihx
+𘝮𗙏	llwuuhgghaiihx
 𘝮𗙡	llwuuhqwaar
 𘝮𗤯	llwuuhdzihx
 𘝮𘍦	llwuuhye
@@ -36065,9 +36065,9 @@ min_phrase_weight: 100
 𘝵𗐱	yenix
 𘝵𗒼	yeqhweeh
 𘝵𗔀	yeva
-𘝵𗔼	yeġhwee
+𘝵𗔼	yegghwee
 𘝵𗕪	yemeh
-𘝵𗕱	yeġhaii
+𘝵𗕱	yegghaii
 𘝵𗕴	yetsemh
 𘝵𗕼	yelux
 𘝵𗖖	yenyh
@@ -36093,8 +36093,8 @@ min_phrase_weight: 100
 𘝵𗨳	yetih
 𘝵𗩍	yenvwyy
 𘝵𗩱	yenwix
-𘝵𗪺𗅋𗆄	yeġhaiimipuh
-𘝵𗪺𗅋𘐷	yeġhaiimingqaar
+𘝵𗪺𗅋𗆄	yegghaiimipuh
+𘝵𗪺𗅋𘐷	yegghaiimingqaar
 𘝵𗫌	yeni
 𘝵𗬀	yelwuux
 𘝵𗭍	yedjeh
@@ -36131,7 +36131,7 @@ min_phrase_weight: 100
 𘝵𘓯	yekhom
 𘝵𘓷	yeqwyyr
 𘝵𘔢	yeqhwaah
-𘝵𘔮	yeġhwaarx
+𘝵𘔮	yegghwaarx
 𘝵𘕋	yedjihx
 𘝵𘙂	yebih
 𘝵𘙡	yezrwii
@@ -36144,7 +36144,7 @@ min_phrase_weight: 100
 𘝵𘟂	yengwuux
 𘝵𘟠	yedzuu
 𘝶𗋐	thextjhu
-𘝶𗒘	thexġhaee
+𘝶𗒘	thexgghaee
 𘝶𗦜	thexsox
 𘝶𗩱	thexnwix
 𘝶𗳒	thexngwuux
@@ -36179,7 +36179,7 @@ min_phrase_weight: 100
 𘝻𘇥	qwoophoomhx
 𘝻𘌴	qwoohwaeem
 𘝻𘚐	qwoosoom
-𘝻𘚬	qwooġhiim
+𘝻𘚬	qwoogghiim
 𘝾𗁀	lixqoo
 𘝾𗁀𗦆	lixqootsim
 𘝾𗁀𘝿	lixqoolix
@@ -36226,7 +36226,7 @@ min_phrase_weight: 100
 𘞆𗥫	biye
 𘞆𘋳	bigwix
 𘞆𘘯	bigghaa
-𘞆𘙄	biġhwaeemx
+𘞆𘙄	bigghwaeemx
 𘞈𗣧	taamphoo
 𘞈𗥑	taamhuu
 𘞈𗨝	taamsjim
@@ -36235,7 +36235,7 @@ min_phrase_weight: 100
 𘞌𗃮	zjyrdraoomx
 𘞌𗆤	zjyrdjihx
 𘞌𗏗	zjyrdj-
-𘞌𗒘	zjyrġhaee
+𘞌𗒘	zjyrgghaee
 𘞌𗒾	zjyrmiix
 𘞌𗜈	zjyrzoomx
 𘞌𗤶	zjyrnne
@@ -36270,7 +36270,7 @@ min_phrase_weight: 100
 𘞙𗴛	gehtjwomx
 𘞙𗸒𗣼𗴽𗨮	gehsuutjhaxlomkahx
 𘞙𗸩	gehlleh
-𘞙𗼜	gehġhaiix
+𘞙𗼜	gehgghaiix
 𘞙𘃸	gehlleh
 𘞙𘋛	gehbem
 𘞙𘕤	gehyux
@@ -36281,7 +36281,7 @@ min_phrase_weight: 100
 𘞚𗼄	mbetraiir
 𘞝𗂸	dzwybix
 𘞝𗢯	dzwylhwa
-𘞝𗪝	dzwyġhwaeeh
+𘞝𗪝	dzwygghwaeeh
 𘞝𘒣	dzwydaahx
 𘞝𘓐	dzwydzwox
 𘞝𘓟	dzwydraeex
@@ -36290,12 +36290,12 @@ min_phrase_weight: 100
 𘞤𘌜	loomxpaii
 𘞩𘂟	nlludiiw
 𘞪𗃣	tehrirx
-𘞪𗆻	tehġhaa
+𘞪𗆻	tehgghaa
 𘞪𗊞	tehgi
 𘞪𗑗	tehsee
 𘞪𗖌	tehgyx
 𘞪𗢾	tehkwemhx
-𘞪𗪺	tehġhaii
+𘞪𗪺	tehgghaii
 𘞪𗫻	tehndje
 𘞪𗸯	tehdjwu
 𘞪𘈩	tehliiw
@@ -36304,10 +36304,10 @@ min_phrase_weight: 100
 𘞪𘞧	tehnlhiiwx
 𘞪𘞪	tehteh
 𘞫𘞫	giwrxgiwrx
-𘞫𘞬	giwrxġhwiim
-𘞭𗆻	twarġhaa
+𘞫𘞬	giwrxgghwiim
+𘞭𗆻	twargghaa
 𘞭𗢾	twarkwemhx
-𘞭𘁠	twarġhaa
+𘞭𘁠	twargghaa
 𘞯𗉳	djihqwaahx
 𘞯𗿒	djihqhweex
 𘞱𗭢	vixtjhwiwx
@@ -36338,14 +36338,14 @@ min_phrase_weight: 100
 𘟈𗖟	ntjyxkah
 𘟋𗥓	zaarngoox
 𘟋𘎒	zaartjhwiwx
-𘟌𗥦	tsaarġhuu
+𘟌𗥦	tsaargghuu
 𘟌𗰞	tsaarnaw
 𘟌𗴂	tsaarphaoom
 𘟌𗺉	tsaartjhix
 𘟌𘕰	tsaarphuux
 𘟌𘟋	tsaarzaar
 𘟍𗲵	zraiixliix
-𘟏𗪺	biġhaii
+𘟏𗪺	bigghaii
 𘟏𘊈	binomrx
 𘟑𗀇	haamxgom
 𘟑𗁀𘈫	haamxqoowuux
@@ -36354,7 +36354,7 @@ min_phrase_weight: 100
 𘟑𗂧	haamxlhehx
 𘟑𗋽	haamxzyrx
 𘟑𗐨	haamxsraii
-𘟑𗑙𘋨	haamxġhaamdzwy
+𘟑𗑙𘋨	haamxgghaamdzwy
 𘟑𗘬𘋨	haamxswadzwy
 𘟑𗘺𘋨	haamxmedzwy
 𘟑𗙔𘋨	haamxhwaamdzwy
@@ -36381,13 +36381,13 @@ min_phrase_weight: 100
 𘟑𘍑𘋨	haamxlemdzwy
 𘟑𘒏	haamxga
 𘟑𘔞𘋨	haamxhoomdzwy
-𘟑𘕪𘋨	haamxġhiiwdzwy
+𘟑𘕪𘋨	haamxgghiiwdzwy
 𘟑𘝞	haamxywyrx
 𘟔𗌉	nlhineer
 𘟔𗡡	nlhinvwyy
 𘟔𘆓	nlhilhax
 𘟗𗅷	qoomrxdraeem
-𘟗𗙏	qoomrxġhaiihx
+𘟗𗙏	qoomrxgghaiihx
 𘟙𗂸	nexbix
 𘟙𗅲	nextemhx
 𘟙𗍁	nexvwiix
@@ -36421,7 +36421,7 @@ min_phrase_weight: 100
 𘟞𘐬	byrboox
 𘟞𘘄	byrsjwi
 𘟞𘞯	byrdjih
-𘟞𘟫	byrġhaah
+𘟞𘟫	byrgghaah
 𘟟𗘵	khekhix
 𘟠𗂆	dzuuzeh
 𘟠𗅴	dzuulleehx
@@ -36478,7 +36478,7 @@ min_phrase_weight: 100
 𘟥𗋿	byyxyur
 𘟥𗐅	byyxbe
 𘟥𗔨	byyxtrayyx
-𘟥𗙏	byyxġhaiihx
+𘟥𗙏	byyxgghaiihx
 𘟥𗦻	byyxmmex
 𘟥𗧹	byyxgir
 𘟥𗲢	byyxlluuh
@@ -36518,32 +36518,32 @@ min_phrase_weight: 100
 𘟪𘇗	sjomluux
 𘟪𘇳	sjommma
 𘟪𘍑𗗧	sjomlemqaaa
-𘟪𘏐	sjomġhwaii
+𘟪𘏐	sjomgghwaii
 𘟪𘔭	sjomdzem
-𘟪𘖧	sjomġhaa
+𘟪𘖧	sjomgghaa
 𘟪𘖹	sjomlhyyx
 𘟪𘖻	sjomtrhwaaa
 𘟪𘗏	sjomdzwyy
 𘟪𘛇	sjomgux
-𘟫𗂋	ġhaahnar
-𘟫𗂍	ġhaahnlhi
-𘟫𗜈	ġhaahzoomx
-𘟫𗜓	ġhaahsjax
-𘟫𗥦	ġhaahġhuu
-𘟫𗾤	ġhaahghu
-𘟫𗾾	ġhaahrirx
-𘟫𗿒	ġhaahqhweex
-𘟫𘉀	ġhaahtser
-𘟫𘉡	ġhaahpuh
-𘟫𘓓	ġhaahnvwyy
-𘟫𘗁	ġhaahdjax
-𘟫𘝋	ġhaahdzwyx
-𘟫𘝦	ġhaahdjy
-𘟬𗥦	vihġhuu
+𘟫𗂋	gghaahnar
+𘟫𗂍	gghaahnlhi
+𘟫𗜈	gghaahzoomx
+𘟫𗜓	gghaahsjax
+𘟫𗥦	gghaahgghuu
+𘟫𗾤	gghaahghu
+𘟫𗾾	gghaahrirx
+𘟫𗿒	gghaahqhweex
+𘟫𘉀	gghaahtser
+𘟫𘉡	gghaahpuh
+𘟫𘓓	gghaahnvwyy
+𘟫𘗁	gghaahdjax
+𘟫𘝋	gghaahdzwyx
+𘟫𘝦	gghaahdjy
+𘟬𗥦	vihgghuu
 𘟬𘇛	vihpemh
 𘟮𘟯	----
-𘟱𗥦	noohxġhuu
-𘴂𗹧	ġhuumyy
+𘟱𗥦	noohxgghuu
+𘴂𗹧	gghuumyy
 𘴃𗳩	buxwoo
 𘴃𗾭	buxnex
 𘴆𗹭	qweebex
