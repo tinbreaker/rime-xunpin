@@ -32,7 +32,7 @@ Xunpin is a phonetic input method designed for typing Tangut characters. It uses
 - `sr` = `ṣ`
 - `zr` = `ẓ`
 - `nr` = `ṇ`
-- `gh` = `γ`
+- `gg` = `ġh`
 - `gg` = `ġ`
 - `ng` = `ŋ`
 - `m` = `ṃ`
